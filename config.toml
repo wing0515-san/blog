@@ -106,16 +106,10 @@ darkmode = "light"
     weight = 4
 
   [[menu.main]]
-    identifier = "golden"
-    name = "mod|金手指"
-    url = "/tool/"
-    weight = 5
-
-  [[menu.main]]
     identifier = "gameStrategy"
     name = "攻略"
     url = "/Strategy/"
-    weight = 6  
+    weight = 5  
 
   [[menu.main]]
     identifier = "gameInformation"
@@ -127,8 +121,7 @@ darkmode = "light"
     identifier = "about"
     name = "关于本站"
     url = "/about/"
-    weight = 6      
-
+    weight = 7      
 
 
 [taxonomies]
