@@ -1,92 +1,132 @@
-baseURL = "http://example.org/"
-defaultContentLanguage = "zh"
-languageCode = "zh-Hans"
-title = "g1eny0ung 的博客"
-theme = "dream"
-
-enableGitInfo = true
+baseURL = "https://example.com"
+title = "Blonde"
+author = "wamo"
+languageCode = "en"
+DefaultContentLanguage = "en"
+enableInlineShortcodes = true
+theme = "Blonde"
 enableRobotsTXT = true
 
-hasCJKLanguage = true
+# Please enable this feature if the site is available in Japanese, Chinese or Korean.
+#hasCJKLanguage = true
 
-[services]
-[services.disqus]
-shortname = "g1eny0ung"
-[services.googleAnalytics]
-ID = "G-K6V0YY3HWS"
+# If you're using Google Analytics, you can enable this feature.
+#googleAnalytics = "G-1234567890"
 
-[markup]
-[markup.goldmark.parser]
-wrapStandAloneImageWithinParagraph = false
-[markup.goldmark.parser.attribute]
-block = true
-[markup.goldmark.renderer]
-unsafe = true
-[markup.highlight]
-noClasses = false
-
-# [taxonomies]
-# category = "categories"
-# tag = "tags"
-# series = "series"
+# Disqus Comment System
+#disqusShortname = ""
 
 [params]
-# zenMode = true
+# Base color of the website.
+# https://tailwindcss.com/docs/background-color
+base_color = "bg-gray-800"
 
-# backgroundImage = "me/background.jpg"
-# backgroundImageDark = ""
+#Site description
+description = "Blonde theme for Hugo."
 
-images = ["me/background.jpg"]
+# The number of articles to be displayed on a single page.
+paginator_pages = "5"
 
-author = "g1eny0ung"
-description = "The life record of g1eny0ung is presented here."
-avatar = "me/yy.jpg"
-headerTitle = "g1eny0ung 的博客"
-motto = "与其感慨路难行，不如马上出发。"
+# Enable this if you want the archive list to be in a drop-down format.
+archive_dropdown = "false"
 
-# footerBottomText = ""
+# Number of tags to be displayed.
+tagsLimit = 20
 
-rss = true
+# Dark mode by default : dark
+# Light mode by default : light
+darkmode = "light"
 
-utterancesRepo = "g1eny0ung/g1eny0ung.github.io"
+  [params.ad]
+    # Google AdSense
+    # ex. ca-pub-0000000000000000
+    googleAdSense = ""
 
-# valine = true
-# LEANCLOUD_APP_ID = ""
-# LEANCLOUD_APP_KEY = ""
+    # ex. 000000000
+    adslot = ""
 
-# waline = true
-# walineServer = ""
+    # Placement of ads
+    postTop = false
+    postBottom = false
 
-email = "g1enyy0ung@gmail.com"
+  [params.post]
+    # Show thumbnails
+    thumbnail = true
 
-siteStartYear = 2016
+    # Disable the "NO IMAGE" image.
+    noimage = true
 
-favicon = "favicon.ico"
+    # See the Tailwind CSS documentation to set it up.
+    # Recommended settings are h-32 to h-48.
+    # https://tailwindcss.com/docs/height
+    thumbnail_height = "lg:h-44"
 
-# Syntax highlighting
-customSyntaxHighlighting = true
+    # https://tailwindcss.com/docs/width
+    thumbnail_width = "lg:w-auto"
 
-# options
-stickyNav = true
-reorderNavItems = ["search", "github", "posts", "categories", "tags", "rss"]
-collapseNavItems = ["posts", "categories", "tags", "rss"]
-# noDefaultSummaryCover = true
-showTableOfContents = true
-showSummaryCoverInPost = true
-showPrevNextPost = true
-# reorderShares = ["x", "facebook", "whatsapp"]
+    # Number of characters in description
+    description = "130"
 
-[params.social]
-twitter = "g1eny0ung"
+  [params.widgets]
+    # Display widgets
+    display = true
 
-[params.navItems]
-github = { href = "https://github.com/g1eny0ung", target = "_blank", icon = "logo-github", title = "GitHub" }
+    # Order of widgets to display
+    widgets = ["search", "archive", "category", "tags", "recent"]
 
-[params.advanced]
-customCSS = ["css/custom.css"]
-# customJS = []
+# If you're using Yandex.Metrica, you can enable this feature.
+#[params.analytics.yandexmetrica]
+#    enabled = true
+#    tagNumber = ''
 
-[params.experimental]
-jsDate = true
-jsDateFormat = "yyyy年MM月dd日"
-# jsDateFormat = "yyyy年MM月dd日，cccc"
+[menu]
+
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 3
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+archive = "archives"
+
+[privacy]
+
+  [privacy.vimeo]
+    disabled = false
+    simple = true
+
+  [privacy.twitter]
+    disabled = false
+    enableDNT = true
+    simple = true
+
+  [privacy.instagram]
+    disabled = false
+    simple = true
+
+  [privacy.youtube]
+    disabled = false
+    privacyEnhanced = true
+
+[services]
+
+  [services.instagram]
+    disableInlineCSS = true
+
+  [services.twitter]
+    disableInlineCSS = true
