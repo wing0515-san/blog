@@ -83,21 +83,53 @@ darkmode = "light"
 
   [[menu.main]]
     identifier = "home"
-    name = "Home"
+    name = "首页"
     url = "/"
     weight = 1
 
   [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
+    identifier = "Switchgame"
+    name = "switch游戏下载"
+    url = "/switchgame/"
     weight = 2
 
   [[menu.main]]
-    identifier = "contact"
-    name = "Contact"
-    url = "/contact/"
+    identifier = "PCgame"
+    name = "pc游戏下载"
+    url = "/pcgame/"
     weight = 3
+
+  [[menu.main]]
+    identifier = "gametool"
+    name = "mod|金手指"
+    url = "/tool/"
+    weight = 4
+
+  [[menu.main]]
+    identifier = "golden"
+    name = "mod|金手指"
+    url = "/tool/"
+    weight = 5
+
+  [[menu.main]]
+    identifier = "gameStrategy"
+    name = "攻略"
+    url = "/Strategy/"
+    weight = 6  
+
+  [[menu.main]]
+    identifier = "gameInformation"
+    name = "最新资讯"
+    url = "/Strategy/"
+    weight = 6      
+
+  [[menu.main]]
+    identifier = "about"
+    name = "关于本站"
+    url = "/about/"
+    weight = 6      
+
+
 
 [taxonomies]
 category = "categories"
