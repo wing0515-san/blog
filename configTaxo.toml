@@ -2,9 +2,9 @@ timeout = 30000
 enableInlineShortcodes = true
 
 [taxonomies]
-category = "categories"
-tag = "tags"
-archives = "archives"
+category = "switch游戏推荐"
+tag = "游戏类型"
+archives = "最近更新"
 
 [privacy]
 
