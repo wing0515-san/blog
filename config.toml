@@ -19,7 +19,7 @@ enableRobotsTXT = true
 [params]
 # Base color of the website.
 # https://tailwindcss.com/docs/background-color
-base_color = "bg-gray-800"
+base_color = "bg-blue-400"
 
 #Site description
 description = "Blonde theme for Hugo."
@@ -72,7 +72,7 @@ darkmode = "light"
     display = true
 
     # Order of widgets to display
-    widgets = ["search", "archive", "category", "tags", "recent"]
+    widgets = ["search", "archive", "switch游戏推荐", "游戏类型", "最近更新"]
 
 # If you're using Yandex.Metrica, you can enable this feature.
 #[params.analytics.yandexmetrica]
@@ -88,14 +88,20 @@ darkmode = "light"
     weight = 1
 
   [[menu.main]]
+    identifier = "newgame"
+    name = "最新更新"
+    url = "/newgame/"
+    weight = 2
+
+  [[menu.main]]
     identifier = "Switchgame"
-    name = "switch游戏下载"
+    name = "SWITCH游戏下载"
     url = "/switchgame/"
     weight = 2
 
   [[menu.main]]
     identifier = "PCgame"
-    name = "pc游戏下载"
+    name = "PC游戏下载"
     url = "/pcgame/"
     weight = 3
 
