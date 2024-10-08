@@ -3,4 +3,3 @@
   {{- $.Scratch.Add "index" (dict "title" .Title "permalink" .Permalink "content" .Plain "summary" .Summary) -}}
 {{- end -}}
 {{- $.Scratch.Get "index" | jsonify -}}
-
