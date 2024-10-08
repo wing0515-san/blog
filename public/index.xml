@@ -176,5 +176,12 @@
       <guid>http://localhost:1313/contact/</guid>
       <description>&lt;div class=&#34;content&#34;&gt;&#xD;&#xA;    &lt;p class=&#34;mb-2&#34;&gt;To contact us, please fill out the form below.&lt;/p&gt;&#xD;&#xA;    &lt;form name=contact action=&#34;https://getform.io/f/4bc32c7d-2c91-4c4d-bacf-a8c1bccf1de9&#34; method=post&gt;&#xD;&#xA;    &lt;div class=&#34;mb-4&#34;&gt;&#xD;&#xA;         &lt;input type=text placeholder=&#34;Your Name&#34; name=name class=&#34;w-full p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500 dark:bg-warmgray-700 dark:border-warmgray-700 dark:focus:bg-warmgray-800&#34; required&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;    &lt;div class=&#34;mb-4&#34;&gt;&#xD;&#xA;        &lt;input type=text placeholder=&#34;Email Address&#34; name=mail class=&#34;w-full p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500 dark:bg-warmgray-700 dark:border-warmgray-700 dark:focus:bg-warmgray-800&#34; required&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;    &lt;div class=&#34;mb-4&#34;&gt;&#xD;&#xA;        &lt;input type=text placeholder=&#34;Subject&#34; name=title class=&#34;w-full p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500 dark:bg-warmgray-700 dark:border-warmgray-700 dark:focus:bg-warmgray-800&#34; required&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;    &lt;div class=&#34;mb-4&#34;&gt;&#xD;&#xA;        &lt;textarea rows=5 cols=30 placeholder=&#34;Message&#34; name=message class=&#34;w-full p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500 dark:bg-warmgray-700 dark:border-warmgray-700 dark:focus:bg-warmgray-800&#34; required&gt;&lt;/textarea&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;    &lt;input type=submit value=&#34;Submit&#34; class=&#34;w-full button duration-100 py-2 bg-gray-800 text-white cursor-pointer transition-colors hover:bg-gray-600&#34;&gt;&#xD;&#xA;    &lt;/form&gt;&#xD;&#xA;&lt;/div&gt;</description>
     </item>
+    <item>
+      <title>Search Results</title>
+      <link>http://localhost:1313/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/search/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
