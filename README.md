@@ -17,3 +17,7 @@ To get started with Hugo for deployment with Vercel, you can use the [Hugo CLI](
 ```shell
 $ hugo new site project-name
 ```
+
+
+## 运行代码预览
+npm run watch:hugo
