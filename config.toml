@@ -164,6 +164,3 @@ archive = "archives"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
-
-[params]
-  ignoreErrors = ["error-remote-getjson"]
