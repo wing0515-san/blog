@@ -1,0 +1,23 @@
+{{ define "main" }}
+	<section>
+	  <div>
+		<form action="{{ "search" | absURL }}">
+		  <input id="search-query" name="s"/>
+		</form>
+		<div id="search-results">
+		 <h3 id="search-results-info">Matching pages</h3>
+		</div>
+	  </div>
+	</section>
+	<script id="search-result-template" type="text/x-js-template">
+	  <div id="summary-${key}" class="search_list">
+		<h4><a href="${link}">${title}</a></h4>
+		<p>${snippet}</p>
+		<small>
+			${ isset tags }<div><b>标签:</b> ${tags}</div>${ end }
+			${ isset categories }<div><b>类别:</b> ${categories}</div>${ end }
+			<span class="post-time"><b>时间:</b> ${date}</span>
+		</small>
+	  </div>
+	</script>
+{{ end }}

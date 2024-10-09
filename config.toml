@@ -17,6 +17,7 @@ enableRobotsTXT = true
 #disqusShortname = ""
 
 [params]
+fastSearch = true
 # Base color of the website.
 # https://tailwindcss.com/docs/background-color
 base_color = "bg-blue-400"
@@ -112,21 +113,21 @@ darkmode = "light"
     weight = 4
 
   [[menu.main]]
-    identifier = "gameStrategy"
-    name = "攻略"
-    url = "/Strategy/"
-    weight = 5  
-
-  [[menu.main]]
     identifier = "gameInformation"
     name = "最新资讯"
-    url = "/Strategy/"
-    weight = 6      
+    url = "/gameInformation/"
+    weight = 5  
 
   [[menu.main]]
     identifier = "about"
     name = "关于本站"
     url = "/about/"
+    weight = 6      
+
+  [[menu.main]]
+    identifier = "search"
+    name = "搜索"
+    url = "/search/"
     weight = 7      
 
 
@@ -163,4 +164,5 @@ archive = "archives"
     disableInlineCSS = true
 
 [outputs]
+  # 增加 JSON 配置
   home = ["HTML", "RSS", "JSON"]
