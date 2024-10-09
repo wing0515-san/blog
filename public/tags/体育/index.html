@@ -48,11 +48,7 @@
     <i class="dark hidden"></i>
 </head>
 <body class="font-sans">
-    <div class="min-h-screen flex flex-col bg-gray-100 dark:bg-warmgray-800">
-<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6"></script>
-<input id="searchInput" type="text" placeholder="Search..." class="w-full p-3 border rounded-lg">
-<div id="searchResults"></div>
-<div class="bg-blue-400">
+    <div class="min-h-screen flex flex-col bg-gray-100 dark:bg-warmgray-800"><div class="bg-blue-400">
     <div class="container max-w-screen-xl mr-auto ml-auto">
         <nav class="flex items-center justify-between flex-wrap bg-blue-400 p-6">
             <div class="flex items-center flex-no-shrink bg-blue-400 text-white mr-6">
@@ -387,51 +383,6 @@
         localStorage.theme = 'dark'
       }
     }
-      
-    async function search() {
-      const response = await fetch('/search.json');
-      const data = await response.json();
-
-      
-      const options = {
-        keys: ['title', 'summary', 'content'],  
-        threshold: 0.3  
-      };
-
-      const fuse = new Fuse(data, options);
-
-      
-      const searchInput = document.getElementById('searchInput');
-      const searchResults = document.getElementById('searchResults');
-
-      
-      searchInput.addEventListener('input', function() {
-        const query = searchInput.value;
-        const results = fuse.search(query);  
-
-        
-        searchResults.innerHTML = '';
-
-        
-        if (results.length > 0) {
-          results.forEach(result => {
-            const item = document.createElement('div');
-            item.innerHTML = `
-              <a href="${result.item.permalink}">
-                <h2 class="font-bold text-lg">${result.item.title}</h2>
-                <p>${result.item.summary}</p>
-              </a>
-            `;
-            searchResults.appendChild(item);
-          });
-        } else {
-          searchResults.innerHTML = '<p>No results found</p>';
-        }
-      });
-    }
-
-    
-    search();
   </script>
 </footer></div>
 </body>

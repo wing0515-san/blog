@@ -84,50 +84,5 @@
         localStorage.theme = 'dark'
       }
     }
-      // 加载 search.json 文件
-    async function search() {
-      const response = await fetch('/search.json');
-      const data = await response.json();
-
-      // 设置 Fuse.js 搜索选项
-      const options = {
-        keys: ['title', 'summary', 'content'],  // 设定可以搜索的字段
-        threshold: 0.3  // 搜索精度，越低越精确
-      };
-
-      const fuse = new Fuse(data, options);
-
-      // 获取输入框和搜索结果的容器
-      const searchInput = document.getElementById('searchInput');
-      const searchResults = document.getElementById('searchResults');
-
-      // 搜索输入框监听输入事件
-      searchInput.addEventListener('input', function() {
-        const query = searchInput.value;
-        const results = fuse.search(query);  // 使用 Fuse.js 搜索
-
-        // 清空之前的搜索结果
-        searchResults.innerHTML = '';
-
-        // 展示搜索结果
-        if (results.length > 0) {
-          results.forEach(result => {
-            const item = document.createElement('div');
-            item.innerHTML = `
-              <a href="${result.item.permalink}">
-                <h2 class="font-bold text-lg">${result.item.title}</h2>
-                <p>${result.item.summary}</p>
-              </a>
-            `;
-            searchResults.appendChild(item);
-          });
-        } else {
-          searchResults.innerHTML = '<p>No results found</p>';
-        }
-      });
-    }
-
-    // 初始化搜索功能
-    search();
   </script>
 </footer>
