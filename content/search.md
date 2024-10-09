@@ -42,12 +42,9 @@ i.e. add `category`
 \```
 
 ### Edit fuse.js options to Search
-`static/js/search.js`
+`/static/js/search.js`
 \```
 keys: [
-  "title",
-  "contents",
-  "tags",
-  "categories"
+  "title"
 ]
 \```
