@@ -161,3 +161,9 @@ archive = "archives"
 
   [services.twitter]
     disableInlineCSS = true
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[params]
+  ignoreErrors = ["error-remote-getjson"]
