@@ -17,7 +17,7 @@ enableRobotsTXT = true
 #disqusShortname = ""
 
 [params]
-fastSearch = true
+search = true
 # Base color of the website.
 # https://tailwindcss.com/docs/background-color
 base_color = "bg-blue-400"
@@ -98,38 +98,37 @@ darkmode = "light"
     identifier = "Switchgame"
     name = "SWITCH游戏下载"
     url = "/switchgame/"
-    weight = 2
+    weight = 3
 
   [[menu.main]]
     identifier = "PCgame"
     name = "PC游戏下载"
     url = "/pcgame/"
-    weight = 3
+    weight = 4
 
   [[menu.main]]
     identifier = "gametool"
     name = "mod|金手指"
     url = "/tool/"
-    weight = 4
+    weight = 5
 
   [[menu.main]]
     identifier = "gameInformation"
     name = "最新资讯"
     url = "/gameInformation/"
-    weight = 5  
+    weight = 6  
 
   [[menu.main]]
     identifier = "about"
     name = "关于本站"
     url = "/about/"
-    weight = 6      
-
-  [[menu.main]]
-    identifier = "search"
-    name = "搜索"
-    url = "/search/"
     weight = 7      
 
+  [[menu.main]]
+    name = "搜索"
+    identifier = "search"
+    url = "/search/"
+    weight = 8
 
 [taxonomies]
 category = "categories"
@@ -165,4 +164,4 @@ archive = "archives"
 
 [outputs]
   # 增加 JSON 配置
-  home = ["HTML", "RSS", "JSON"]
+home = ["HTML", "RSS", "JSON"]

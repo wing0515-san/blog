@@ -21,6 +21,7 @@
     "tailwindcss": "^3.1.8"
   },
   "dependencies": {
+    "hugo-lunr-diaspora": "^1.0.0",
     "lunr": "^2.3.9"
   }
 }
