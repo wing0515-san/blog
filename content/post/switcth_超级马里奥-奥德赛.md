@@ -1,7 +1,7 @@
 ---
 author: "SanYue"
 title: "Switch 超级马里奥-奥德赛[1.3|XCI]"
-image: "img/spmlaads.jpg"
+image: "/img/spmlaads.jpg"
 draft: false
 date: 2024-09-30
 description: "Switch 超级马里奥-奥德赛"

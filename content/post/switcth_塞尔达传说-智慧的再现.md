@@ -1,7 +1,7 @@
 ---
 author: "SanYue"
 title: "Switch 塞尔达传说-智慧的再现[1.0.1|XCI]"
-image: "img/zhzx.jpg"
+image: "/img/zhzx.jpg"
 draft: false
 date: 2024-09-30
 description: "Switch 塞尔达传说-智慧的再现"

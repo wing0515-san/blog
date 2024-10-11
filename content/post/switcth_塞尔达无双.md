@@ -1,7 +1,7 @@
 ---
 author: "SanYue"
 title: "Switch 塞尔达无双-海海拉鲁全明星[1.0.1|XCI]"
-image: "img/1_hk.jpg"
+image: "/img/1_hk.jpg"
 draft: false
 date: 2024-09-30
 description: "Switch 塞尔达无双-海拉鲁全明星"

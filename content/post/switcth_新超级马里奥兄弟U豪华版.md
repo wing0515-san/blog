@@ -1,7 +1,7 @@
 ---
 author: "SanYue"
 title: "Switch 新超级马里奥兄弟U豪华版[1.0|XCI]"
-image: "img/mlo.png"
+image: "/img/mlo.png"
 draft: false
 date: 2024-09-30
 description: "Switch 新超级马里奥兄弟U豪华版"

@@ -35,6 +35,7 @@ i.e. add `category`
 \```
 ...
 "contents":{{ .Content | plainify | jsonify }}
+"image": {{ .Params.image | jsonify }}
 {{ if .Params.tags }},
 "tags":{{ .Params.tags | jsonify }}{{end}},
 "categories" : {{ .Params.categories | jsonify }},
@@ -45,6 +46,7 @@ i.e. add `category`
 `/static/js/search.js`
 \```
 keys: [
-  "title"
+  "title",
+  "image"
 ]
 \```

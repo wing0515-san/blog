@@ -1,7 +1,7 @@
 ---
 author: "SanYue"
 title: "Switch 超级马力欧 3D 世界 + 狂怒世界[1.1.0|XCI]"
-image: "img/sns.png"
+image: "/img/sns.png"
 draft: false
 date: 2024-09-30
 description: "Switch 超级马力欧 3D 世界 + 狂怒世界"

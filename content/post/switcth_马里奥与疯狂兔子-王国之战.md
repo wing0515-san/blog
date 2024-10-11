@@ -1,7 +1,7 @@
 ---
 author: "SanYue"
 title: "Switch 马里奥与疯狂兔子-王国之战[1.9589692+4DLC|XCI]"
-image: "img/mrkb-buymodule.jpg"
+image: "/img/mrkb-buymodule.jpg"
 draft: false
 date: 2024-09-30
 description: "Switch 马里奥与疯狂兔子-王国之战"

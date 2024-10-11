@@ -11,6 +11,7 @@ distance: 100,
 maxPatternLength: 32,
 minMatchCharLength: 1,
 keys: [
+{name:"image",weight:0.8},
 {name:"title",weight:0.8},
 {name:"contents",weight:0.5},
 {name:"tags",weight:0.3},

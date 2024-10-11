@@ -1,7 +1,7 @@
 ---
 author: "SanYue"
 title: "Switch 塞尔达传说-王国之泪[1.21|XCI]"
-image: "img/wgzl.jpg"
+image: "/img/wgzl.jpg"
 draft: false
 date: 2024-10-08
 description: "Switch 塞尔达传说-王国之泪"

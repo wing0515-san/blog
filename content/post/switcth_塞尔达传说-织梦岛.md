@@ -1,7 +1,7 @@
 ---
 author: "SanYue"
 title: "Switch 塞尔达传说-织梦岛[1.0.1|XCI]"
-image: "img/zmd.jpg"
+image: "/img/zmd.jpg"
 draft: false
 date: 2024-09-30
 description: "Switch 塞尔达传说-织梦岛"

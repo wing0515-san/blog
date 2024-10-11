@@ -1,7 +1,7 @@
 ---
 author: "SanYue"
 title: "Switch 马里奥赛车8[3.03|XCI]"
-image: "img/mc8.jpg"
+image: "/img/mc8.jpg"
 draft: false
 date: 2024-10-08
 description: "Switch 马里奥赛车8"

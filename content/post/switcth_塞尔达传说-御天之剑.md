@@ -1,7 +1,7 @@
 ---
 author: "SanYue"
 title: "Switch 塞尔达传说-御天之剑[1.0.1|XCI]"
-image: "img/hero_1_1.jpg"
+image: "/img/hero_1_1.jpg"
 draft: false
 date: 2024-09-30
 description: "Switch 塞尔达传说-御天之剑"

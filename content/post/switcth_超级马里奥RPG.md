@@ -1,7 +1,7 @@
 ---
 author: "SanYue"
 title: "Switch 超级马里奥RPG[1.0.1|XCI]"
-image: "img/1_3ha9.jpg"
+image: "/img/1_3ha9.jpg"
 draft: false
 date: 2024-09-30
 description: "Switch 超级马里奥RPG"

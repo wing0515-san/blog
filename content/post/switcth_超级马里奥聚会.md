@@ -1,7 +1,7 @@
 ---
 author: "SanYue"
 title: "Switch 超级马力欧派对[1.1.0|NSP/NSZ]"
-image: "img/cjmlajh.png"
+image: "/img/cjmlajh.png"
 draft: false
 date: 2024-10-08
 description: "Switch 超级马力欧派对"

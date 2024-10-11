@@ -1,7 +1,7 @@
 ---
 author: "SanYue"
 title: "Switch 超级马力欧创作家2[3.0.3|XCI]"
-image: "img/czj.jpg"
+image: "/img/czj.jpg"
 draft: false
 date: 2024-09-30
 description: "Switch 超级马力欧创作家2"

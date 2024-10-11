@@ -1,7 +1,7 @@
 ---
 author: "SanYue"
 title: "Switch 纸片马力欧-折纸国王[1.0.1|XCI]"
-image: "img/a_thumb_200514_01_sc.jpg"
+image: "/img/a_thumb_200514_01_sc.jpg"
 draft: false
 date: 2024-09-30
 description: "Switch 纸片马力欧-折纸国王"

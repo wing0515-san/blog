@@ -1,7 +1,7 @@
 ---
 author: "SanYue"
 title: "Switch 马里奥与疯狂兔子-希望之星[1.6.2225577+3DLC|XCI]"
-image: "img/original_1656466581.jpg"
+image: "/img/original_1656466581.jpg"
 draft: false
 date: 2024-09-30
 description: "Switch 马里奥与疯狂兔子-希望之星"

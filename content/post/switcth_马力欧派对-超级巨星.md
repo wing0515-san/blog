@@ -1,7 +1,7 @@
 ---
 author: "SanYue"
 title: "Switch 马力欧派对-超级巨星[1.1.1|XCI]"
-image: "img/2021110315363300_s-1.jpg"
+image: "/img/2021110315363300_s-1.jpg"
 draft: false
 date: 2024-09-30
 description: "Switch 马力欧派对-超级巨星"

@@ -1,7 +1,7 @@
 ---
 author: "SanYue"
 title: "Switch 塞尔达传说-荒野之息[1.6|XCI]"
-image: "img/wyzx.jpg"
+image: "/img/wyzx.jpg"
 draft: false
 date: 2024-09-30
 description: "Switch 塞尔达传说-荒野之息"

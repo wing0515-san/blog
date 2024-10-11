@@ -1,7 +1,7 @@
 ---
 author: "SanYue"
 title: "Switch 马里奥和索尼克在2020东京奥运会[1.0.1|XCI]"
-image: "img/ayh.jpg"
+image: "/img/ayh.jpg"
 draft: false
 date: 2024-09-30
 description: "Switch 马里奥和索尼克在2020东京奥运会"

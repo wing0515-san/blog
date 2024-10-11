@@ -1,7 +1,7 @@
 ---
 author: "SanYue"
 title: "Switch 塞尔达无双-灾厄启示录[1.3|XCI]"
-image: "img/hero_nhl_v2.jpg"
+image: "/img/hero_nhl_v2.jpg"
 draft: false
 date: 2024-09-30
 description: "Switch 塞尔达无双-灾厄启示录"

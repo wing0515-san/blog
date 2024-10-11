@@ -161,27 +161,39 @@ home = [&ldquo;HTML&rdquo;, &ldquo;JSON&rdquo;]
 </script>
 <div class="container max-w-screen-xl mx-auto mt-4 flex-grow px-5 lg:px-0" id="content">
             <div class="lg:mx-5">
+<head>
+  
+  <link rel="stylesheet" href="http://localhost:1313/css/search.css">
+</head>
 <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.0/fuse.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js"></script>
 <script src="http://localhost:1313/js/search.js"></script>
 <section class="resume-section p-3 p-lg-5 d-flex flex-column">
-  <div class="my-auto" >
+  <div class="my-auto">
     <form action="http://localhost:1313/search">
-      <input id="search-query" name="s"/>
+      <input id="search-query" name="s" />
     </form>
     <div id="search-results">
-     <h3>搜索结果页</h3>
+      <h3>搜索结果页</h3>
     </div>
   </div>
 </section>
 
+
 <script id="search-result-template" type="text/x-js-template">
-    <div id="summary-${key}">
+  <div class="search-result-item">
+    
+    <img src="${image}" alt="${title}" class="search-result-img">
+
+    
+    <div class="search-result-details">
       <h4><a href="${link}">${title}</a></h4>
       
     </div>
+  </div>
 </script>
+
 
             </div>
         </div><footer class="bg-blue-400 text-white p-6">

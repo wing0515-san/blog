@@ -1,7 +1,7 @@
 ---
 author: "SanYue"
 title: "Switch 超级马里奥-惊奇[1.0.1|XCI]"
-image: "img/jq.png"
+image: "/img/jq.png"
 draft: false
 date: 2024-10-08
 description: "Switch 超级马里奥-惊奇"
