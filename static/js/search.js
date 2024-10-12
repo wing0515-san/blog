@@ -70,7 +70,7 @@ snippetHighlights.push(mvalue.value.substring(mvalue.indices[0][0],mvalue.indice
     //pull template from hugo templarte definition
     var templateDefinition = $('#search-result-template').html();
     //replace values
-    var output = render(templateDefinition,{key:key,title:value.item.title,link:value.item.permalink,tags:value.item.tags,categories:value.item.categories,snippet:snippet,image:value.item.image,date:value.item.date});
+    var output = render(templateDefinition,{key:key,title:value.item.title,link:value.item.permalink,tags:value.item.tags,categories:value.item.categories,snippet:snippet,image:value.item.image,archives:value.item.archives});
     $('#search-results').append(output);
 
     $.each(snippetHighlights,function(snipkey,snipvalue){
