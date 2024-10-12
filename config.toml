@@ -68,6 +68,24 @@ darkmode = "light"
     # Number of characters in description
     description = "130"
 
+  [params.switchgame]
+    # Show thumbnails
+    thumbnail = true
+
+    # Disable the "NO IMAGE" image.
+    noimage = true
+
+    # See the Tailwind CSS documentation to set it up.
+    # Recommended settings are h-32 to h-48.
+    # https://tailwindcss.com/docs/height
+    thumbnail_height = "lg:h-44"
+
+    # https://tailwindcss.com/docs/width
+    thumbnail_width = "lg:w-auto"
+
+    # Number of characters in description
+    description = "130"
+
   [params.widgets]
     # Display widgets
     display = true
@@ -95,7 +113,7 @@ darkmode = "light"
     weight = 2
 
   [[menu.main]]
-    identifier = "Switchgame"
+    identifier = "SWITCH游戏下载"
     name = "SWITCH游戏下载"
     url = "/switchgame/"
     weight = 3
