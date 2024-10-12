@@ -27,8 +27,8 @@
     <!-- Search result details -->
     <div class="search-result-details">
       <h4><a href="${link}">${title}</a></h4>
-      <!-- <p>游戏名称: ${gameName} <br> Release Date: ${releaseDate}</p>
-      <p class="metadata">${additionalInfo}</p> -->
+      ${ isset tags }<p>${tags}</p>${ end }
+      ${ isset archives }<p>发布时间:${archives}</p>${ end }
     </div>
   </div>
 </script>

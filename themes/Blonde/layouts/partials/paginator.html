@@ -4,11 +4,11 @@
     <ul class="flex list-none my-5 p-0 justify-center">
         <!-- Don't show on 1st and 2nd page -->
         {{ if and (ne $pag.PageNumber 1) (ne $pag.PageNumber 2) }}
-        <li class="page-item"><a href="{{ $pag.First.URL }}" rel="first" class="mx-2 py-3 px-5 rounded-full relative block border-white border-0 duration-100 bg-white text-blue-600 hover:bg-gray-400 hover:text-blue-700 dark:bg-warmgray-900 dark:border-gray-600 dark:hover:bg-warmgray-700">First</a></li>
+        <li class="page-item"><a href="{{ $pag.First.URL }}" rel="first" class="mx-2 py-3 px-5 rounded-full relative block border-white border-0 duration-100 bg-white text-blue-600 hover:bg-gray-400 hover:text-blue-700 dark:bg-warmgray-900 dark:border-gray-600 dark:hover:bg-warmgray-700">首页</a></li>
         {{ end }}
 
         {{ if $pag.HasPrev  }}
-        <li class="page-item"><a href="{{ $pag.Prev.URL }}" rel="prev" class="mx-2 py-3 px-5 rounded-full relative block border-white border-0 duration-100 bg-white text-blue-600 hover:bg-gray-400 hover:text-blue-700 dark:bg-warmgray-900 dark:border-gray-600 dark:hover:bg-warmgray-700">Prev</a></li>
+        <li class="page-item"><a href="{{ $pag.Prev.URL }}" rel="prev" class="mx-2 py-3 px-5 rounded-full relative block border-white border-0 duration-100 bg-white text-blue-600 hover:bg-gray-400 hover:text-blue-700 dark:bg-warmgray-900 dark:border-gray-600 dark:hover:bg-warmgray-700">上一页</a></li>
         {{ end }}
 
         {{ range $pag.Pagers }}
@@ -24,12 +24,12 @@
         {{ end }}
 
         {{ if $pag.HasNext }}
-        <li class="page-item"><a href="{{ $pag.Next.URL }}" rel="next" class="mx-2 py-3 px-5 rounded-full relative block border-white border-0 duration-100  bg-white text-blue-600 hover:bg-gray-400 hover:text-blue-700 dark:bg-warmgray-900 dark:border-gray-600 dark:hover:bg-warmgray-700">Next</a></li>
+        <li class="page-item"><a href="{{ $pag.Next.URL }}" rel="next" class="mx-2 py-3 px-5 rounded-full relative block border-white border-0 duration-100  bg-white text-blue-600 hover:bg-gray-400 hover:text-blue-700 dark:bg-warmgray-900 dark:border-gray-600 dark:hover:bg-warmgray-700">下一页</a></li>
         {{ end }}
 
         <!-- Don't show on last and 2nd last page -->
         {{ if and (ne $pag.PageNumber $pag.TotalPages) ((ne $pag.PageNumber (sub $pag.TotalPages 1))) }}
-        <li class="page-item"><a href="{{ $pag.Last.URL }}" rel="last" class="mx-2 py-3 px-5 rounded-full relative block border-white border-0 duration-100 bg-white text-blue-600 hover:bg-gray-400 hover:text-blue-700 dark:bg-warmgray-900 dark:border-gray-600 dark:hover:bg-warmgray-700">Last</a></li>
+        <li class="page-item"><a href="{{ $pag.Last.URL }}" rel="last" class="mx-2 py-3 px-5 rounded-full relative block border-white border-0 duration-100 bg-white text-blue-600 hover:bg-gray-400 hover:text-blue-700 dark:bg-warmgray-900 dark:border-gray-600 dark:hover:bg-warmgray-700">最后一页</a></li>
         {{ end }}
     </ul>
 </nav>

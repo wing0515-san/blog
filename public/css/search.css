@@ -49,7 +49,7 @@ h3 {
 #search-results .search-result-item {
     display: flex;
     background-color: #2e2e2e; /* Dark grey card background */
-    padding: 15px;
+    padding: 1px;
     margin-bottom: 15px;
     border: 1px solid #333; /* Dark border to separate the cards */
     border-radius: 8px;
@@ -72,7 +72,7 @@ h3 {
 }
 
 #search-results p {
-    margin-top: 10px;
+    margin-top: 1px;
     font-size: 14px;
     color: #aaa;
 }
@@ -84,16 +84,6 @@ h3 {
     margin-top: 5px;
 }
 
-/* Layout adjustments to resemble the image */
-.search-result-img {
-    max-width: 100px; /* 控制最大宽度 */
-    height: auto; /* 自动调整高度以保持宽高比 */
-    display: block; /* 确保图片显示为块元素 */
-    margin-right: 20px; /* 设置右边距 */
-    border-radius: 5px; /* 圆角处理 */
-    object-fit: cover; /* 确保图片适应容器 */
-}
-
 .search-result-details {
     flex-grow: 1;
     display: flex;
@@ -101,9 +91,9 @@ h3 {
     justify-content: space-between;
 }
 
-.search-result-details p {
-    margin: 5px 0;
-}
+/* .search-result-details p {
+    margin: 1px 0;
+} */
 
 .metadata {
     color: #888; /* Lighter color for metadata */
@@ -129,12 +119,16 @@ h3 {
 /* Image styling to match homepage */
 .search-result-img {
     max-width: 100px; /* 控制最大宽度 */
-    height: auto; /* 自动调整高度以保持宽高比 */
+    max-height: 100px; /* 控制最大高度 */
+    width: auto; /* 根据原始大小调整宽度 */
+    height: 80px; /* 根据原始大小调整高度 */
     display: block; /* 确保图片显示为块元素 */
-    margin-right: 20px; /* 设置右边距 */
     border-radius: 5px; /* 圆角处理 */
-    object-fit: cover; /* 确保图片适应容器 */
+    object-fit: cover; /* 确保图片适应容器，并保持宽高比 */
+    margin-right: 20px; /* 添加右边距，控制图片与文字之间的间距 */
 }
+
+
 
 
 

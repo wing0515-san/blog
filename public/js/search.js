@@ -11,7 +11,7 @@ distance: 100,
 maxPatternLength: 32,
 minMatchCharLength: 1,
 keys: [
-{name:"image",weight:0.8},
+{name:"archives",weight:0.8},
 {name:"title",weight:0.8},
 {name:"contents",weight:0.5},
 {name:"tags",weight:0.3},
@@ -71,7 +71,7 @@ snippetHighlights.push(mvalue.value.substring(mvalue.indices[0][0],mvalue.indice
     //pull template from hugo templarte definition
     var templateDefinition = $('#search-result-template').html();
     //replace values
-    var output = render(templateDefinition,{key:key,title:value.item.title,link:value.item.permalink,tags:value.item.tags,categories:value.item.categories,snippet:snippet,image: value.item.image});
+    var output = render(templateDefinition,{key:key,title:value.item.title,link:value.item.permalink,tags:value.item.tags,categories:value.item.categories,snippet:snippet,image:value.item.image,archives:value.item.archives});
     $('#search-results').append(output);
 
     $.each(snippetHighlights,function(snipkey,snipvalue){
