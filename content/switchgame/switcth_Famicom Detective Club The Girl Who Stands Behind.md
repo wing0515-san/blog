@@ -25,7 +25,7 @@ Famicom Detective Club:  The Girl Who Stands Behind
 金手指来源：  
 容量：2G
 
-[百度网盘](https://pan.baidu.com/s/1t73ghYaPPHXbj8fX08X0sw) 提取码: 5ra8  
+[百度网盘](https://pan.baidu.com/s/1D1vIHVKPzaX-2WLKQvGmGw) 提取码: x3aw  
 ![图片1](/img/6.jpg)![图片2](/img/7.jpg)![图片3](/img/8.jpg)  
 
 游戏简介  

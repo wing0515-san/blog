@@ -1,7 +1,7 @@
 ---
 author: "SanYue"
 title: "Switch 侦探俱乐部-消失的继承人[1.0|XCI]"
-image: "/img7.jpeg"
+image: "/img/7.jpeg"
 draft: false
 date: 2024-10-15
 description: "Switch 侦探俱乐部:消失的继承人"
