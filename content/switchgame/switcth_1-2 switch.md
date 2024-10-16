@@ -1,7 +1,7 @@
 ---
 author: "SanYue"
 title: "Switch 1-2-Switch[1.0.1|XCI]"
-image: "/img/2.jpeg"
+image: "/img/images.jfif"
 draft: false
 date: 2024-10-16
 description: "Switch 1-2-Switch"
