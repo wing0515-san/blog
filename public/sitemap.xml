@@ -3,7 +3,121 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-10-16T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/archives/2024/10/17/</loc>
+    <lastmod>2024-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/roguelike/</loc>
+    <lastmod>2024-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/switchgame/switcth_donkey-kong-country-tropical-freeze/</loc>
+    <lastmod>2024-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/switchgame/switcth_pok%C3%A9mon-mystery-dungeon-rescue-team-dx/</loc>
+    <lastmod>2024-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/switchgame/switcth_pokemon-legends-arceus/</loc>
+    <lastmod>2024-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/switchgame/switcth_pok%C3%A9mon-sword/</loc>
+    <lastmod>2024-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/switchgame/switcth_pok%C3%A9mon-quest/</loc>
+    <lastmod>2024-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/switchgame/switcth_pok%C3%A9mon-shining-pearl/</loc>
+    <lastmod>2024-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/switchgame/switcth_pok%C3%A9mon-brilliant-diamond/</loc>
+    <lastmod>2024-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/switchgame/switcth_pok%C3%A9mon-scarlet/</loc>
+    <lastmod>2024-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/switchgame/switcth_pok%C3%A9mon-shield/</loc>
+    <lastmod>2024-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/switchgame/switcth_pok%C3%A9mon-violet/</loc>
+    <lastmod>2024-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/switchgame/switcth_official-pok%C3%A9mon-cafe/</loc>
+    <lastmod>2024-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/switchgame/switcth_princess-peach-showtime/</loc>
+    <lastmod>2024-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/switchgame/switcth_start-a-sushi-striker-the-way-of-sushido/</loc>
+    <lastmod>2024-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/switchgame/switcth_super-kirby-clash-copy-10/</loc>
+    <lastmod>2024-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/switchgame/switcth_super-kirby-clash-copy-3/</loc>
+    <lastmod>2024-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/switchgame/switcth_super-kirby-clash-copy-4/</loc>
+    <lastmod>2024-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/switchgame/switcth_super-kirby-clash-copy-5/</loc>
+    <lastmod>2024-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/switchgame/switcth_super-kirby-clash-copy-6/</loc>
+    <lastmod>2024-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/switchgame/switcth_super-kirby-clash-copy-7/</loc>
+    <lastmod>2024-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/switchgame/switcth_super-kirby-clash-copy-8/</loc>
+    <lastmod>2024-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/switchgame/switcth_super-kirby-clash-copy-9/</loc>
+    <lastmod>2024-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/switchgame/switcth_super-kirby-clash-copy/</loc>
+    <lastmod>2024-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/switchgame/switcth_super-kirby-clash/</loc>
+    <lastmod>2024-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/switchgame/</loc>
+    <lastmod>2024-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E4%B8%AD%E6%96%87/</loc>
+    <lastmod>2024-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E4%BC%91%E9%97%B2/</loc>
+    <lastmod>2024-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E5%83%8F%E7%B4%A0/</loc>
+    <lastmod>2024-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E5%86%92%E9%99%A9/</loc>
+    <lastmod>2024-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E5%8A%A8%E4%BD%9C/</loc>
+    <lastmod>2024-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E5%A4%9A%E4%BA%BA/</loc>
+    <lastmod>2024-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E5%B9%B3%E5%8F%B0/</loc>
+    <lastmod>2024-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E6%A0%BC%E6%96%97/</loc>
+    <lastmod>2024-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E6%A8%A1%E6%8B%9F/</loc>
+    <lastmod>2024-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E7%9B%8A%E6%99%BA/</loc>
+    <lastmod>2024-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E8%A7%92%E8%89%B2%E6%89%AE%E6%BC%94/</loc>
+    <lastmod>2024-10-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/archives/2024/10/16/</loc>
     <lastmod>2024-10-16T00:00:00+00:00</lastmod>
@@ -17,34 +131,16 @@
     <loc>http://localhost:1313/switchgame/switcth_octopath-traveler2/</loc>
     <lastmod>2024-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/switchgame/</loc>
+    <loc>http://localhost:1313/switchgame/switcth_pok%C3%A9mon-lets-go-eevee/</loc>
     <lastmod>2024-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-10-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/%E4%B8%AD%E6%96%87/</loc>
-    <lastmod>2024-10-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/%E5%83%8F%E7%B4%A0/</loc>
-    <lastmod>2024-10-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/%E5%A4%9A%E4%BA%BA/</loc>
+    <loc>http://localhost:1313/switchgame/switcth_pok%C3%A9mon-lets-go-pikachu-/</loc>
     <lastmod>2024-10-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/%E8%81%9A%E4%BC%9A/</loc>
     <lastmod>2024-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/%E8%A7%92%E8%89%B2%E6%89%AE%E6%BC%94/</loc>
-    <lastmod>2024-10-16T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/archives/2024/10/15/</loc>
-    <lastmod>2024-10-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/switchgame/switcth_famicom-detective-club-the-missing-heir-copy-3/</loc>
-    <lastmod>2024-10-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/switchgame/switcth_famicom-detective-club-the-missing-heir-copy-4/</loc>
     <lastmod>2024-10-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/switchgame/switcth_famicom-detective-club-the-missing-heir/</loc>
@@ -72,15 +168,6 @@
     <lastmod>2024-10-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/switchgame/switcth_%E9%A9%AC%E9%87%8C%E5%A5%A5%E8%B5%9B%E8%BD%A68/</loc>
-    <lastmod>2024-10-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/%E5%86%92%E9%99%A9/</loc>
-    <lastmod>2024-10-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/%E5%8A%A8%E4%BD%9C/</loc>
-    <lastmod>2024-10-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/%E5%B9%B3%E5%8F%B0/</loc>
     <lastmod>2024-10-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/%E7%AB%9E%E9%80%9F/</loc>
@@ -164,8 +251,20 @@
     <loc>http://localhost:1313/contact/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/archives/2021/10/17/</loc>
+  </url><url>
+    <loc>http://localhost:1313/archives/2021/11/17/</loc>
+  </url><url>
+    <loc>http://localhost:1313/archives/2021/11/19/</loc>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/search/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E6%A0%BC/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E8%A7%92%E8%89%B2%E6%89%AE%E6%BC%94yizhi/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E8%A7%92%E8%89%B2%E6%89%AE%E6%BC%94%E7%9B%8A%E6%99%BA/</loc>
   </url>
 </urlset>
