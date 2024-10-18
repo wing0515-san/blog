@@ -9,10 +9,31 @@
     <lastBuildDate>Thu, 17 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Roguelike</title>
+      <link>http://localhost:1313/tags/roguelike/</link>
+      <pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/roguelike/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>中文</title>
       <link>http://localhost:1313/tags/%E4%B8%AD%E6%96%87/</link>
       <pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/%E4%B8%AD%E6%96%87/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>休闲</title>
+      <link>http://localhost:1313/tags/%E4%BC%91%E9%97%B2/</link>
+      <pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E4%BC%91%E9%97%B2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>像素</title>
+      <link>http://localhost:1313/tags/%E5%83%8F%E7%B4%A0/</link>
+      <pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E5%83%8F%E7%B4%A0/</guid>
       <description></description>
     </item>
     <item>
@@ -23,24 +44,52 @@
       <description></description>
     </item>
     <item>
-      <title>角色扮演</title>
-      <link>http://localhost:1313/tags/%E8%A7%92%E8%89%B2%E6%89%AE%E6%BC%94/</link>
+      <title>动作</title>
+      <link>http://localhost:1313/tags/%E5%8A%A8%E4%BD%9C/</link>
       <pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/%E8%A7%92%E8%89%B2%E6%89%AE%E6%BC%94/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>像素</title>
-      <link>http://localhost:1313/tags/%E5%83%8F%E7%B4%A0/</link>
-      <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/%E5%83%8F%E7%B4%A0/</guid>
+      <guid>http://localhost:1313/tags/%E5%8A%A8%E4%BD%9C/</guid>
       <description></description>
     </item>
     <item>
       <title>多人</title>
       <link>http://localhost:1313/tags/%E5%A4%9A%E4%BA%BA/</link>
-      <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/%E5%A4%9A%E4%BA%BA/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>平台</title>
+      <link>http://localhost:1313/tags/%E5%B9%B3%E5%8F%B0/</link>
+      <pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E5%B9%B3%E5%8F%B0/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>格斗</title>
+      <link>http://localhost:1313/tags/%E6%A0%BC%E6%96%97/</link>
+      <pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E6%A0%BC%E6%96%97/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>模拟</title>
+      <link>http://localhost:1313/tags/%E6%A8%A1%E6%8B%9F/</link>
+      <pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E6%A8%A1%E6%8B%9F/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>益智</title>
+      <link>http://localhost:1313/tags/%E7%9B%8A%E6%99%BA/</link>
+      <pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E7%9B%8A%E6%99%BA/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>角色扮演</title>
+      <link>http://localhost:1313/tags/%E8%A7%92%E8%89%B2%E6%89%AE%E6%BC%94/</link>
+      <pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E8%A7%92%E8%89%B2%E6%89%AE%E6%BC%94/</guid>
       <description></description>
     </item>
     <item>
@@ -62,20 +111,6 @@
       <link>http://localhost:1313/tags/%E8%A7%86%E8%A7%89%E5%B0%8F%E8%AF%B4/</link>
       <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/%E8%A7%86%E8%A7%89%E5%B0%8F%E8%AF%B4/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>动作</title>
-      <link>http://localhost:1313/tags/%E5%8A%A8%E4%BD%9C/</link>
-      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/%E5%8A%A8%E4%BD%9C/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>平台</title>
-      <link>http://localhost:1313/tags/%E5%B9%B3%E5%8F%B0/</link>
-      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/%E5%B9%B3%E5%8F%B0/</guid>
       <description></description>
     </item>
     <item>

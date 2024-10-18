@@ -104,6 +104,9 @@
     <loc>http://localhost:1313/tags/%E5%A4%9A%E4%BA%BA/</loc>
     <lastmod>2024-10-17T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/switchgame/switch_pokk%C3%A9n-tournament/</loc>
+    <lastmod>2024-10-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/%E5%B9%B3%E5%8F%B0/</loc>
     <lastmod>2024-10-17T00:00:00+00:00</lastmod>
   </url><url>
@@ -251,20 +254,8 @@
     <loc>http://localhost:1313/contact/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/archives/2021/10/17/</loc>
-  </url><url>
-    <loc>http://localhost:1313/archives/2021/11/17/</loc>
-  </url><url>
-    <loc>http://localhost:1313/archives/2021/11/19/</loc>
-  </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/search/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/%E6%A0%BC/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/%E8%A7%92%E8%89%B2%E6%89%AE%E6%BC%94yizhi/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/%E8%A7%92%E8%89%B2%E6%89%AE%E6%BC%94%E7%9B%8A%E6%99%BA/</loc>
   </url>
 </urlset>
