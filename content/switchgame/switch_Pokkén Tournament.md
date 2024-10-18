@@ -13,7 +13,7 @@ archives: ["2024/10/17"]
 
 游戏名称：宝可梦铁拳DX  
 ポッ拳 POKKÉN TOURNAMENT  
-Pokkén Tournament 
+Pokkén Tournament  
 游戏语言：中文  
 首发日期：2017-09-22  
 解压密码：wing515  
