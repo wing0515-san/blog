@@ -4,22 +4,20 @@ author: "SanYue"
 title: "宝可梦铁拳DX[1.3.3|XCI]"
 image: "/img/62595837.jpg"
 draft: false
-date: 2024-10-17
+date: 2024-10-30
 description: "Switch 宝可梦铁拳DX"
 tags: ["动作","格斗", "中文"]
-archives: ["2024/10/17"]
+archives: ["2024/10/30"]
 
 ---
 
-游戏名称：宝可梦铁拳DX  
-ポッ拳 POKKÉN TOURNAMENT  
-Pokkén Tournament  
+游戏名称：宝可梦铁拳DX   
+Pokkén Tournament    
 游戏语言：中文  
-首发日期：2017-09-22  
+首发日期：2017年9月22日  
 解压密码：wing515  
 是否有金手指：是  
-版本：1.3.3  
-金手指来源：  
+版本：1.3.3   
 容量：4G
 
 [百度网盘](https://pan.baidu.com/s/1UuutmyrmInIclrV00p6goA) 提取码: aehw  
