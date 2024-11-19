@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "巴拉特罗/小丑牌[1.0.8|XCI]"
-image: "img/20241030154315.png"
+title: "Switch 巴拉特罗/小丑牌[1.0.8|XCI]"
+image: "/img/20241030154315.png"
 draft: false
 date: 2024-10-30
 description: "Switch 巴拉特罗"
-tags: [“中文”,“益智”,“桌面”,“Roguelike”]
+tags: ["中文","益智","桌面","Roguelike"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Balatro
 容量：156M
 
 [百度网盘](https://pan.baidu.com/s/1RvLb5bSHcRO1E36tRHNF9Q) 提取码: fyd2  
-![图片1](img/ac94d7d1d6be.jpg)![图片2](img/5e0e583ac65.jpg)![图片3](img/2b658ebc79c.jpg)  
+![图片1](/img/ac94d7d1d6be.jpg)![图片2](/img/5e0e583ac65.jpg)![图片3](/img/2b658ebc79c.jpg)  
 
 游戏简介  
 Balatro 以扑克牌为基础，引入 Roguelike 的牌组构建元素，完美发挥你的创意、助你赢出大奖。

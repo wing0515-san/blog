@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "邪恶冥刻[1.41.2|XCI]"
-image: "img/006aa1020.webp"
+title: "Switch 邪恶冥刻[1.41.2|XCI]"
+image: "/img/006aa1020.webp"
 draft: false
 date: 2024-10-30
 description: "Switch 邪恶铭刻"
-tags: [“中文”,“卡牌”,“策略”,“Roguelike”]
+tags: ["中文","卡牌","策略","Roguelike"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Inscryption
 容量：2G
 
 [百度网盘](https://pan.baidu.com/s/10qoDYsx1VP8_xnxiS_H5MQ) 提取码: fyd2  
-![图片1](img/397016a48.jpg)![图片2](img/1a69b0e94a9a.jpg)![图片3](img/4df1630a234.jpg)  
+![图片1](/img/397016a48.jpg)![图片2](/img/1a69b0e94a9a.jpg)![图片3](/img/4df1630a234.jpg)  
 
 游戏简介  
 《邪恶铭刻》（Inscryption）是一款在Nintendo Switch平台上推出的卡牌游戏，以下是关于这款游戏的一些特色和信息：

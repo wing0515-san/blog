@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "勇闯宝石山[1.1.35|XCI]"
-image: "img/20241029165945.png"
+title: "Switch 勇闯宝石山[1.1.35|XCI]"
+image: "/img/20241029165945.png"
 draft: false
 date: 2024-10-30
 description: "Switch 勇闯宝石山"
-tags: [“中文”,“益智”,“休闲”]
+tags: ["中文","益智","休闲"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Grindstone
 容量：2.8G
 
 [百度网盘](https://pan.baidu.com/s/1GuDKMFja3asMkStGIRGYHg) 提取码: fyd2  
-![图片1](img/3a7a35b06.jpg)![图片2](img/5abaffe0668b.jpg)![图片3](img/26d3aa89e.jpg)  
+![图片1](/img/3a7a35b06.jpg)![图片2](/img/5abaffe0668b.jpg)![图片3](/img/26d3aa89e.jpg)  
 
 游戏简介  
 《勇闯宝石山》（SteamWorld Quest: Hand of Gilgamech）是一款由Image & Form Games开发的角色扮演游戏（RPG），它是SteamWorld系列的一部分。这款游戏以其独特的纸牌战斗系统和精美的手绘艺术风格而受到玩家的喜爱。

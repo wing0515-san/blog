@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "最终幻想I～VI像素复刻版 合集[最新版本|XCI]"
-image: "img/202410241545.jpg"
+title: "Switch 最终幻想I～VI像素复刻版 合集[最新版本|XCI]"
+image: "/img/202410241545.jpg"
 draft: false
 date: 2024-10-30
 description: "Switch 最终幻想I～VI像素复刻版 合集"
-tags: [“中文”,“角色扮演”,“像素]
+tags: ["中文","角色扮演","像素"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Final Fantasy  Pixel Remaster Collection
 容量：1.9G
 
 [百度网盘](https://pan.baidu.com/s/11AiqbOaXZ2FhP9myUxUyVw) 提取码: v2vw  
-![图片1](img/scbtvp.jpg)![图片2](img/scbtvr.jpg)![图片3](img/scbtvq.jpg)  
+![图片1](/img/scbtvp.jpg)![图片2](/img/scbtvr.jpg)![图片3](/img/scbtvq.jpg)  
 
 游戏简介  
 《最终幻想：像素复刻版合集》是由Square Enix推出的经典角色扮演游戏的复刻版本，包含了《最终幻想》系列的前六部作品。这些作品经过高清化处理，以崭新的画质和音质复活，提供了更加鲜明的2D画面和优化的游戏体验。

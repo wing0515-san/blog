@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "AI：梦境档案系列[1.1+1.0.2|5DLC|XCI]"
-image: "img/20241030094711.png"
+title: "Switch AI：梦境档案系列[1.1+1.0.2|5DLC|XCI]"
+image: "/img/20241030094711.png"
 draft: false
 date: 2024-10-30
 description: "Switch AI：梦境档案 + AI：梦境档案 涅槃肇始"
-tags: [“中文”,“解谜”,“冒险”]
+tags: ["中文","解谜","冒险"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ AI THE SOMNIUM FILES & AI THE SOMNIUM FILES nirvanA Initiative
 容量：10.3G+11.6G
 
 [百度网盘](https://pan.baidu.com/s/1zJFodL6d2yA1lhuGqRKT1g) 提取码: fyd2  
-![图片1](img/03912747498.jpg)![图片2](img/25571ea9f14.jpg)![图片3](img/7a8d82675358.jpg)  
+![图片1](/img/03912747498.jpg)![图片2](/img/25571ea9f14.jpg)![图片3](/img/7a8d82675358.jpg)  
 
 游戏简介  
 《梦境档案》（AI: The Somnium Files）是由日本游戏公司Spike Chunsoft开发的冒险解谜游戏系列，由著名游戏设计师打越钢太郎担任编剧和导演。这个系列以其独特的故事、复杂的谜题和深刻的剧情而受到玩家的喜爱。
@@ -32,7 +32,7 @@ AI THE SOMNIUM FILES & AI THE SOMNIUM FILES nirvanA Initiative
 - **发布时间：** 2019年
 - **平台：** PlayStation 4, Nintendo Switch, PC
 - **类型：** 冒险解谜游戏
-- **故事背景：** 游戏的主角是侦探Aiba和他的AI伙伴瞳绊，他们使用一种名为“Psync”的技术进入嫌疑人的梦境中寻找线索，以解决一系列谋杀案。
+- **故事背景：** 游戏的主角是侦探Aiba和他的AI伙伴瞳绊，他们使用一种名为"Psync"的技术进入嫌疑人的梦境中寻找线索，以解决一系列谋杀案。
 - **游戏特色：**
   - **Psync技术：** 玩家可以进入嫌疑人的梦境，这些梦境通常是超现实和象征性的，需要玩家解开谜题和发现隐藏的线索。
   - **双视角叙事：** 游戏在现实世界和梦境之间切换，玩家需要在两个世界中寻找线索。
@@ -45,7 +45,7 @@ AI THE SOMNIUM FILES & AI THE SOMNIUM FILES nirvanA Initiative
 - **发布时间：** 2022年
 - **平台：** PlayStation 4, PlayStation 5, Nintendo Switch, PC
 - **类型：** 冒险解谜游戏
-- **故事背景：** 作为《梦境档案1》的直接续作，游戏继续由Aiba和瞳绊领衔，这次他们面对的是一个名为“KAIROS”的神秘组织，以及一系列新的案件。
+- **故事背景：** 作为《梦境档案1》的直接续作，游戏继续由Aiba和瞳绊领衔，这次他们面对的是一个名为"KAIROS"的神秘组织，以及一系列新的案件。
 - **游戏特色：**
   - **新角色和故事：** 引入了新的角色和更复杂的剧情，同时保持了前作的风格和基调。
   - **增强的Psync技术：** 技术得到了改进，玩家可以更深入地探索梦境。

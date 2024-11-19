@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "怪兽远征[1.2|XCI]"
-image: "img/20241030165327.png"
+title: "Switch 怪兽远征[1.2|XCI]"
+image: "/img/20241030165327.png"
 draft: false
 date: 2024-10-30
 description: "Switch 怪兽远征"
-tags: [“中文”,“益智”]
+tags: ["中文","益智"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ A Monster's Expedition
 容量：714M
 
 [百度网盘](https://pan.baidu.com/s/1GXSVw62HxaaoWV32mgz3FA) 提取码: fyd2  
-![图片1](img/d2fe1e7f29bc.jpg)![图片2](img/a48db32d00a6e5a17.jpg)![图片3](img/31ffd4a9659.jpg)  
+![图片1](/img/d2fe1e7f29bc.jpg)![图片2](/img/a48db32d00a6e5a17.jpg)![图片3](/img/31ffd4a9659.jpg)  
 
 游戏简介  
 《A Monster's Expedition》是一款由独立游戏开发者制作的冒险解谜游戏。在游戏中，玩家扮演一只小怪兽，踏上一段旅程，探索岛屿并解开谜题，以修复自己的纪念碑并了解岛屿的历史。

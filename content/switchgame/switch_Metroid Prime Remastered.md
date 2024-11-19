@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "密特罗德究极复刻[1.0|XCI]"
-image: "img/077a8683.jpg"
+title: "Switch 密特罗德究极复刻[1.0|XCI]"
+image: "/img/077a8683.jpg"
 draft: false
 date: 2024-10-30
 description: "Switch 密特罗德究极复刻"
-tags: [“中文”,“冒险”,“射击”]
+tags: ["中文","冒险","射击"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Metroid Prime Remastered
 容量：6.8G
 
 [百度网盘](https://pan.baidu.com/s/1Leg3sG1qjGD4KpWBCv80CA) 提取码: debi  
-![图片1](img/0a4b4871.jpg)![图片2](img/0ad533a5.jpg)![图片3](img/38df0bb9.jpg)  
+![图片1](/img/0a4b4871.jpg)![图片2](/img/0ad533a5.jpg)![图片3](/img/38df0bb9.jpg)  
 
 游戏简介  
 《密特罗德究极复刻》（Metroid: Zero Mission）是一款由任天堂开发的动作冒险游戏，它是1994年Game Boy平台上的《密特罗德II：萨姆斯归来》（Metroid II: Return of Samus）的重制版。这款游戏于2004年3月10日在北美地区首次发布，随后在其他地区推出，适用于Game Boy Advance（GBA）平台。

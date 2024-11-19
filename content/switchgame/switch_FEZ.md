@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "菲斯[1.0.2|XCI]"
-image: "img/20241030135426.png"
+title: "Switch 菲斯[1.0.2|XCI]"
+image: "/img/20241030135426.png"
 draft: false
 date: 2024-10-30
 description: "Switch 菲斯"
-tags: [“中文”,“平台”,“益智”]
+tags: ["中文","平台","益智"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ FEZ
 容量：1.3G
 
 [百度网盘](https://pan.baidu.com/s/1ZepRiHBJ4jKlaZBbFuq2ng) 提取码: fyd2  
-![图片1](img/43b1c7e7b.jpg)![图片2](img/bc476fb535d.jpg)![图片3](img/94c6e17.jpg)  
+![图片1](/img/43b1c7e7b.jpg)![图片2](/img/bc476fb535d.jpg)![图片3](/img/94c6e17.jpg)  
 
 游戏简介  
 FEZ是一款由Polytron Corporation开发的独立平台游戏，最初于2012年发布。以下是对这款游戏的一些简要介绍：

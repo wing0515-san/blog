@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "奥日与森林/奥日与萤火的意志[1.0.2+1.2|XCI]"
-image: "img/20241030172543.png"
+title: "Switch 奥日与森林/奥日与萤火的意志[1.0.2+1.2|XCI]"
+image: "/img/20241030172543.png"
 draft: false
 date: 2024-10-30
 description: "Switch 奥日与黑暗森林/奥日与萤火的意志"
-tags: [“中文”,“银河恶魔城”,“动作”]
+tags: ["中文","银河恶魔城","动作"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Ori and the Blind Forest & Ori and the Will of the Wisps
 容量：3.5G+4.3G
 
 [百度网盘](https://pan.baidu.com/s/1tETzUDq9VVlshMcsmgKWZg) 提取码: fyd2  
-![图片1](img/0cf0ec6681ae.jpg)![图片2](img/0dc4e2079e5.jpg)![图片3](img/3bc7bb1d10.jpg)  
+![图片1](/img/0cf0ec6681ae.jpg)![图片2](/img/0dc4e2079e5.jpg)![图片3](/img/3bc7bb1d10.jpg)  
 
 游戏简介  
 《Ori and the Blind Forest》和《Ori and the Will of the Wisps》是由Moon Studios开发，Microsoft Studios发行的两款备受赞誉的平台冒险游戏。这两款游戏以其精美的手绘艺术风格、深情的叙事和流畅的平台游戏体验而受到玩家的喜爱。

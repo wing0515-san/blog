@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "勇气默示录2[1.0|XCI]"
-image: "img/020d5102d04.jpg"
+title: "Switch 勇气默示录2[1.0|XCI]"
+image: "/img/020d5102d04.jpg"
 draft: false
 date: 2024-10-30
 description: "Switch 勇气默示录2"
-tags: [“中文”,“角色扮演”]
+tags: ["中文","角色扮演"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,10 +21,10 @@ Bravely Default 2
 容量：12.4G
 
 [百度网盘](https://pan.baidu.com/s/1JjMPZryQmmZ1Ks95Y6UG1g) 提取码: 8quk  
-![图片1](img/0a7eb1021c4ff.jpg)![图片2](img/fc6b50f783968df621ab3.jpg)![图片3](img/0c59202c9873.jpg)  
+![图片1](/img/0a7eb1021c4ff.jpg)![图片2](/img/fc6b50f783968df621ab3.jpg)![图片3](/img/0c59202c9873.jpg)  
 
 游戏简介  
-《勇气默示录2》（Bravely Default II）是由Square Enix发行的一款角色扮演游戏，于2021年2月26日正式在Nintendo Switch平台发售，并在同年9月3日登陆PC平台。 游戏继承了前作《勇气默示录》（Bravely Default）的战斗系统，其中包括独特的“Brave”和“Default”机制，允许玩家在战斗中预支或储存行动回合，增加了战斗策略的深度。
+《勇气默示录2》（Bravely Default II）是由Square Enix发行的一款角色扮演游戏，于2021年2月26日正式在Nintendo Switch平台发售，并在同年9月3日登陆PC平台。 游戏继承了前作《勇气默示录》（Bravely Default）的战斗系统，其中包括独特的"Brave"和"Default"机制，允许玩家在战斗中预支或储存行动回合，增加了战斗策略的深度。
 
 游戏的配乐由Revo先生负责，他也是系列第一作的音乐创作者。 《勇气默示录2》的故事发生在一个名为亚克希兰特的大陆，玩家将跟随四位主角——薛弗、葛萝莉雅、埃尔维斯和亚黛拉，为了完成各自的使命与目的，一同踏上旅程。 游戏的世界观中，四大水晶控制着世界的元素力量，而当这些力量失控时，灾难便会降临。
 

@@ -1,7 +1,7 @@
 
 ---
 author: "SanYue"
-title: "宝可梦铁拳DX[1.3.3|XCI]"
+title: "Switch 宝可梦铁拳DX[1.3.3|XCI]"
 image: "/img/62595837.jpg"
 draft: false
 date: 2024-10-30

@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "超级鸡马[1.11.01.391|XCI]"
-image: "img/31133128547.jpeg"
+title: "Switch 超级鸡马[1.11.01.391|XCI]"
+image: "/img/31133128547.jpeg"
 draft: false
 date: 2024-10-30
 description: "Switch 超级鸡马"
-tags: [“中文”,“动作”,“聚会”,“多人”]
+tags: ["中文","动作","聚会","多人"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Ultimate Chicken Horse
 容量：1.3G
 
 [百度网盘](https://pan.baidu.com/s/1Sd85Ci4EQpFfoykyNRrIIA) 提取码: fyd2  
-![图片1](img/7a7677464.jpg)![图片2](img/fefa178f2d.jpg)![图片3](img/77e2d5307.jpg)  
+![图片1](/img/7a7677464.jpg)![图片2](/img/fefa178f2d.jpg)![图片3](/img/77e2d5307.jpg)  
 
 游戏简介  
 《超级鸡马》（Ultimate Chicken Horse）是一款多人平台游戏，您可以在Nintendo Switch上享受这款充满乐趣和挑战的游戏。以下是关于这款游戏的一些详细信息：

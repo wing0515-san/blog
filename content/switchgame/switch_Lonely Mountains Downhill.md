@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "孤山：下山[1.0.6+4DLC|XCI]"
-image: "img/202410290951.jpg"
+title: "Switch 孤山：下山[1.0.6+4DLC|XCI]"
+image: "/img/202410290951.jpg"
 draft: false
 date: 2024-10-30
 description: "Switch 孤山：下山"
-tags: [“中文”,“体育”]
+tags: ["中文","体育"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Lonely Mountains Downhill
 容量：800M
 
 [百度网盘](https://pan.baidu.com/s/1h7dT9oxJb_TBkK-ZLs0mjQ) 提取码: fyd2  
-![图片1](img/aa91cc826752.jpg)![图片2](img/a91cc826752.jpg)![图片3](img/45e1273dee4.jpg)  
+![图片1](/img/aa91cc826752.jpg)![图片2](/img/a91cc826752.jpg)![图片3](/img/45e1273dee4.jpg)  
 
 游戏简介  
 《孤山：下山》（Lonely Mountains: Downhill）是一款在Nintendo Switch平台上推出的自行车冒险游戏。在游戏中，玩家可以体验到沿着原始山脉的惊险刺激旅程，穿越茂密的森林、狭窄的小径和陡峭的河流。游戏的核心玩法包括比赛、跳跃，并从山峰滑到山谷而避免撞车。

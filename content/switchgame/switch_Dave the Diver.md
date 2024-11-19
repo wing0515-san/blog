@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "潜水员戴夫[1.0.2.894+4DLC|XCI]"
-image: "img/39322301bb.webp"
+title: "Switch 潜水员戴夫[1.0.2.894+4DLC|XCI]"
+image: "/img/39322301bb.webp"
 draft: false
 date: 2024-10-30
 description: "Switch 潜水员戴夫"
-tags: [“中文”,“冒险”,“模拟”]
+tags: ["中文","冒险","模拟"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Dave the Diver
 容量：3.6G
 
 [百度网盘](https://pan.baidu.com/s/18Fs14NSNHHLVq7-BC3HGaQ) 提取码: b9e6  
-![图片1](img/ad710e3c4e.jpg)![图片2](img/1c0a41889.jpg)![图片3](img/a38dcd56c.jpg)  
+![图片1](/img/ad710e3c4e.jpg)![图片2](/img/1c0a41889.jpg)![图片3](/img/a38dcd56c.jpg)  
 
 游戏简介  
 《潜水员戴夫》（Diver: Dave）是一款由MINTROCKET开发的海洋冒险游戏，玩家在游戏中扮演一位名叫戴夫的潜水员，他白天在神秘的海洋（蓝洞）中潜水捕鱼，晚上则经营寿司店。游戏以其丰富的海洋生物、探险和模拟经营元素，以及充满趣味性的玩法，受到了玩家和媒体的一致好评。

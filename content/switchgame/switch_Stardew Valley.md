@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "星露谷物语[1.5.4.2|XCI]"
-image: "img/20241030101247.png"
+title: "Switch 星露谷物语[1.5.4.2|XCI]"
+image: "/img/20241030101247.png"
 draft: false
 date: 2024-10-30
 description: "Switch 星露谷物语"
-tags: [“中文”,“模拟”,“角色扮演”,“多人”]
+tags: ["中文","模拟","角色扮演","多人"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Stardew Valley
 容量：1.5G
 
 [百度网盘](https://pan.baidu.com/s/1gwiQmJUCP3jiSV6TI73dTg) 提取码: fyd2  
-![图片1](img/2d2973472.jpg)![图片2](img/28b4a811c.jpg)![图片3](img/327e4cfc49d8.jpg)  
+![图片1](/img/2d2973472.jpg)![图片2](/img/28b4a811c.jpg)![图片3](/img/327e4cfc49d8.jpg)  
 
 游戏简介  
 《星露谷物语》（Stardew Valley）是一款由ConcernedApe开发的模拟经营游戏，最初于2016年发布。游戏的灵感来源于经典游戏《牧场物语》（Harvest Moon）系列。以下是《星露谷物语》的一些基本游戏简介：

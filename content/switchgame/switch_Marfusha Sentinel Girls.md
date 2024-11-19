@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "熔铁少女[1.0.2|XCI]"
-image: "img/ff1d710bcd.jfif"
+title: "Switch 熔铁少女[1.0.2|XCI]"
+image: "/img/ff1d710bcd.jfif"
 draft: false
 date: 2024-10-30
 description: "Switch 熔铁少女"
-tags: [“中文”,“射击”]
+tags: ["中文","射击"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Marfusha Sentinel Girls
 容量：900M
 
 [百度网盘](https://pan.baidu.com/s/1cqJ1AhAWjRfmx_zUQtGU8Q) 提取码: 38vj  
-![图片1](img/86dbc29ce.jpg)![图片2](img/18df1c2f04812d.jpg)![图片3](img/0f1fb91a4.jpg)  
+![图片1](/img/86dbc29ce.jpg)![图片2](/img/18df1c2f04812d.jpg)![图片3](/img/0f1fb91a4.jpg)  
 
 游戏简介  
 《熔铁少女》（日语：溶鉄のマルフーシャ，英语：Marfusha）是一款由独立游戏制作人hinyari9开发，PLAYISM发行的快节奏射击游戏。游戏最初于2021年8月27日在PC平台上通过Steam发售，并于2023年4月6日扩展至Nintendo Switch、PlayStation 5、PlayStation 4、Xbox One等主机平台。

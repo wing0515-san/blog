@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "时空幻境：周年纪念版[1.0.3|XCI]"
-image: "img/20241030171542.png"
+title: "Switch 时空幻境：周年纪念版[1.0.3|XCI]"
+image: "/img/20241030171542.png"
 draft: false
 date: 2024-10-30
 description: "Switch 时空幻境：周年纪念版"
-tags: [“中文”,“解密”,“平台”]
+tags: ["中文","解密","平台"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Braid Anniversary Edition
 容量：2.2G
 
 [百度网盘](https://pan.baidu.com/s/1juFFan8DPqzMizCUdZSxKA) 提取码: fyd2  
-![图片1](img/657b4300ed.jpg)![图片2](img/bc4827d35.jpg)![图片3](img/99e3e1bef1d2e.jpg)  
+![图片1](/img/657b4300ed.jpg)![图片2](/img/bc4827d35.jpg)![图片3](/img/99e3e1bef1d2e.jpg)  
 
 游戏简介  
 《SWITCH 时空幻境》（原名：Braid）是一款由Jonathan Blow设计的独立游戏，最初在2008年发布。这款游戏以其独特的时间操纵机制和深奥的故事而闻名。以下是关于《SWITCH 时空幻境：周年纪念版》的一些基本信息：

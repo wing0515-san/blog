@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "纸片马里奥：千年之门[1.0.1|XCI]"
-image: "img/20241030132742.png"
+title: "Switch 纸片马里奥：千年之门[1.0.1|XCI]"
+image: "/img/20241030132742.png"
 draft: false
 date: 2024-10-30
 description: "Switch 纸片马里奥：千年之门"
-tags: [“中文”,“冒险”,“解密”]
+tags: ["中文","冒险","解密"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Paper Mario The Thousand-Year Door
 容量：5.1G
 
 [百度网盘](https://pan.baidu.com/s/1egE2Kqp7DVNAW8sxg1wF2Q) 提取码: fyd2  
-![图片1](img/noowvxtdmart.jpg)![图片2](img/qjtsb6x07rj0t.jpg)![图片3](img/HfDoNE.jpg)  
+![图片1](/img/noowvxtdmart.jpg)![图片2](/img/qjtsb6x07rj0t.jpg)![图片3](/img/HfDoNE.jpg)  
 
 游戏简介  
 《纸片马里奥：千年之门》（Paper Mario: The Thousand-Year Door）是由任天堂开发并发行的一款角色扮演游戏，是纸片马里奥系列的第二部作品。游戏最初于2004年在日本发售，随后在北美和欧洲地区推出。这款游戏以其独特的艺术风格、幽默的剧情和创新的游戏机制而受到玩家的喜爱。
@@ -36,7 +36,7 @@ Paper Mario The Thousand-Year Door
 
 - **探索与解谜**：游戏世界广阔，包含多个不同的区域和城市，玩家需要探索这些区域，与NPC对话，收集物品，并解决各种谜题。
 
-- **艺术风格**：游戏以其独特的“纸片”艺术风格而闻名，所有的角色和环境都像是从纸板上剪下来的，这种风格给游戏带来了一种独特的视觉效果。
+- **艺术风格**：游戏以其独特的"纸片"艺术风格而闻名，所有的角色和环境都像是从纸板上剪下来的，这种风格给游戏带来了一种独特的视觉效果。
 
 - **评价**：《纸片马里奥：千年之门》因其深刻的剧情、丰富的角色和创新的游戏机制而受到广泛好评，被认为是纸片马里奥系列中的经典之作。
 

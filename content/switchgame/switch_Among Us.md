@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "我们之中[2024.9.4|XCI]"
-image: "img/qek87a1Mbj2OPU.webp"
+title: "Switch 我们之中[2024.9.4|XCI]"
+image: "/img/qek87a1Mbj2OPU.webp"
 draft: false
 date: 2024-10-30
 description: "Switch 我们之中"
-tags: [“中文”,“多人”,“策略”,“派对”]
+tags: ["中文","多人","策略","派对"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Among Us
 容量：800M
 
 [百度网盘](https://pan.baidu.com/s/1blR1F_4MJdYCAl5Zhdfc6w) 提取码: fyd2  
-![图片1](img/2416e11.jpg)![图片2](img/8f95091f608fa010.jpg)![图片3](img/e19ff657fa51.jpg)  
+![图片1](/img/2416e11.jpg)![图片2](/img/8f95091f608fa010.jpg)![图片3](/img/e19ff657fa51.jpg)  
 
 游戏简介  
 《我们之中》（Among Us）是一款在Nintendo Switch平台上推出的社交推理游戏，以其狼人杀游戏模式为背景，深受玩家喜爱。以下是关于这款游戏的一些详细信息：

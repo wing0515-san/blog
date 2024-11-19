@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "火焰之纹章 风花雪月[1.2+6DLC|XCI]"
-image: "img/202410221001.jpg"
+title: "Switch 火焰之纹章 风花雪月[1.2+6DLC|XCI]"
+image: "/img/202410221001.jpg"
 draft: false
 date: 2024-10-30
 description: "Switch 火焰之纹章 风花雪月"
-tags: [“中文”,“角色扮演”,“策略”,“文字冒险”]
+tags: ["中文","角色扮演","策略","文字冒险"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Fire Emblem Three Houses
 容量：12.6G
 
 [百度网盘](https://pan.baidu.com/s/1qPQvE1oHrQJYzV4RPTp6yQ) 提取码: 1pxu  
-![图片1](img/6716e307357ea1c7d5.png)![图片2](img/ByPvSt3nfnTX.jfif)![图片3](img/81ae27b1fe.png)  
+![图片1](/img/6716e307357ea1c7d5.png)![图片2](/img/ByPvSt3nfnTX.jfif)![图片3](/img/81ae27b1fe.png)  
 
 游戏简介  
 《火焰纹章：风花雪月》（Fire Emblem: Three Houses）是由Intelligent Systems开发，任天堂发行的一款战术角色扮演游戏，属于《火焰纹章》系列。这款游戏于2019年7月26日在Nintendo Switch平台发售。

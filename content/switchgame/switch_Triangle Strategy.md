@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "三角战略[1.1|XCI]"
-image: "img/cf378e5f.jpg"
+title: "Switch 三角战略[1.1|XCI]"
+image: "/img/cf378e5f.jpg"
 draft: false
 date: 2024-10-30
 description: "Switch 三角战略"
-tags: [“中文”,“策略”]
+tags: ["中文","策略"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Triangle Strategy
 容量：8G
 
 [百度网盘](https://pan.baidu.com/s/1BD10y9rrOWckcH_Cfww7Cw) 提取码: ibrj  
-![图片1](img/77eaf372.jpeg)![图片2](img/b09603bf.jpg)![图片3](img/2021092616326.jpg)  
+![图片1](/img/77eaf372.jpeg)![图片2](/img/b09603bf.jpg)![图片3](/img/2021092616326.jpg)  
 
 游戏简介  
 《三角战略》（Triangle Strategy）是一款由Square Enix开发和发行的战术角色扮演游戏（SRPG）。这款游戏于2022年3月4日在Nintendo Switch平台发售。《三角战略》以其精美的HD-2D图形、深入的剧情和战术战斗系统而受到玩家和评论家的好评。
@@ -32,7 +32,7 @@ Triangle Strategy
 
 1. **战术战斗系统**：游戏采用了经典的网格状战术战斗系统，玩家需要在战场上策略性地移动和部署角色，使用各种武器和技能。
 
-2. **BIS系统**：游戏引入了“信念和忠诚度”（Belief and Loyalty）系统，玩家的选择会影响角色的信念和忠诚度，进而影响他们的行为和战斗能力。
+2. **BIS系统**：游戏引入了"信念和忠诚度"（Belief and Loyalty）系统，玩家的选择会影响角色的信念和忠诚度，进而影响他们的行为和战斗能力。
 
 3. **职业系统**：角色可以转职为不同的职业，每个职业都有其独特的技能和能力。
 

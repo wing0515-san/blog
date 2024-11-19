@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "拉库纳[1.0.4|XCI]"
-image: "img/a97773468f6.jpg"
+title: "Switch 拉库纳[1.0.4|XCI]"
+image: "/img/a97773468f6.jpg"
 draft: false
 date: 2024-10-30
 description: "Switch 拉库纳"
-tags: [“中文”,“文字冒险”,“解谜”]
+tags: ["中文","文字冒险","解谜"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Lacuna
 容量：2.3G
 
 [百度网盘](https://pan.baidu.com/s/184xFdD9aBCDQUWZyElNf-A) 提取码: fyd2  
-![图片1](img/2e6c1670341.jpg)![图片2](img/7dba873b4.jpg)![图片3](img/52e6c167034.jpg)  
+![图片1](/img/2e6c1670341.jpg)![图片2](/img/7dba873b4.jpg)![图片3](/img/52e6c167034.jpg)  
 
 游戏简介  
 您好，关于Nintendo Switch平台上的《拉库纳》（Lacuna）游戏，以下是一些详细信息：

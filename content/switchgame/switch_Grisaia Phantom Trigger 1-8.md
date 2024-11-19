@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "灰色：幻影扳机系列[1-8|XCI]"
-image: "img/8cc442bb3.jfif"
+title: "Switch 灰色：幻影扳机系列[1-8|XCI]"
+image: "/img/8cc442bb3.jfif"
 draft: false
 date: 2024-10-30
 description: "Switch 灰色：幻影扳机 1-8"
-tags: [“中文”,“文字冒险”]
+tags: ["中文","文字冒险"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Grisaia Phantom Trigger 1-8
 容量：ALL-14G
 
 [百度网盘](https://pan.baidu.com/s/1wFsU1zmjY_Hr65_8cmJ13g) 提取码: hh2x  
-![图片1](img/3d341a3d3d.jpg)![图片2](img/1c709d02b44.jpg)![图片3](img/41b23f23256ac.jpg)  
+![图片1](/img/3d341a3d3d.jpg)![图片2](/img/1c709d02b44.jpg)![图片3](/img/41b23f23256ac.jpg)  
 
 游戏简介  
 《灰色：幻影扳机》（Grisaia: Phantom Trigger）是由FrontWing开发的视觉小说游戏，属于《灰色》系列的作品。游戏的故事发生在《灰色的乐园》之后，主要场景设定在一所特殊技能训练学校，这里聚集了因各种原因失去容身之地的少女们，她们被赋予枪与子弹，执行危险的任务。

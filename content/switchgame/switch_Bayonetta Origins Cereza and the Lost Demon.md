@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "贝优妮塔 起源 瑟蕾莎与迷失的恶魔"
-image: "img/a0135748.png"
+title: "Switch 贝优妮塔 起源 瑟蕾莎与迷失的恶魔"
+image: "/img/a0135748.png"
 draft: false
 date: 2024-10-30
 description: "Switch 贝优妮塔 起源 瑟蕾莎与迷失的恶魔"
-tags: [“中文”,“动作”,“冒险”]
+tags: ["中文","动作","冒险"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Bayonetta Origins Cereza and the Lost Demon
 容量：7.4G
 
 [百度网盘](https://pan.baidu.com/s/17hGgmZWoLvKRfbX6qAcwDg) 提取码: g4kv  
-![图片1](img/b9d615b6.jpg)![图片2](img/aaa4910a.jpg)![图片3](img/3KXNlJ2dlo3Y1d4.jpg)  
+![图片1](/img/b9d615b6.jpg)![图片2](/img/aaa4910a.jpg)![图片3](/img/3KXNlJ2dlo3Y1d4.jpg)  
 
 游戏简介  
 《猎天使魔女起源：塞雷莎与失落的恶魔》是一款 2023 年的动作冒险游戏，由PlatinumGames开发，任天堂为Nintendo Switch发行。作为《猎天使魔女》系列的前传，它讲述了同名主角作为年轻女巫塞雷莎 的故事

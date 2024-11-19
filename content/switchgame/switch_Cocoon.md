@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "茧[1.0.3|XCI]"
-image: "img/20241030105614.png"
+title: "Switch 茧[1.0.3|XCI]"
+image: "/img/20241030105614.png"
 draft: false
 date: 2024-10-30
 description: "Switch 茧"
-tags: [“中文”,“解密”,“冒险”]
+tags: ["中文","解密","冒险"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Cocoon
 容量：2.7G
 
 [百度网盘](https://pan.baidu.com/s/1UJ38V1d8eA5I5A97tyebCA) 提取码: fyd2  
-![图片1](img/35ce031cdb.jpg)![图片2](img/edba0e9cbf89a.jpg)![图片3](img/6c35b3d748.jpg)  
+![图片1](/img/35ce031cdb.jpg)![图片2](/img/edba0e9cbf89a.jpg)![图片3](/img/6c35b3d748.jpg)  
 
 游戏简介  
 来自《LIMBO》和《INSIDE》的首席游戏设计师 Jeppe Carlsen 的作品——《COCOON》将带你在世界中的世界进行冒险。掌握世界跳跃的机制，揭开宇宙的神秘面纱。

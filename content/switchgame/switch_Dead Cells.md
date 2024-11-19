@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "死亡细胞[1.25.0+5DLC|XCI]"
-image: "img/1686812498761.jfif"
+title: "Switch 死亡细胞[1.25.0+5DLC|XCI]"
+image: "/img/1686812498761.jfif"
 draft: false
 date: 2024-10-30
 description: "Switch 死亡细胞"
-tags: [“Roguelike”,“动作”,“中文”]
+tags: ["Roguelike","动作","中文"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Dead Cells
 容量：2.4G
 
 [百度网盘](https://pan.baidu.com/s/18Mpzy4iT3rbcticWS6hpiQ) 提取码: 781y  
-![图片1](img/c95a9ce6c66674a6.jpg)![图片2](img/d88bc1468ee67fa1fc56.jpg)![图片3](img/b73c9927e3.jpg)  
+![图片1](/img/c95a9ce6c66674a6.jpg)![图片2](/img/d88bc1468ee67fa1fc56.jpg)![图片3](/img/b73c9927e3.jpg)  
 
 游戏简介  
 《死亡细胞》（Dead Cells）是一款由法国开发商Motion Twin制作的独立动作平台游戏，它结合了Roguelike和Roguelite元素。游戏首次在2017年5月10日发布了抢先体验版，并于2018年8月7日正式发售。《死亡细胞》在多个平台上发布，包括PC、PlayStation 4、Xbox One和Nintendo Switch。

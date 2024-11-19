@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "高级战争1+2 重新训练营[1.0|XCI]"
-image: "img/1c6142e4.jpg"
+title: "Switch 高级战争1+2 重新训练营[1.0|XCI]"
+image: "/img/1c6142e4.jpg"
 draft: false
 date: 2024-10-30
 description: "Switch 高级战争1+2 重新训练营"
-tags: [“中文”,“策略”]
+tags: ["中文","策略"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Advance Wars 1+2 Re-Boot Camp
 容量：7.2G
 
 [百度网盘](https://pan.baidu.com/s/1-0sCuUzxD6INAAaFhJ18Lg) 提取码: bhsf  
-![图片1](img/52ea086a.jpg)![图片2](img/0d4ca459.jpg)![图片3](img/95ea9532.jpg)  
+![图片1](/img/52ea086a.jpg)![图片2](/img/0d4ca459.jpg)![图片3](/img/95ea9532.jpg)  
 
 游戏简介  
 《高级战争》（Advance Wars）是一款由Intelligent Systems开发，任天堂发行的回合制策略游戏系列。该系列最初于2001年在Game Boy Advance平台上推出，以其易于上手但难以精通的游戏体验而受到玩家的喜爱。

@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "杀戮尖塔[2.3.1|XCI]"
-image: "img/202410291058.jpg"
+title: "Switch 杀戮尖塔[2.3.1|XCI]"
+image: "/img/202410291058.jpg"
 draft: false
 date: 2024-10-30
 description: "Switch 杀戮尖塔"
-tags: [“中文”,“卡牌”,“策略”,“Roguelike”]
+tags: ["中文","卡牌","策略","Roguelike"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Slay the Spire
 容量：600M
 
 [百度网盘](https://pan.baidu.com/s/1mZ11wXfhpqT-T-dxGU-ixw) 提取码: fyd2  
-![图片1](img/3e58cefd663.jpg)![图片2](img/8725d77291.jpg)![图片3](img/5bc03765f9f6c7e4.jpg)  
+![图片1](/img/3e58cefd663.jpg)![图片2](/img/8725d77291.jpg)![图片3](/img/5bc03765f9f6c7e4.jpg)  
 
 游戏简介  
 《杀戮尖塔》（Slay the Spire）是一款由Mega Crit Games开发并发行的策略类卡牌游戏，它在Nintendo Switch平台上的表现如下：

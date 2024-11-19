@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "马里奥卡丁车实况家庭赛车场[2.0.0|XCI]"
-image: "img/202410230855.jpg"
+title: "Switch 马里奥卡丁车实况家庭赛车场[2.0.0|XCI]"
+image: "/img/202410230855.jpg"
 draft: false
 date: 2024-10-30
 description: "Switch 马里奥卡丁车实况 家庭赛车场"
-tags: [“中文”,“运动”,“多人”]
+tags: ["中文","运动","多人"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Mario Kart Live  Home Circuit
 容量：1.9G
 
 [百度网盘](https://pan.baidu.com/s/1zwcOcsJ_OWSVBf4eF4L7Ig) 提取码: 963n  
-![图片1](img/24df55d7.jpg)![图片2](img/a97115c0.png)![图片3](img/9b6647b6.jpg)  
+![图片1](/img/24df55d7.jpg)![图片2](/img/a97115c0.png)![图片3](/img/9b6647b6.jpg)  
 
 游戏简介  
 《马里奥卡丁车实况：家庭赛车场》（Mario Kart Live: Home Circuit）是一款结合了实体玩具和视频游戏的创新产品，由任天堂开发并发行。这款游戏在2020年10月16日随同Nintendo Switch游戏《马里奥卡丁车8豪华版》（Mario Kart 8 Deluxe）的一个特别更新一起发布。

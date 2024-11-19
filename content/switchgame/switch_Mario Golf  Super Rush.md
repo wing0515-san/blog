@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "马里奥高尔夫超级冲冲冲[4.0|XCI]"
-image: "img/a430d7c9.jpg"
+title: "Switch 马里奥高尔夫超级冲冲冲[4.0|XCI]"
+image: "/img/a430d7c9.jpg"
 draft: false
 date: 2024-10-30
 description: "Switch 马里奥高尔夫超级冲冲冲"
-tags: [“中文”,“运动”,“多人”]
+tags: ["中文","运动","多人"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Mario Golf  Super Rush
 容量：4.2G
 
 [百度网盘](https://pan.baidu.com/s/1s9DAmfDVz7dTJpytu2dYAA) 提取码: rggd  
-![图片1](img/3f8229ee.jpg)![图片2](img/36989ed7.jpg)![图片3](img/4fc5826d.jpg)  
+![图片1](/img/3f8229ee.jpg)![图片2](/img/36989ed7.jpg)![图片3](/img/4fc5826d.jpg)  
 
 游戏简介  
 《马里奥高尔夫：超级冲冲冲》（Mario Golf: Super Rush）是由Camelot Software Planning开发，任天堂发行的一款体育竞技游戏，属于《马里奥高尔夫》系列。这款游戏于2021年6月25日在Nintendo Switch平台发售。

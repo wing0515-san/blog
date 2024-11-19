@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "死亡之门[1.1.6|XCI]"
-image: "img/8bba84590.jpg"
+title: "Switch 死亡之门[1.1.6|XCI]"
+image: "/img/8bba84590.jpg"
 draft: false
 date: 2024-10-30
 description: "Switch 死亡之门"
-tags: [“中文”,“动作”,“冒险”,“解密”]
+tags: ["中文","动作","冒险","解密"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Death's Door
 容量：2.7G
 
 [百度网盘](https://pan.baidu.com/s/1QMW2TkY3bf95p3a1U3fk6A) 提取码: fyd2  
-![图片1](img/9061148e3.jpg)![图片2](img/150beb6.jpg)![图片3](img/d9b5a2e4.jpg)  
+![图片1](/img/9061148e3.jpg)![图片2](/img/150beb6.jpg)![图片3](/img/d9b5a2e4.jpg)  
 
 游戏简介  
 《死亡之门》（Death's Door）是一款在Nintendo Switch平台上发售的动作冒险游戏。以下是关于这款游戏的一些信息：

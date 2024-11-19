@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "机甲战魔[1.42a+82DLC|XCI]"
-image: "img/21e94ca7.jpg"
+title: "Switch 机甲战魔[1.42a+82DLC|XCI]"
+image: "/img/21e94ca7.jpg"
 draft: false
 date: 2024-10-30
 description: "Switch 机甲战魔"
-tags: [“中文”,“动作”,“射击”]
+tags: ["中文","动作","射击"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ DAEMON X MACHINA
 容量：7G
 
 [百度网盘](https://pan.baidu.com/s/17iwKp-ENnFw5suFKvsJQPA) 提取码: kc1j  
-![图片1](img/7854275a.jpg)![图片2](img/3ed0dcac.jpg)![图片3](img/1cd032c4.jpg)  
+![图片1](/img/7854275a.jpg)![图片2](/img/3ed0dcac.jpg)![图片3](/img/1cd032c4.jpg)  
 
 游戏简介  
 《机甲战魔》（Daemon X Machina）是由Marvelous Inc.开发并发行的一款动作机甲角色扮演游戏（ARPG）。游戏最初于2019年9月13日在Nintendo Switch平台发售。

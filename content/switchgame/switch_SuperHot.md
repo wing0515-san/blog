@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "燥热[1.0.2+1DLC|XCI]"
-image: "img/XvLghvbnCvxwaiq.jpg"
+title: "Switch 燥热[1.0.2+1DLC|XCI]"
+image: "/img/XvLghvbnCvxwaiq.jpg"
 draft: false
 date: 2024-10-30
 description: "Switch 燥热"
-tags: [“中文”,“动作”,“射击”]
+tags: ["中文","动作","射击"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ SuperHot
 容量：2.8G
 
 [百度网盘](https://pan.baidu.com/s/1yLeYv-F5ZIei3BcMHVQgwA) 提取码: fyd2  
-![图片1](img/d97f703754f.jpg)![图片2](img/4b8b4ec79.jpg)![图片3](img/d988fa8395.jpg)  
+![图片1](/img/d97f703754f.jpg)![图片2](/img/4b8b4ec79.jpg)![图片3](/img/d988fa8395.jpg)  
 
 游戏简介  
 您好，关于Nintendo Switch平台上的《燥热》（Superhot）游戏，以下是一些相关信息：

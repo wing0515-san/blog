@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "怪物男孩与被诅咒的王国[1.0.5|XCI]"
-image: "img/H2x1.jpg"
+title: "Switch 怪物男孩与被诅咒的王国[1.0.5|XCI]"
+image: "/img/H2x1.jpg"
 draft: false
 date: 2024-10-30
 description: "Switch 怪物小子诅咒王国"
-tags: [“中文”,“动作”,“平台”]
+tags: ["中文","动作","平台"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Monster Boy and the Cursed Kingdom
 容量：5.7G
 
 [百度网盘](https://pan.baidu.com/s/172uXxTCgNmQyH-BpKn_5LA) 提取码: fyd2  
-![图片1](img/00b972a30d1d.jpg)![图片2](img/502b9108e2604.jpg)![图片3](img/5b187c5a2b732.jpg)  
+![图片1](/img/00b972a30d1d.jpg)![图片2](/img/502b9108e2604.jpg)![图片3](/img/5b187c5a2b732.jpg)  
 
 游戏简介  
 《怪物小子》（Monster Boy and the Cursed Kingdom）是一款由FDG Entertainment开发的横版动作冒险游戏。这款游戏是经典系列《神奇小子》（Wonder Boy）的现代续作，继承了该系列的玩法和风格。以下是游戏的一些基本信息：

@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "贝优妮塔 1+2+3[1.1+1.2+1.1|XCI]"
-image: "img/ff3fccfb.jpeg"
+title: "Switch 贝优妮塔 1+2+3[1.1+1.2+1.1|XCI]"
+image: "/img/ff3fccfb.jpeg"
 draft: false
 date: 2024-10-30
 description: "Switch 贝优妮塔 1+2+3"
-tags: [“中文”,“动作”]
+tags: ["中文","动作"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Beyonetta 1+2+3
 容量：8.8G+12.5G+15.8G
 
 [百度网盘](https://pan.baidu.com/s/1HH6S8YNiCm2-sPtecIMzqg) 提取码: w4m5  
-![图片1](img/2a89c68e.jpg)![图片2](img/28a64c5a.jpg)![图片3](img/202410221044.jpg)  
+![图片1](/img/2a89c68e.jpg)![图片2](/img/28a64c5a.jpg)![图片3](/img/202410221044.jpg)  
 
 游戏简介  
 《贝优妮塔》（Bayonetta）系列是由白金工作室（PlatinumGames）开发，世嘉（Sega）发行的动作游戏系列。该系列以其华丽的战斗、独特的角色设计和丰富的故事情节而受到玩家和评论家的高度评价。以下是该系列的主要作品：

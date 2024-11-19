@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "英雄连合集[1.0|XCI]"
-image: "img/b53b6d5da2b0.jpg"
+title: "Switch 英雄连合集[1.0|XCI]"
+image: "/img/b53b6d5da2b0.jpg"
 draft: false
 date: 2024-10-30
 description: "Switch 英雄连合集"
-tags: [“中文”,“动作”,“策略”]
+tags: ["中文","动作","策略"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Company of Heroes Collection
 容量：8.5G
 
 [百度网盘](https://pan.baidu.com/s/1k3a_MLz0ESjR28al8MKdjA) 提取码: b9e6  
-![图片1](img/b7091f205.jpg)![图片2](img/0a0a24c197626.jpg)![图片3](img/8b7695837336.jpg)  
+![图片1](/img/b7091f205.jpg)![图片2](/img/0a0a24c197626.jpg)![图片3](/img/8b7695837336.jpg)  
 
 游戏简介  
 《英雄连合集》（Company of Heroes Collection）是一款由Relic Entertainment研发的实时战略游戏，它首次登陆了Nintendo Switch平台。这款游戏合集包含了游戏本体及其两个扩展包《Opposing Fronts（抵抗前线）》和《Tales of Valor（勇气传说）》。玩家将参与以二战时期盟军解放法国为背景的恢弘史诗战役，从惊心动魄的诺曼底登陆战开始，逐步深入体验整个诺曼底战役。

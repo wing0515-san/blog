@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "隐迹渐显[1.0|XCI]"
-image: "img/20241030142313.png"
+title: "Switch 隐迹渐显[1.0|XCI]"
+image: "/img/20241030142313.png"
 draft: false
 date: 2024-10-30
 description: "Switch 隐迹渐显"
-tags: [“中文”,“冒险”,“解密”]
+tags: ["中文","冒险","解密"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Pentiment
 容量：4.4G
 
 [百度网盘](https://pan.baidu.com/s/1QPPWG2Ed4ZZWbaZn59Z3Cw) 提取码: fyd2  
-![图片1](img/04c13cc3e7.jpg)![图片2](img/3572e235e0.jpg)![图片3](img/c9c6a041add3a9a.jpg)  
+![图片1](/img/04c13cc3e7.jpg)![图片2](/img/3572e235e0.jpg)![图片3](/img/c9c6a041add3a9a.jpg)  
 
 游戏简介  
 《Pentiment》是一款由Obsidian Entertainment开发的角色扮演游戏（RPG），以其深刻的剧情、丰富的角色发展和选择影响结果的游戏机制而受到玩家和评论家的高度评价。游戏背景设定在16世纪的德国，玩家将扮演一名插画师，卷入一系列谋杀案的调查中。

@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "囚禁[1.0.3|XCI]"
-image: "img/20241030170045.png"
+title: "Switch 囚禁[1.0.3|XCI]"
+image: "/img/20241030170045.png"
 draft: false
 date: 2024-10-30
 description: "Switch 囚禁"
-tags: [“中文”,“解密”,“动作”]
+tags: ["中文","解密","动作"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Inside
 容量：1.5G
 
 [百度网盘](https://pan.baidu.com/s/1Hd3Ud0lh7TomZGn5uTUgsg) 提取码: fyd2  
-![图片1](img/cb5a63a3f2b.jpg)![图片2](img/5f6b8d94f665.jpg)![图片3](img/efc0657aa8.jpg)  
+![图片1](/img/cb5a63a3f2b.jpg)![图片2](/img/5f6b8d94f665.jpg)![图片3](/img/efc0657aa8.jpg)  
 
 游戏简介  
 《Inside》是一款由Playdead Studios开发的独立平台冒险游戏，继他们广受好评的游戏《Limbo》之后推出。《Inside》以其黑暗的氛围、引人入胜的叙事和精巧的解谜设计而闻名。

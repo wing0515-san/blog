@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "lb恐怖美术馆[1.0.9|XCI]"
-image: "img/3721e5ae3dd9jpg"
+title: "Switch lb恐怖美术馆[1.0.9|XCI]"
+image: "/img/3721e5ae3dd9.jpg"
 draft: false
 date: 2024-10-30
 description: "Switch 恐怖美术馆"
-tags: [“中文”,“恐怖”,“冒险”,“解密”]
+tags: ["中文","恐怖","冒险","解密"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Ib
 容量：300M
 
 [百度网盘](https://pan.baidu.com/s/1PSyzOAaVNw3mNfyzZhWSGw) 提取码: d5pt  
-![图片1](img/ss_c0efed18.jpg)![图片2](img/3cd86c57e3.jpg)![图片3](img/ss_e83a2d0.jpg)  
+![图片1](/img/ss_c0efed18.jpg)![图片2](/img/3cd86c57e3.jpg)![图片3](/img/ss_e83a2d0.jpg)  
 
 游戏简介  
 《Ib 恐怖美术馆》是一款由独立游戏开发者kouri制作的2D探索性冒险游戏，以其独特的美术馆恐怖解谜元素和多个分支结局而受到玩家的喜爱。游戏最初于2012年发布，后来推出了重制版，以庆祝游戏发布十周年。

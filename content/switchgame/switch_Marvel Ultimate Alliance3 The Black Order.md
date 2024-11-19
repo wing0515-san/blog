@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "漫威终极联盟3黑暗教团[4.0.1+1DLC|XCI]"
-image: "img/25c45fe9.jpg"
+title: "Switch 漫威终极联盟3黑暗教团[4.0.1+1DLC|XCI]"
+image: "/img/25c45fe9.jpg"
 draft: false
 date: 2024-10-30
 description: "Switch 漫威终极联盟3黑暗教团"
-tags: [“中文”,“动作”,“多人”]
+tags: ["中文","动作","多人"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Marvel Ultimate Alliance3 The Black Order
 容量：17.9G
 
 [百度网盘](https://pan.baidu.com/s/1A3-9RSEAGdY7Al-o1FgUgw) 提取码: z4uf  
-![图片1](img/6154b6c4.jpg)![图片2](img/c15fe2a3.jpg)![图片3](img/eb811bb167a3.jpeg)  
+![图片1](/img/6154b6c4.jpg)![图片2](/img/c15fe2a3.jpg)![图片3](/img/eb811bb167a3.jpeg)  
 
 游戏简介  
 《漫威终极联盟：黑暗教团》（Marvel Ultimate Alliance: The Black Order）是一款基于漫威漫画宇宙的角色扮演游戏。这款游戏由Marvel Entertainment和Nintendo合作开发，最初于2006年发布，后来在多个平台上推出了续作和重制版本。

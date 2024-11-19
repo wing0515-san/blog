@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "少女的噩梦[1.2.2|XCI]"
-image: "img/202410241057.jpg"
+title: "Switch 少女的噩梦[1.2.2|XCI]"
+image: "/img/202410241057.jpg"
 draft: false
 date: 2024-10-30
 description: "Switch 少女的噩梦"
-tags: [“中文”,“射击”]
+tags: ["中文","射击"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ NeverAwake
 容量：2.4G
 
 [百度网盘](https://pan.baidu.com/s/1gfxD3I9kVyX2Oak8KmhTOQ) 提取码: mkq5  
-![图片1](img/65982fcff2e7d9bb.jpg)![图片2](img/75b7f86c7f38bd0.jpg)![图片3](img/470dd826ca8d285b.jpg)  
+![图片1](/img/65982fcff2e7d9bb.jpg)![图片2](/img/75b7f86c7f38bd0.jpg)![图片3](/img/470dd826ca8d285b.jpg)  
 
 游戏简介  
 《少女的噩梦》（NeverAwake）是一款由Neotro Inc.开发，Phoenixx Inc.发行的动作射击游戏。这款游戏以其独特的世界观和原创的游戏规则，为玩家提供了一个噩梦般的双摇杆射击体验。

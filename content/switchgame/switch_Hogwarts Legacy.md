@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "霍格沃茨之遗[1.0.4+11DLC|XCI]"
-image: "img/1697227259.jpg"
+title: "Switch 霍格沃茨之遗[1.0.4+11DLC|XCI]"
+image: "/img/1697227259.jpg"
 draft: false
 date: 2024-10-30
 description: "Switch 霍格沃茨之遗"
-tags: [“中文”,“角色扮演”,“冒险”]
+tags: ["中文","角色扮演","冒险"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Hogwarts Legacy
 容量：22.4G
 
 [百度网盘](https://pan.baidu.com/s/1V_XL2VFtDmFlt60aW4JFyg) 提取码: b9e6  
-![图片1](img/725bf58485.jpg)![图片2](img/4930d675a.jpg)![图片3](img/cd6d7e979e.jpg)  
+![图片1](/img/725bf58485.jpg)![图片2](/img/4930d675a.jpg)![图片3](/img/cd6d7e979e.jpg)  
 
 游戏简介  
 《霍格沃茨之遗》（Hogwarts Legacy）是一款由Avalanche Software开发的沉浸式开放世界动作角色扮演游戏，它基于《哈利·波特》系列书籍设定。游戏的故事发生在《哈利·波特》原著的大约100年以前，玩家将扮演一名握有古老秘密之钥匙的学生，这个秘密可能会威胁到整个魔法世界。在游戏中，玩家将造访那些熟悉的和陌生的地点，发现奇妙的野兽，自定义角色并制造魔药，掌握施放咒语的技巧，升级天赋并成为玩家所向往的巫师。

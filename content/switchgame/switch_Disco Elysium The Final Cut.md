@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "极乐迪斯科 最终剪辑版[1.0.12|XCI]"
-image: "img/20241029144553.png"
+title: "Switch 极乐迪斯科 最终剪辑版[1.0.12|XCI]"
+image: "/img/20241029144553.png"
 draft: false
 date: 2024-10-30
 description: "Switch 极乐迪斯科 最终剪辑版"
-tags: [“中文”,“角色扮演”,“文字冒险”,“动作”]
+tags: ["中文","角色扮演","文字冒险","动作"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Disco Elysium The Final Cut
 容量：7.5G
 
 [百度网盘](https://pan.baidu.com/s/1ldt3UbMsunhancSerIjRNw) 提取码: fyd2  
-![图片1](img/125a718e.jpg)![图片2](img/6e819168ec4.jpg)![图片3](img/615b3a1d0d.jpg)  
+![图片1](/img/125a718e.jpg)![图片2](/img/6e819168ec4.jpg)![图片3](/img/615b3a1d0d.jpg)  
 
 游戏简介  
 《极乐迪斯科：最终剪辑版》（Disco Elysium: The Final Cut）已经登陆Nintendo Switch平台。以下是关于这款游戏的一些详细信息：

@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "密特罗德生存恐惧[2.1.0|XCI]"
-image: "img/19f004056f29c35.jpeg"
+title: "Switch 密特罗德生存恐惧[2.1.0|XCI]"
+image: "/img/19f004056f29c35.jpeg"
 draft: false
 date: 2024-10-30
 description: "Switch 密特罗德生存恐惧"
-tags: [“中文”,“动作”,“银河恶魔城”,“射击”]
+tags: ["中文","动作","银河恶魔城","射击"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Metroid Dread
 容量：4.3G
 
 [百度网盘](https://pan.baidu.com/s/1h6om4ZW9sJt-YeLCxO7iww) 提取码: u954  
-![图片1](img/0e4b5b53.jpg)![图片2](img/c969952e.jpg)![图片3](img/beddc100.jpg)  
+![图片1](/img/0e4b5b53.jpg)![图片2](/img/c969952e.jpg)![图片3](/img/beddc100.jpg)  
 
 游戏简介  
 《密特罗德 生存恐惧》（Metroid Dread）是由任天堂开发并发行的一款动作冒险游戏，属于《密特罗德》（Metroid）系列。这款游戏于2021年10月8日在Nintendo Switch平台发售。

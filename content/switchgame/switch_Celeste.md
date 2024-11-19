@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "蔚蓝[1.4|XCI]"
-image: "img/20241030164837.png"
+title: "Switch 蔚蓝[1.4|XCI]"
+image: "/img/20241030164837.png"
 draft: false
 date: 2024-10-30
 description: "Switch 蔚蓝"
-tags: [“中文”,“动作”,“平台”]
+tags: ["中文","动作","平台"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Celeste
 容量：1.5G
 
 [百度网盘](https://pan.baidu.com/s/12CAeK7VwT9YlAlSMKV9qIg) 提取码: fyd2  
-![图片1](img/6b2d2cd.jpg)![图片2](img/5828af4b1ff4e7c1.jpg)![图片3](img/fe6bd5dda.jpg)  
+![图片1](/img/6b2d2cd.jpg)![图片2](/img/5828af4b1ff4e7c1.jpg)![图片3](/img/fe6bd5dda.jpg)  
 
 游戏简介  
 《蔚蓝》是一款由独立游戏开发者Matt Makes Games开发的2D平台跳跃游戏，以下是关于这款游戏的一些简介：
@@ -38,6 +38,6 @@ Celeste
 
 6. **奖项**：游戏获得了多个奖项，包括2018年的Game Developers Choice Awards（游戏开发者选择奖）的最佳独立游戏奖。
 
-7. **扩展内容**：游戏还推出了名为“告别”（Farewell）的扩展包，为玩家提供了新的关卡和挑战。
+7. **扩展内容**：游戏还推出了名为"告别"（Farewell）的扩展包，为玩家提供了新的关卡和挑战。
 
 《蔚蓝》是一款情感深刻、挑战性强的游戏，适合喜欢挑战自我和探索深刻故事的玩家。

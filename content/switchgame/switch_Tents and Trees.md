@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "帐篷和树[1.0.6|XCI]"
-image: "img/20241030141447.png"
+title: "Switch 帐篷和树[1.0.6|XCI]"
+image: "/img/20241030141447.png"
 draft: false
 date: 2024-10-30
 description: "Switch 帐篷和树"
-tags: [“中文”,“多人”,“益智”,“派对”]
+tags: ["中文","多人","益智","派对"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Tents and Trees
 容量：151M
 
 [百度网盘](https://pan.baidu.com/s/1_P2YAIiFl4q46eND0YEJcw) 提取码: fyd2  
-![图片1](img/3fdee2a9.jpg)![图片2](img/31a25ec54.jpg)![图片3](img/1f13d0f90.jpg)  
+![图片1](/img/3fdee2a9.jpg)![图片2](/img/31a25ec54.jpg)![图片3](/img/1f13d0f90.jpg)  
 
 游戏简介  
 

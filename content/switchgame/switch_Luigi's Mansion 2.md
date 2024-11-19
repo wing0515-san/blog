@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "路易吉鬼屋2HD[1.0|XCI]"
-image: "img/9c3d9f84006ce1.jpg"
+title: "Switch 路易吉鬼屋2HD[1.0|XCI]"
+image: "/img/9c3d9f84006ce1.jpg"
 draft: false
 date: 2024-10-30
 description: "Switch 路易吉鬼屋2HD"
-tags: [“解密”,“中文”,“多人”,“动作”,“冒险”]
+tags: ["解密","中文","多人","动作","冒险"]
 archives: ["2024/10/30"]
 
 ---
@@ -14,14 +14,14 @@ archives: ["2024/10/30"]
 游戏名称：路易吉鬼屋2HD   
 Luigi's Mansion 2    
 游戏语言：中文  
-首发日期：45470  
+首发日期：2024年6月27日  
 解压密码：wing515  
 是否有金手指：是  
 版本：1.0   
 容量：3.7G
 
 [百度网盘](https://pan.baidu.com/s/1hh8hSWlycoJGkxav64wGIw) 提取码: r9ik  
-![图片1](img/f57a0560f9becf2b.jpg)![图片2](img/79786a15af8bddefd.jpg)![图片3](img/970714c9ac3b44.jpg)  
+![图片1](/img/f57a0560f9becf2b.jpg)![图片2](/img/79786a15af8bddefd.jpg)![图片3](/img/970714c9ac3b44.jpg)  
 
 游戏简介  
 《路易鬼屋2HD》是《路易吉洋楼2》的高清重制版，于2024年6月27日正式在Nintendo Switch平台上发售。‌ 该游戏最初在3DS平台上推出时便深受玩家喜爱，现在经过升级和改进，以更加出色的画面质量和游戏体验登陆Switch平台。游戏支持简体中文和繁体中文字幕，为玩家们提供了更加沉浸式的冒险体验‌。

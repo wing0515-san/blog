@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "重力回路[1.2.1|XCI]"
-image: "img/20241030135737.png"
+title: "Switch 重力回路[1.2.1|XCI]"
+image: "/img/20241030135737.png"
 draft: false
 date: 2024-10-30
 description: "Switch 重力回路"
-tags: [“中文”,“平台”,“动作”]
+tags: ["中文","平台","动作"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Gravity Circuit
 容量：500M
 
 [百度网盘](https://pan.baidu.com/s/1eIdIx94I0O_N8YnoM-ZQ6Q) 提取码: fyd2  
-![图片1](img/c4ae2b5814.jpg)![图片2](img/c50dff35a2a.jpg)![图片3](img/47ae308e3cd.jpg)  
+![图片1](/img/c4ae2b5814.jpg)![图片2](/img/c50dff35a2a.jpg)![图片3](/img/47ae308e3cd.jpg)  
 
 游戏简介  
 Gravity Circuit - 款继承了掌机游戏灵魂的酷炫动作 2D 平台游戏。

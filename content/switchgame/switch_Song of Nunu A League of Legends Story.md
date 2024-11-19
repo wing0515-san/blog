@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "努努之歌 英雄联盟外传[1.0.2+1DLC|XCI]"
-image: "img/98846ed55f.jpg"
+title: "Switch 努努之歌 英雄联盟外传[1.0.2+1DLC|XCI]"
+image: "/img/98846ed55f.jpg"
 draft: false
 date: 2024-10-30
 description: "Switch 努努之歌：英雄联盟外传"
-tags: [“中文”,“冒险”,“动作”]
+tags: ["中文","冒险","动作"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Song of Nunu A League of Legends Story
 容量：6.4G
 
 [百度网盘](https://pan.baidu.com/s/1kGwQ5-35iPM2F_QjYxYs8g) 提取码: b9e6  
-![图片1](img/9126b5a2a76.jpg)![图片2](img/5d337ecc48.jpg)![图片3](img/687a9c0a9.jpg)  
+![图片1](/img/9126b5a2a76.jpg)![图片2](/img/5d337ecc48.jpg)![图片3](/img/687a9c0a9.jpg)  
 
 游戏简介  
 《努努之歌：英雄联盟外传》（Song of Nunu: A League of Legends Story）是由Tequila Works开发，Riot Forge发行的一款单人冒险游戏，于2023年11月2日登陆了Nintendo Switch和PC平台，包括Steam、GOG、Epic等平台。游戏支持中文，国区定价为108元人民币。

@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "菊苣：多彩的故事[1.0.2|XCI]"
-image: "img/20241030141035.png"
+title: "Switch 菊苣：多彩的故事[1.0.2|XCI]"
+image: "/img/20241030141035.png"
 draft: false
 date: 2024-10-30
 description: "Switch 菊苣：多彩的故事"
-tags: [“中文”,“冒险”,“益智”]
+tags: ["中文","冒险","益智"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Chicory A Colorful Tale
 容量：1.9G
 
 [百度网盘](https://pan.baidu.com/s/1lOAhGKS87w4q1ApZ4bc7NA) 提取码: fyd2  
-![图片1](img/6cdfb65136f.jpg)![图片2](img/6f9eaaf395c41a.jpg)![图片3](img/43ac851b.jpg)  
+![图片1](/img/6cdfb65136f.jpg)![图片2](/img/6f9eaaf395c41a.jpg)![图片3](/img/43ac851b.jpg)  
 
 游戏简介  
 《Chicory: A Colorful Tale》是一款由Greg Lobanov开发的冒险游戏，以其独特的艺术风格、轻松的氛围和富有创意的绘画机制而受到玩家的喜爱。在游戏中，玩家扮演一只名叫Chicory的狗，继承了一位魔法画家的神奇画笔。

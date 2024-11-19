@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "马里奥VS大金刚[1.0.1|XCI]"
-image: "img/20241023083041.png"
+title: "Switch 马里奥VS大金刚[1.0.1|XCI]"
+image: "/img/20241023083041.png"
 draft: false
 date: 2024-10-30
 description: "Switch 马里奥VS大金刚"
-tags: [“中文”,“解密”,“动作”]
+tags: ["中文","解密","动作"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Mario vs Donkey Kong
 容量：1.2G
 
 [百度网盘](https://pan.baidu.com/s/1gEAlK59X7-in1M9kBgTIsQ) 提取码: k5dj  
-![图片1](img/202410230828.jpg)![图片2](img/202410230830.jpg)![图片3](img/20241023083129.png)  
+![图片1](/img/202410230828.jpg)![图片2](/img/202410230830.jpg)![图片3](/img/20241023083129.png)  
 
 游戏简介  
 《马里奥VS大金刚》（Mario vs. Donkey Kong）是一款由任天堂和Game Freak共同开发的益智游戏系列。游戏以马里奥和大金刚系列中的角色为特色，玩家需要引导马里奥通过各种障碍，同时阻止大金刚的手下——小金刚——到达终点。

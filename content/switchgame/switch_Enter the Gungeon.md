@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "挺进地牢[2.1.9.2|XCI]"
-image: "img/20241030093023.png"
+title: "Switch 挺进地牢[2.1.9.2|XCI]"
+image: "/img/20241030093023.png"
 draft: false
 date: 2024-10-30
 description: "Switch 挺进地牢"
-tags: [“中文”,“Roguelike”,“射击”,“多人”]
+tags: ["中文","Roguelike","射击","多人"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,14 +21,14 @@ Enter the Gungeon
 容量：431M
 
 [百度网盘](https://pan.baidu.com/s/1t2XiplQye8uYoFpghBC8jQ) 提取码: fyd2  
-![图片1](img/cdf8986898.jpg)![图片2](img/0893ef2bd93.jpg)![图片3](img/9076975f7a5.jpg)  
+![图片1](/img/cdf8986898.jpg)![图片2](/img/0893ef2bd93.jpg)![图片3](/img/9076975f7a5.jpg)  
 
 游戏简介  
 《挺进地牢》（Enter the Gungeon）是一款由Dodge Roll开发，Devolver Digital发行的独立游戏。游戏于2016年首次发布，支持多个平台，包括Nintendo Switch。以下是这款游戏的一些基本信息和特点：
 
-1. **游戏类型**：《挺进地牢》是一款“Roguelike”风格的弹幕射击游戏，玩家需要在随机生成的地牢中探索，寻找武器和道具，击败敌人和Boss。
+1. **游戏类型**：《挺进地牢》是一款"Roguelike"风格的弹幕射击游戏，玩家需要在随机生成的地牢中探索，寻找武器和道具，击败敌人和Boss。
 
-2. **故事背景**：游戏的故事围绕着寻找传说中的“Gungeon”展开，这是一个充满危险和宝藏的地方。玩家扮演的角色为了寻找传说中的“Gungeon”而深入地牢。
+2. **故事背景**：游戏的故事围绕着寻找传说中的"Gungeon"展开，这是一个充满危险和宝藏的地方。玩家扮演的角色为了寻找传说中的"Gungeon"而深入地牢。
 
 3. **角色选择**：游戏提供了多个角色供玩家选择，每个角色都有自己独特的技能和背景故事。
 

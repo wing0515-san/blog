@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "史丹利的寓言：超级豪华版[1.0.8|XCI]"
-image: "img/20241030142028.png"
+title: "Switch 史丹利的寓言：超级豪华版[1.0.8|XCI]"
+image: "/img/20241030142028.png"
 draft: false
 date: 2024-10-30
 description: "Switch 史丹利的寓言：超级豪华版"
-tags: [“中文”,“冒险”,“解密”]
+tags: ["中文","冒险","解密"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ The Stanley Parable Ultra Deluxe
 容量：2.2G
 
 [百度网盘](https://pan.baidu.com/s/1BLxPIFLzn8QJqpsj2hH54g) 提取码: fyd2  
-![图片1](img/59da2e4f496f310.jpg)![图片2](img/c84d1c.jpg)![图片3](img/1df7d4b2546d1.jpg)  
+![图片1](/img/59da2e4f496f310.jpg)![图片2](/img/c84d1c.jpg)![图片3](/img/1df7d4b2546d1.jpg)  
 
 游戏简介  
 《史丹利的寓言：超级豪华版》（The Stanley Parable: Ultra Deluxe）是由Galactic Cafe开发的独立游戏《史丹利的寓言》的扩展版。这款游戏以其独特的叙述方式和玩家选择对故事走向的影响而闻名。以下是关于这款游戏的一些基本信息：

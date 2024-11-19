@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "超侦探事件簿 雾雨谜宫[1.4+6DLC|XCI]"
-image: "img/2024050914522.png"
+title: "Switch 超侦探事件簿 雾雨谜宫[1.4+6DLC|XCI]"
+image: "/img/2024050914522.png"
 draft: false
 date: 2024-10-30
 description: "Switch 超侦探事件簿 雾雨谜宫"
-tags: [“中文”,“角色扮演”,“冒险”,“解密”]
+tags: ["中文","角色扮演","冒险","解密"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Master Detective Archives Rain Code
 容量：16.1G
 
 [百度网盘](https://pan.baidu.com/s/1Lqnux-0OGbvq2HZNgl9QsA) 提取码: 145u  
-![图片1](img/scix11.jpg)![图片2](img/scix12.jpg)![图片3](img/scix0y.jpg)  
+![图片1](/img/scix11.jpg)![图片2](/img/scix12.jpg)![图片3](/img/scix0y.jpg)  
 
 游戏简介  
 《超侦探事件簿：雾雨谜宫》（Master Detective Archives: RAIN CODE）是由小高和刚领导的《弹丸论破》团队新作，于2023年6月30日在Nintendo Switch平台发售。这是一款黑暗奇幻推理动作游戏，由Spike Chunsoft Co., Ltd.开发，游戏支持中文。

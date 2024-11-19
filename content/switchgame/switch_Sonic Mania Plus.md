@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "索尼克狂欢[1.0.4+1DLC|XCI]"
-image: "img/202410291027.jpg"
+title: "Switch 索尼克狂欢[1.0.4+1DLC|XCI]"
+image: "/img/202410291027.jpg"
 draft: false
 date: 2024-10-30
 description: "Switch 索尼克狂欢"
-tags: [“中文”,“动作”,“竞速”]
+tags: ["中文","动作","竞速"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Sonic Mania Plus
 容量：380M
 
 [百度网盘](https://pan.baidu.com/s/15rU5WcRKeEHuOEmTu-8QaQ) 提取码: fyd2  
-![图片1](img/sm1707250001.jpg)![图片2](img/170803235817.jpg)![图片3](img/0001536019.jfif)  
+![图片1](/img/sm1707250001.jpg)![图片2](/img/170803235817.jpg)![图片3](/img/0001536019.jfif)  
 
 游戏简介  
 您好，关于Nintendo Switch平台上的《索尼克狂欢》（Sonic Mania）游戏，以下是一些相关信息：

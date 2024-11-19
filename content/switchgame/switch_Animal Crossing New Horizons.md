@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "集合啦！动物森友会[2.0.6+3DLC|XCI]"
-image: "img/3df05212.png"
+title: "Switch 集合啦！动物森友会[2.0.6+3DLC|XCI]"
+image: "/img/3df05212.png"
 draft: false
 date: 2024-10-30
 description: "Switch 集合啦！动物森友会"
-tags: [“中文”,“多人”,“休闲”,“模拟”]
+tags: ["中文","多人","休闲","模拟"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Animal Crossing New Horizons
 容量：10.7G
 
 [百度网盘](https://pan.baidu.com/s/1pj0wHmdDHmToea6vtG23nw) 提取码: e32v  
-![图片1](img/036c69fe.jpg)![图片2](img/153a331b.jpeg)![图片3](img/202410221121.jpg)  
+![图片1](/img/036c69fe.jpg)![图片2](/img/153a331b.jpeg)![图片3](/img/202410221121.jpg)  
 
 游戏简介  
 《集合啦！动物森友会》（Animal Crossing: New Horizons）是由Nintendo开发并发行的一款模拟经营游戏，于2020年3月20日在Nintendo Switch平台上发售。它是《动物之森》（Animal Crossing）系列的最新主要作品。

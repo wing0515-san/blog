@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "传送门：同伴合集[1.0.3|XCI]"
-image: "img/20241030144602.png"
+title: "Switch 传送门：同伴合集[1.0.3|XCI]"
+image: "/img/20241030144602.png"
 draft: false
 date: 2024-10-30
 description: "Switch 传送门：同伴合集"
-tags: [“中文”,“冒险”,“益智”]
+tags: ["中文","冒险","益智"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Portal Companion Collection
 容量：10G
 
 [百度网盘](https://pan.baidu.com/s/1boX-qnsxLldKxanBaNAT2g) 提取码: fyd2  
-![图片1](img/scfto2.jpg)![图片2](img/scfto3.jpg)![图片3](img/scfto5.jpg)  
+![图片1](/img/scfto2.jpg)![图片2](/img/scfto3.jpg)![图片3](/img/scfto5.jpg)  
 
 游戏简介  
 "传送门：同伴合集"（Portal Companion Collection）是Valve公司发行的一款包含《传送门》和《传送门2》两款游戏的捆绑包。以下是这两款游戏的简要介绍：

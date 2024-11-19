@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "生化危机0+1+4+5+6[最新版本|XCI]"
-image: "img/20241030163728.png"
+title: "Switch 生化危机0+1+4+5+6[最新版本|XCI]"
+image: "/img/20241030163728.png"
 draft: false
 date: 2024-10-30
 description: "Switch 生化危机0+1+4+5+6"
-tags: [“中文”,“恐怖”,“射击”]
+tags: ["中文","恐怖","射击"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Resident Evil0+1+4+5+6
 容量：13.9G+14.5G+12.1+19G+17.6G
 
 [百度网盘](https://pan.baidu.com/s/1JQmO3cSkG1VaZdRyLablxQ) 提取码: fyd2  
-![图片1](img/fdbc8512eb.jpg)![图片2](img/d3bf1f18.jpg)![图片3](img/bb41441c70f.jpg)  
+![图片1](/img/fdbc8512eb.jpg)![图片2](/img/d3bf1f18.jpg)![图片3](/img/bb41441c70f.jpg)  
 
 游戏简介  
 《生化危机》（Resident Evil）系列是由日本CAPCOM公司推出的一系列生存恐怖游戏。以下是你提到的几部作品的简介：

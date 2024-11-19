@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "超级炸弹人R系列[2.2.0+1.3.1|XCI]"
-image: "img/9225d7ac1120.jpg"
+title: "Switch 超级炸弹人R系列[2.2.0+1.3.1|XCI]"
+image: "/img/9225d7ac1120.jpg"
 draft: false
 date: 2024-10-30
 description: "Switch 超级炸弹人R 2"
-tags: [“中文”,“策略”,“益智”,“多人”]
+tags: ["中文","策略","益智","多人"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Super Bomberman R
 容量：ALL-12.1G
 
 [百度网盘](https://pan.baidu.com/s/16zckQ5Zs-xJadBF6dV5g0A) 提取码: b9e6  
-![图片1](img/qorbadm7zp.jpg)![图片2](img/ibygxboe.jpg)![图片3](img/schmh8.jpg)  
+![图片1](/img/qorbadm7zp.jpg)![图片2](/img/ibygxboe.jpg)![图片3](/img/schmh8.jpg)  
 
 游戏简介  
 《超级炸弹人R》（Super Bomberman R）是由Konami游戏公司开发的经典炸弹人系列的新作，于2017年3月15日首次登陆Nintendo Switch平台，并且是该平台的首发游戏之一。这款游戏是自2010年的《Bomberman Live: Battlefest》以来，首个登陆家用游戏机的炸弹人系列游戏。

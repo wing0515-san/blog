@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "双人成行[1.0+2DLC|XCI]"
-image: "img/20241030130801.png"
+title: "Switch 双人成行[1.0+2DLC|XCI]"
+image: "/img/20241030130801.png"
 draft: false
 date: 2024-10-30
 description: "Switch 双人成行"
-tags: [“中文”,“动作”,“解密”]
+tags: ["中文","动作","解密"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ It Takes Two
 容量：9.5G
 
 [百度网盘](https://pan.baidu.com/s/1i7rU-zA7rCcD5_MIzfNJFw) 提取码: fyd2  
-![图片1](img/e59753eef.jpg)![图片2](img/ac523e3ea4d.jpg)![图片3](img/a0678b013bf.jpg)  
+![图片1](/img/e59753eef.jpg)![图片2](/img/ac523e3ea4d.jpg)![图片3](/img/a0678b013bf.jpg)  
 
 游戏简介  
 《双人成行》（原名：It Takes Two）是由Hazelight Studios开发，Electronic Arts（EA）发行的一款合作冒险游戏。这款游戏于2021年3月26日发行，支持PC、PlayStation 4、PlayStation 5、Xbox One和Xbox Series X/S平台。

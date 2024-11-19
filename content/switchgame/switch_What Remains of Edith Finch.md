@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "艾迪芬奇的记忆[1.0|XCI]"
-image: "img/20241030112206.png"
+title: "Switch 艾迪芬奇的记忆[1.0|XCI]"
+image: "/img/20241030112206.png"
 draft: false
 date: 2024-10-30
 description: "Switch 艾迪芬奇的记忆"
-tags: [“中文”,“冒险”]
+tags: ["中文","冒险"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ What Remains of Edith Finch
 容量：2.3G
 
 [百度网盘](https://pan.baidu.com/s/1GITbc0gwTQUMOP5TqbuOzA) 提取码: fyd2  
-![图片1](img/e17b98cf.jpg)![图片2](img/2d5dcb84a3a9.jpg)![图片3](img/6411f58f558.jpg)  
+![图片1](/img/e17b98cf.jpg)![图片2](/img/2d5dcb84a3a9.jpg)![图片3](/img/6411f58f558.jpg)  
 
 游戏简介  
 《艾迪芬奇的记忆》（What Remains of Edith Finch）是一款由Giant Sparrow开发，Annapurna Interactive发行的独立冒险游戏。游戏于2017年4月发布，支持PlayStation 4、Nintendo Switch、PC和Xbox One平台。

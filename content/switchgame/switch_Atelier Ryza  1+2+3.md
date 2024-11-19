@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "莱莎的炼金工房系列1+2+3[1.0.16+1.0.8+1.6|全DLC|XCI]"
-image: "img/cac48ce2e4f.jfif"
+title: "Switch 莱莎的炼金工房系列1+2+3[1.0.16+1.0.8+1.6|全DLC|XCI]"
+image: "/img/cac48ce2e4f.jfif"
 draft: false
 date: 2024-10-30
 description: "Switch 莱莎的炼金工房 1+2+3"
-tags: [“中文”,“角色扮演”,“冒险”]
+tags: ["中文","角色扮演","冒险"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Atelier Ryza  1+2+3
 容量：9.4G+12.9G+11G
 
 [百度网盘](https://pan.baidu.com/s/1MTP4qAHNWmy4IOuaElTYXg) 提取码: mr86  
-![图片1](img/4d1e400a2d9.jpg)![图片2](img/d96b3e62d30.jpg)![图片3](img/15632ff29.jpg)  
+![图片1](/img/4d1e400a2d9.jpg)![图片2](/img/d96b3e62d30.jpg)![图片3](/img/15632ff29.jpg)  
 
 游戏简介  
 在Nintendo Switch平台上，莱莎的炼金工房系列包括以下作品：

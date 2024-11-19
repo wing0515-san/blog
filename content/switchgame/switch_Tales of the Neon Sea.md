@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "迷雾侦探[1.1.276|XCI]"
-image: "img/20241024133951.png"
+title: "Switch 迷雾侦探[1.1.276|XCI]"
+image: "/img/20241024133951.png"
 draft: false
 date: 2024-10-30
 description: "Switch 迷雾侦探"
-tags: [“中文”,“解密”,“像素”]
+tags: ["中文","解密","像素"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Tales of the Neon Sea
 容量：600M
 
 [百度网盘](https://pan.baidu.com/s/1zBaWkUL58NvmVUr3jsbMIg) 提取码: c3kt  
-![图片1](img/42464734f58.jpg)![图片2](img/4173bc69384d2.jpg)![图片3](img/79dc159a2b3.jpg)  
+![图片1](/img/42464734f58.jpg)![图片2](/img/4173bc69384d2.jpg)![图片3](/img/79dc159a2b3.jpg)  
 
 游戏简介  
 《迷雾侦探》（Tales of the Neon Sea）是一款由Palm Pioneer开发，头号游者发行的赛博朋克风格的冒险解谜游戏，于2019年4月30日发行，其手游版7月14日10:00正式首发。游戏的故事发生在一个人类和机器人共存的世界，玩家将化身为一名侦探，置身于这个矛盾的世界当中，随主人公一起经历一桩又一桩充满黑暗和悬疑的罪案，并亲自揭开事件背后的迷雾

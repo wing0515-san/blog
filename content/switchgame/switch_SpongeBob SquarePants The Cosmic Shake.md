@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "海绵宝宝 宇宙摇摆[1.0.7+1DLC|XCI]"
-image: "img/8bf3095ab8f4.jpg"
+title: "Switch 海绵宝宝 宇宙摇摆[1.0.7+1DLC|XCI]"
+image: "/img/8bf3095ab8f4.jpg"
 draft: false
 date: 2024-10-30
 description: "Switch 海绵宝宝 宇宙摇摆"
-tags: [“中文”,“动作”,“冒险”]
+tags: ["中文","动作","冒险"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ SpongeBob SquarePants The Cosmic Shake
 容量：9.2G
 
 [百度网盘](https://pan.baidu.com/s/1g3OteIz5Bn09JiglLndFUA) 提取码: vyxf  
-![图片1](img/90d0886d97d.jpg)![图片2](img/54cec93964b.jpg)![图片3](img/48e27d3d21dd5.jpg)  
+![图片1](/img/90d0886d97d.jpg)![图片2](/img/54cec93964b.jpg)![图片3](/img/48e27d3d21dd5.jpg)  
 
 游戏简介  
 《海绵宝宝：宇宙摇摆》（SpongeBob SquarePants: The Cosmic Shake）是一款基于经典卡通形象海绵宝宝制作的动作冒险游戏。在游戏中，玩家将扮演海绵宝宝，与他的好朋友派大星一起，利用神奇的愿望之泪（Mermaid's Tears）穿越不同的世界，解决各种有趣的谜题，并与各种奇特的敌人进行战斗。

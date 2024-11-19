@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "忍者神龟：施莱德的复仇[1.0.8+1DLC|XCI]"
-image: "img/73900e5ad8f5.jpg"
+title: "Switch 忍者神龟：施莱德的复仇[1.0.8+1DLC|XCI]"
+image: "/img/73900e5ad8f5.jpg"
 draft: false
 date: 2024-10-30
 description: "Switch 忍者神龟：施莱德的复仇"
-tags: [“中文”,“多人”,“动作”,“街机”]
+tags: ["中文","多人","动作","街机"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Teenage Mutant Ninja Turtles Shredder's Revenge
 容量：1.2G
 
 [百度网盘](https://pan.baidu.com/s/1KLFPesJd1YXH1V2B-QK3zw) 提取码: fyd2  
-![图片1](img/4c4411ca72f0.jpg)![图片2](img/c129e3e58.jpg)![图片3](img/8e329574d62.jpg)  
+![图片1](/img/4c4411ca72f0.jpg)![图片2](/img/c129e3e58.jpg)![图片3](/img/8e329574d62.jpg)  
 
 游戏简介  
 《忍者神龟：施莱德的复仇》（Teenage Mutant Ninja Turtles: Shredder's Revenge）是一款在Nintendo Switch平台上推出的横版打斗游戏。以下是关于这款游戏的一些详细信息：
@@ -36,7 +36,7 @@ Teenage Mutant Ninja Turtles Shredder's Revenge
 
 5. **攻击技能**：游戏中角色拥有丰富的攻击技能，包括独特的超级招式和嘲讽动作。
 
-6. **游戏模式**：包含故事模式和街机模式，街机模式中玩家有限定的生命数，必须一次完成游戏；故事模式允许玩家使用积累的分数来换取健康、额外生命、额外战斗动作和特殊能力“激进模式”。
+6. **游戏模式**：包含故事模式和街机模式，街机模式中玩家有限定的生命数，必须一次完成游戏；故事模式允许玩家使用积累的分数来换取健康、额外生命、额外战斗动作和特殊能力"激进模式"。
 
 7. **收集品与成就**：游戏中包含收集品和每关的成就挑战。
 

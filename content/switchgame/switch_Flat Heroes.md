@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "平面英雄[1.0.1|XCI]"
-image: "img/20241029182155.png"
+title: "Switch 平面英雄[1.0.1|XCI]"
+image: "/img/20241029182155.png"
 draft: false
 date: 2024-10-30
 description: "Switch 平面英雄"
-tags: [“中文”,“益智”,“休闲”]
+tags: ["中文","益智","休闲"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Flat Heroes
 容量：200M
 
 [百度网盘](https://pan.baidu.com/s/1Nbvy8-gJHE15xSQVNuv7KQ) 提取码: fyd2  
-![图片1](img/b3f32ca4635.jpg)![图片2](img/206f0f3d684c32c.jpg)![图片3](img/14cd0dc6248.jpg)  
+![图片1](/img/b3f32ca4635.jpg)![图片2](/img/206f0f3d684c32c.jpg)![图片3](/img/14cd0dc6248.jpg)  
 
 游戏简介  
 "Switch平面英雄"（Flat Heroes）是一款独立游戏，它以其独特的平面几何风格和快节奏的平台跳跃玩法而受到玩家的喜爱。以下是这款游戏的一些基本信息：

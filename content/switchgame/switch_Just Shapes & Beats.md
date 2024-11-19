@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "只有形状和节奏[1.6.51|XCI]"
-image: "img/20241030133152.png"
+title: "Switch 只有形状和节奏[1.6.51|XCI]"
+image: "/img/20241030133152.png"
 draft: false
 date: 2024-10-30
 description: "Switch 只有形状和节奏"
-tags: [“中文”,“动作”,“音乐节奏”,“平台”,“多人”]
+tags: ["中文","动作","音乐节奏","平台","多人"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Just Shapes & Beats
 容量：1.4G
 
 [百度网盘](https://pan.baidu.com/s/139eJ6KBGWS_4eUMLb5K8Xw) 提取码: fyd2  
-![图片1](img/2624d475f.jpg)![图片2](img/376fa4ef5.jpg)![图片3](img/51260232bcba0c.jpg)  
+![图片1](/img/2624d475f.jpg)![图片2](/img/376fa4ef5.jpg)![图片3](/img/51260232bcba0c.jpg)  
 
 游戏简介  
 《Just Shapes & Beats》是一款由Beriev Studios开发的音乐节奏射击游戏。这款游戏以其快节奏的玩法、独特的艺术风格和动感的音乐而受到玩家的喜爱。在《Just Shapes & Beats》中，玩家需要操控各种形状，躲避障碍物，同时跟随音乐节奏射击敌人。

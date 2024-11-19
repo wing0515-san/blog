@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "文明6[1.2.19+18DLC|XCI]"
-image: "img/20241030100714.png"
+title: "Switch 文明6[1.2.19+18DLC|XCI]"
+image: "/img/20241030100714.png"
 draft: false
 date: 2024-10-30
 description: "Switch 文明6"
-tags: [“中文”,“模拟”,“冒险”,“策略”]
+tags: ["中文","模拟","冒险","策略"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Civilization VI
 容量：17G
 
 [百度网盘](https://pan.baidu.com/s/18CZJ33qNo0Cpn-W5B1z28g) 提取码: fyd2  
-![图片1](img/258cb8c4d283e52cf8.jpg)![图片2](img/63ebeb006b.jpg)![图片3](img/01156a692.jpg)  
+![图片1](/img/258cb8c4d283e52cf8.jpg)![图片2](/img/63ebeb006b.jpg)![图片3](/img/01156a692.jpg)  
 
 游戏简介  
 《文明6》（Civilization VI）是由Firaxis Games开发，2K Games发行的一款历史策略回合制游戏，是经典游戏系列《文明》的第六部作品。游戏于2016年10月21日发行，继承了系列的核心玩法，即玩家扮演一个文明的领导者，通过科技、文化、军事等手段，从史前时代发展到现代文明，最终目标是成为世界的领导者。

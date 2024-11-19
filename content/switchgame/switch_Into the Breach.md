@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "陷阵之志[1.2.88|XCI]"
-image: "img/20241030170340.png"
+title: "Switch 陷阵之志[1.2.88|XCI]"
+image: "/img/20241030170340.png"
 draft: false
 date: 2024-10-30
 description: "Switch 陷阵之志"
-tags: [“中文”,“策略”]
+tags: ["中文","策略"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Into the Breach
 容量：691M
 
 [百度网盘](https://pan.baidu.com/s/1nOogpe_Pco6SZSrapzIl6A) 提取码: fyd2  
-![图片1](img/e81ebbd0c4.jpg)![图片2](img/24cc3d801d.jpg)![图片3](img/01b0d2d1d84.jpg)  
+![图片1](/img/e81ebbd0c4.jpg)![图片2](/img/24cc3d801d.jpg)![图片3](/img/01b0d2d1d84.jpg)  
 
 游戏简介  
 《陷阵之志》（Into the Breach）是一款由Subset Games开发并发行的回合制策略游戏。这款游戏继承了《FTL: Faster Than Light》的开发商Subset Games的一贯风格，以其深度策略和丰富的游戏内容而受到玩家的喜爱。

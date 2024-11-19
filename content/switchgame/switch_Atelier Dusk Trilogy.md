@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "炼金工房系列-黄昏[最新版本|全DLC|XCI]"
-image: "img/202410281106.png"
+title: "Switch 炼金工房系列-黄昏[最新版本|全DLC|XCI]"
+image: "/img/202410281106.png"
 draft: false
 date: 2024-10-30
 description: "Switch 炼金工房系列-黄昏"
-tags: [“中文”,“角色扮演”,“冒险”]
+tags: ["中文","角色扮演","冒险"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Atelier Dusk Trilogy
 容量：ALL-20.5G
 
 [百度网盘](https://pan.baidu.com/s/1ej1FaHZK0AYz2OjXGXmazg) 提取码: b9e6  
-![图片1](img/86f46b254a.jpg)![图片2](img/1e400a2d9fa4.jpg)![图片3](img/d96b3e62.jpg)  
+![图片1](/img/86f46b254a.jpg)![图片2](/img/1e400a2d9fa4.jpg)![图片3](/img/d96b3e62.jpg)  
 
 游戏简介  
 《炼金工房：黄昏三部曲》（Atelier Dusk Trilogy）是《炼金工房》系列中的一个重要分支，由三部作品组成，分别是《爱夏的炼金工房～黄昏大地之炼金术士～》（Atelier Ayesha: The Alchemist of Dusk）、《爱丝卡&罗吉的炼金工房～黄昏天空之炼金术士～》（Atelier Escha & Logy: Alchemists of the Dusk Sky）和《夏莉的炼金工房～黄昏海洋之炼金术士～》（Atelier Shallie: Alchemists of the Dusk Sea）。这些作品以逐渐迎向毁灭的黄昏世界和充满魅力的角色为特色，由左老师担任角色设计，为玩家呈现了一个深邃的黄昏世界。

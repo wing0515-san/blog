@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "忍者印记：重置版[1.0.2|XCI]"
-image: "img/20241030135040.png"
+title: "Switch 忍者印记：重置版[1.0.2|XCI]"
+image: "/img/20241030135040.png"
 draft: false
 date: 2024-10-30
 description: "Switch 忍者印记：重置版"
-tags: [“中文”,“冒险”,“解密”]
+tags: ["中文","冒险","解密"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Mark of the Ninja Remastered
 容量：3.6G
 
 [百度网盘](https://pan.baidu.com/s/1QKlHKwP5JUo9a-Cxg9BE5g) 提取码: fyd2  
-![图片1](img/aedb40d99153.jpg)![图片2](img/e3abf43ba0.jpg)![图片3](img/513e6fde575c.jpg)  
+![图片1](/img/aedb40d99153.jpg)![图片2](/img/e3abf43ba0.jpg)![图片3](/img/513e6fde575c.jpg)  
 
 游戏简介  
 《忍者印记：重置版》（Mark of the Ninja: Remastered）是一款由Klei Entertainment开发的动作潜行游戏。这款游戏是2012年发行的《忍者印记》的重制版，它保留了原作的核心玩法和故事，同时在视觉效果和性能上进行了升级。

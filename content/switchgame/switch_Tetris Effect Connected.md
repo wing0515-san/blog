@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "俄罗斯方块效应：连接[2.0.2|XCI]"
-image: "img/20241030110300.png"
+title: "Switch 俄罗斯方块效应：连接[2.0.2|XCI]"
+image: "/img/20241030110300.png"
 draft: false
 date: 2024-10-30
 description: "Switch 俄罗斯方块效应：连接"
-tags: [“中文”,“益智”,“休闲”,“多人”]
+tags: ["中文","益智","休闲","多人"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Tetris Effect Connected
 容量：4G
 
 [百度网盘](https://pan.baidu.com/s/1yWBX7NeYMZ5J8N77zJx65A) 提取码: fyd2  
-![图片1](img/92bf78b4b244.jpg)![图片2](img/090f7683453891.jpg)![图片3](img/3cd0c0cefa0e.jpg)  
+![图片1](/img/92bf78b4b244.jpg)![图片2](/img/090f7683453891.jpg)![图片3](/img/3cd0c0cefa0e.jpg)  
 
 游戏简介  
 《俄罗斯方块效应：连接》（Tetris Effect: Connected）是由Enhance Games开发，GungHo Online Entertainment发行的一款益智游戏，它是《俄罗斯方块效应》的多人在线版本。这款游戏继承了《俄罗斯方块效应》的视觉和听觉效果，并增加了多人游戏模式，让玩家可以与全球玩家一起在线对战。

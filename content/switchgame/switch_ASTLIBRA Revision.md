@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "神之天平(正传/外传)[1.0.5+1.0|XCI]"
-image: "img/a80e44e9ecc854d4.jpg"
+title: "Switch 神之天平(正传/外传)[1.0.5+1.0|XCI]"
+image: "/img/a80e44e9ecc854d4.jpg"
 draft: false
 date: 2024-10-30
 description: "Switch 神之天平"
-tags: [“中文”,“平台”,“动作”]
+tags: ["中文","平台","动作"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ ASTLIBRA Revision
 容量：1.5G+1.2G
 
 [百度网盘](https://pan.baidu.com/s/1dmKP9dPAlsPT9Gy9XlHlTg) 提取码: b9e6  
-![图片1](img/860d42c1925be90.webp)![图片2](img/36f8b2f9d6.webp)![图片3](img/42ad1d416.webp)  
+![图片1](/img/860d42c1925be90.webp)![图片2](/img/36f8b2f9d6.webp)![图片3](/img/42ad1d416.webp)  
 
 游戏简介  
 《神之天平》（ASTLIBRA Revision）是一款由KEIZO开发的ARPG游戏，它在2022年10月13日发行。这款游戏以其深度的角色定制、丰富的武器系统和独特的天平系统而受到玩家的好评。游戏的背景设定在一个需要与时间和命运对抗的世界中，玩家需要探索精心雕琢的世界，全方位强化角色，并战胜强大的敌人。

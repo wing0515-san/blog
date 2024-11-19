@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "皮克敏3 豪华版[1.1.1|XCI]"
-image: "img/a_thumb_200805_02.jpg"
+title: "Switch 皮克敏3 豪华版[1.1.1|XCI]"
+image: "/img/a_thumb_200805_02.jpg"
 draft: false
 date: 2024-10-30
 description: "Switch 皮克敏3 豪华版"
-tags: [“冒险”,“中文”,“策略”,“动作”]
+tags: ["冒险","中文","策略","动作"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Pikmin 3 Deluxe
 容量：6.5G
 
 [百度网盘](https://pan.baidu.com/s/1MxtOmZ3OiH8fGJljHh3NlA) 提取码: yx3i  
-![图片1](img/BZ5oBIt.jpg)![图片2](img/cal_img04.jpg)![图片3](img/dbb77902bd83.jpg)  
+![图片1](/img/BZ5oBIt.jpg)![图片2](/img/cal_/img04.jpg)![图片3](/img/dbb77902bd83.jpg)  
 
 游戏简介  
 《皮克敏3》（Pikmin 3）是由日本游戏公司Nintendo开发并发行的一款策略游戏，最初于2013年7月发布在Wii U平台上。游戏以其独特的游戏玩法、丰富的世界观和精美的画面受到了玩家和评论家的好评。

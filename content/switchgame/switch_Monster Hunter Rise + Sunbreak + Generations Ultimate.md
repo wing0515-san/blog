@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "怪物猎人 崛起+曙光+XX[最新版本|全DLC|XCI]"
-image: "img/20241030131432.png"
+title: "Switch 怪物猎人 崛起+曙光+XX[最新版本|全DLC|XCI]"
+image: "/img/20241030131432.png"
 draft: false
 date: 2024-10-30
 description: "Switch 怪物猎人 崛起+曙光+XX"
-tags: [“中文”,“动作”,“多人”]
+tags: ["中文","动作","多人"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Monster Hunter Rise + Sunbreak + Generations Ultimate
 容量：11.5G+19.8G+10.5G
 
 [百度网盘](https://pan.baidu.com/s/1W3ykxtJhNQB8C5NHsUfHuA) 提取码: fyd2  
-![图片1](img/schrqc.jpg)![图片2](img/schrqd.jpg)![图片3](img/schrqf.jpg)  
+![图片1](/img/schrqc.jpg)![图片2](/img/schrqd.jpg)![图片3](/img/schrqf.jpg)  
 
 游戏简介  
 《怪物猎人》（Monster Hunter）是一款由日本卡普空（Capcom）公司开发和发行的动作角色扮演游戏系列。游戏以其庞大的怪物、丰富的武器系统和高度自由的探索玩法而闻名。以下是一些关于《怪物猎人》系列游戏的基本信息：

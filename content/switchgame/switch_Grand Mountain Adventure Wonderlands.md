@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "大山冒险：奇迹之地[1.0.3|XCI]"
-image: "img/20241029134352.png"
+title: "Switch 大山冒险：奇迹之地[1.0.3|XCI]"
+image: "/img/20241029134352.png"
 draft: false
 date: 2024-10-30
 description: "Switch 大山冒险：奇迹之地"
-tags: [“中文”,“冒险”,“体育”,“多人”]
+tags: ["中文","冒险","体育","多人"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Grand Mountain Adventure Wonderlands
 容量：1.1G
 
 [百度网盘](https://pan.baidu.com/s/1nwV9KZecnJaCOJPg13i_rg) 提取码: fyd2  
-![图片1](img/43352dc5ee.jpg)![图片2](img/920aa52daf84e.jpg)![图片3](img/d327377201.jpg)  
+![图片1](/img/43352dc5ee.jpg)![图片2](/img/920aa52daf84e.jpg)![图片3](/img/d327377201.jpg)  
 
 游戏简介  
 《大山冒险：奇迹之地》（Grand Mountain Adventure: Wonderlands）是一款在Nintendo Switch平台上推出的竞速冒险类游戏，允许玩家在一个美丽的开放世界中体验滑雪和滑雪板的乐趣。以下是关于这款游戏的一些详细信息：

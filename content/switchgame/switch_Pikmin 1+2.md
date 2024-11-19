@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "皮克敏1+2[1.1|XCI]"
-image: "img/ff4f074f56b7a3.jpg"
+title: "Switch 皮克敏1+2[1.1|XCI]"
+image: "/img/ff4f074f56b7a3.jpg"
 draft: false
 date: 2024-10-30
 description: "Switch 皮克敏1+2"
-tags: [“冒险”,“中文”,“策略”,“动作”]
+tags: ["冒险","中文","策略","动作"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Pikmin 1+2
 容量：2G
 
 [百度网盘](https://pan.baidu.com/s/1vqZmTLmUHaMnzbwJjy99tw) 提取码: wwjd  
-![图片1](img/01QEAG8PSBx1Ajen.jpg)![图片2](img/71Wvbzs8fJL.jpg)![图片3](img/71UZZQsLc0L.jpg)  
+![图片1](/img/01QEAG8PSBx1Ajen.jpg)![图片2](/img/71Wvbzs8fJL.jpg)![图片3](/img/71UZZQsLc0L.jpg)  
 
 游戏简介  
 《皮克敏1+2》（Pikmin 1+2）并不是一个实际存在的游戏标题。不过，你可能是指《皮克敏》系列的前两作——《皮克敏》（Pikmin）和《皮克敏2》（Pikmin 2）的合集。这两款游戏最初分别在2001年和2004年发布在任天堂GameCube平台上。

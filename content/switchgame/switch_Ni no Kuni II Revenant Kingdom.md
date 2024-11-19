@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "二之国 亡灵之国[1.1|XCI]"
-image: "img/20241008212840.jpg"
+title: "Switch 二之国 亡灵之国[1.1|XCI]"
+image: "/img/20241008212840.jpg"
 draft: false
 date: 2024-10-30
 description: "Switch 二之国 亡灵之国"
-tags: [“角色扮演”,“中文”,“动作”]
+tags: ["角色扮演","中文","动作"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Ni no Kuni II Revenant Kingdom
 容量：10.6G
 
 [百度网盘](https://pan.baidu.com/s/1JB6RheYTh22bPBRHe2eLAQ) 提取码: rs8w  
-![图片1](img/c12137e47e180eaf1485j5.jfif)![图片2](img/d64502426a50.jpg)![图片3](img/18c82081e0d4b12.jpg)  
+![图片1](/img/c12137e47e180eaf1485j5.jfif)![图片2](/img/d64502426a50.jpg)![图片3](/img/18c82081e0d4b12.jpg)  
 
 游戏简介  
 《二之国：亡灵之国》（Ni no Kuni: Wrath of the White Witch）是一款由Level-5开发的角色扮演游戏（RPG），最初于2010年在日本发售，后在2011年在北美和欧洲地区发行。游戏的增强版《二之国：亡灵之国 完全版》（Ni no Kuni: Wrath of the White Witch Remastered）于2019年9月20日在Nintendo Switch平台发售。

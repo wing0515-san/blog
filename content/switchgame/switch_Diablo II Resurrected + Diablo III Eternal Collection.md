@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "暗黑破坏神系列[1.0.26+2.7.7.92380|4DLC|XCI]"
-image: "img/20241030095916.png"
+title: "Switch 暗黑破坏神系列[1.0.26+2.7.7.92380|4DLC|XCI]"
+image: "/img/20241030095708.png"
 draft: false
 date: 2024-10-30
 description: "Switch 暗黑破坏神 2+3"
-tags: [“中文”,“角色扮演”,“多人”]
+tags: ["中文","角色扮演","多人"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Diablo II Resurrected + Diablo III Eternal Collection
 容量：25G
 
 [百度网盘](https://pan.baidu.com/s/1g27QieGMFj0H5lzs8WL4CQ) 提取码: fyd2  
-![图片1](img/1524163310Jj6S.jpg)![图片2](img/1524163317NskI.jpg)![图片3](img/15241633238UFQ.jpg)  
+![图片1](/img/1524163310Jj6S.jpg)![图片2](/img/1524163317NskI.jpg)![图片3](/img/15241633238UFQ.jpg)  
 
 游戏简介  
 《暗黑破坏神》系列是暴雪娱乐开发的经典动作角色扮演游戏系列，以其丰富的剧情、多样的角色职业和深奥的战斗系统而闻名。以下是《暗黑破坏神2重置版》和《暗黑破坏神3》的简要介绍：

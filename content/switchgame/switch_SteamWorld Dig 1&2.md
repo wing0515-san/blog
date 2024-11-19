@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "蒸汽世界挖掘1&2[1.11.0+1.1.0|XCI]"
-image: "img/20241030162052.png"
+title: "Switch 蒸汽世界挖掘1&2[1.11.0+1.1.0|XCI]"
+image: "/img/20241030162052.png"
 draft: false
 date: 2024-10-30
 description: "Switch 蒸汽世界挖掘 1&2"
-tags: [“中文”,“冒险”,“解密”]
+tags: ["中文","冒险","解密"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ SteamWorld Dig 1&2
 容量：129M+274M
 
 [百度网盘](https://pan.baidu.com/s/1ERzMbp4U30oxT_CCtvQj3Q) 提取码: fyd2  
-![图片1](img/da09055b.jpg)![图片2](img/0f3730a1589.jpg)![图片3](img/35f5607a8d36.jpg)  
+![图片1](/img/da09055b.jpg)![图片2](/img/0f3730a1589.jpg)![图片3](/img/35f5607a8d36.jpg)  
 
 游戏简介  
 "蒸汽世界挖掘"（SteamWorld Dig）是由Image & Form开发的一款动作冒险游戏系列，该系列以其独特的蒸汽朋克风格和挖掘玩法而闻名。以下是关于"蒸汽世界挖掘1"和"蒸汽世界挖掘2"的简要介绍：

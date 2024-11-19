@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "盗贼遗产1&2[1.0+1.2.2|XCI]"
-image: "img/20241030112755.png"
+title: "Switch 盗贼遗产1&2[1.0+1.2.2|XCI]"
+image: "/img/20241030112755.png"
 draft: false
 date: 2024-10-30
 description: "Switch 盗贼遗产 1&2"
-tags: [“中文”,“动作”,“Roguelike”,“平台”]
+tags: ["中文","动作","Roguelike","平台"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,10 +21,10 @@ Rogue Legacy  1&2
 容量：250M+1.2G
 
 [百度网盘](https://pan.baidu.com/s/1gf19_IufpcjUEqO0FeMtpw) 提取码: fyd2  
-![图片1](img/1b319cd613.jpg)![图片2](img/ee3d709.jpg)![图片3](img/bb5de8cdc.jpg)  
+![图片1](/img/1b319cd613.jpg)![图片2](/img/ee3d709.jpg)![图片3](/img/bb5de8cdc.jpg)  
 
 游戏简介  
-《盗贼遗产（Rogue Legacy》是一款由Cellar Door Games开发的动作冒险类游戏，玩家在游戏中扮演一名盗贼，探索各种危险的地下城，寻找宝藏并击败怪物。游戏以其独特的“遗产”机制而闻名，即当玩家角色死亡后，他们的后代将继承遗产并继续探险。以下是《盗贼遗产1》和《盗贼遗产2》的简要介绍：
+《盗贼遗产（Rogue Legacy》是一款由Cellar Door Games开发的动作冒险类游戏，玩家在游戏中扮演一名盗贼，探索各种危险的地下城，寻找宝藏并击败怪物。游戏以其独特的"遗产"机制而闻名，即当玩家角色死亡后，他们的后代将继承遗产并继续探险。以下是《盗贼遗产1》和《盗贼遗产2》的简要介绍：
 
 ### 盗贼遗产1（Rogue Legacy）
 

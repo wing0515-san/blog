@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "勇者斗恶龙 创世小玩家1+2[1.0+1.7.3|XCI]"
-image: "img/maxresdefault.jpg"
+title: "Switch 勇者斗恶龙 创世小玩家1+2[1.0+1.7.3|XCI]"
+image: "/img/maxresdefault.jpg"
 draft: false
 date: 2024-10-30
 description: "Switch 勇者斗恶龙 创世小玩家1+2"
-tags: [“中文”,“模拟”,“动作”,“角色扮演”]
+tags: ["中文","模拟","动作","角色扮演"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Dragon Quest Builders 1+2
 容量：700M+2G
 
 [百度网盘](https://pan.baidu.com/s/1nkGeMrMD-HZESeCw9rFnNg) 提取码: iwmp  
-![图片1](img/057975c03db8d.jpg)![图片2](img/6d56b4a595b5e5.jpg)![图片3](img/b6a0ce046023556fb5bfd.jpg)  
+![图片1](/img/057975c03db8d.jpg)![图片2](/img/6d56b4a595b5e5.jpg)![图片3](/img/b6a0ce046023556fb5bfd.jpg)  
 
 游戏简介  
 《勇者斗恶龙：创世小玩家》（Dragon Quest Builders）是一款结合了建造和角色扮演元素的游戏，由SQUARE ENIX制作并发行。这款游戏以其独特的玩法和《勇者斗恶龙》系列的经典元素而受到玩家的喜爱。

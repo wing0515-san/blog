@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "空洞骑士[1.4.3.2|XCI]"
-image: "img/35569998.jpeg"
+title: "Switch 空洞骑士[1.4.3.2|XCI]"
+image: "/img/35569998.jpeg"
 draft: false
 date: 2024-10-30
 description: "Switch 空洞骑士"
-tags: [“银河恶魔城”,“动作”,“中文”]
+tags: ["银河恶魔城","动作","中文"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Hollow Knight
 容量：5.3G
 
 [百度网盘](https://pan.baidu.com/s/13Pd2G6HnidIoK3GYTZvTIg) 提取码: 9taj  
-![图片1](img/0CA2E2B1D0.jpeg)![图片2](img/202410192320.jpg)![图片3](img/C1D9D6A9DAD4F6C9.jpeg)  
+![图片1](/img/0CA2E2B1D0.jpeg)![图片2](/img/202410192320.jpg)![图片3](/img/C1D9D6A9DAD4F6C9.jpeg)  
 
 游戏简介  
 《空洞骑士》（Hollow Knight）是由独立团队Team Cherry开发的一款2D动作冒险游戏，属于类银河恶魔城（Metroidvania）类型。游戏最初于2017年2月24日在Windows平台发售，随后推出了MacOS、Linux、任天堂Switch、PlayStation 4、Xbox One等版本。游戏的部分开发资金来自于Kickstarter网站的众筹
@@ -38,7 +38,7 @@ Hollow Knight
 。
 
 此外，《空洞骑士》还计划推出续作《空洞骑士：丝之歌》（Hollow Knight: Silksong），预计将登陆PC、Nintendo Switch、PS5和PS4平台
-。续作将由前作中的角色“大黄蜂”（Hornet）担任主角，带来新的战斗方式和更多新内容。
+。续作将由前作中的角色"大黄蜂"（Hornet）担任主角，带来新的战斗方式和更多新内容。
 
 《空洞骑士》在玩家和评论家中都获得了极高的评价，被认为是类银河恶魔城游戏中的一个高峰，其丰富的游戏内容、挑战性的战斗和深邃的世界观都受到了玩家的喜爱
 。

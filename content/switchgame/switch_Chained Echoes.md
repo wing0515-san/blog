@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "锁链回声/宿命残响[1.31|XCI]"
-image: "img/20241030142905.png"
+title: "Switch 锁链回声/宿命残响[1.31|XCI]"
+image: "/img/20241030142905.png"
 draft: false
 date: 2024-10-30
 description: "Switch 锁链回声/宿命残响"
-tags: [“中文”,“角色扮演”,“冒险”]
+tags: ["中文","角色扮演","冒险"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Chained Echoes
 容量：1.1G
 
 [百度网盘](https://pan.baidu.com/s/1KVHLSPFOUubjbkuk6WFazA) 提取码: fyd2  
-![图片1](img/cab829813ccf.jpg)![图片2](img/fe208c2f083.jpg)![图片3](img/2152fa16493a1.jpg)  
+![图片1](/img/cab829813ccf.jpg)![图片2](/img/fe208c2f083.jpg)![图片3](/img/2152fa16493a1.jpg)  
 
 游戏简介  
 《Chained Echoes》是一款由独立游戏开发者Matias Schmied开发的复古风格战术角色扮演游戏（Tactical RPG），以其16位像素艺术风格、深入的战斗系统和丰富的剧情而受到玩家的喜爱。

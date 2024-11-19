@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "健身环大冒险[1.2|XCI]"
-image: "img/e8e7aaf9.jpg"
+title: "Switch 健身环大冒险[1.2|XCI]"
+image: "/img/e0vfetznra.jpeg"
 draft: false
 date: 2024-10-30
 description: "Switch 健身环大冒险"
-tags: [“中文”,“运动”,“模拟”,“动作”,“角色扮演”]
+tags: ["中文","运动","模拟","动作","角色扮演"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Ring Fit Adventure
 容量：3.3G
 
 [百度网盘](https://pan.baidu.com/s/1rHzblB5QVvWiJy6O9IVVKQ) 提取码: eqch  
-![图片1](img/44caa6c0.jpeg)![图片2](img/2002410221142.jpg)![图片3](img/7c3c0b5d90ee4.png)  
+![图片1](/img/sc750m.jpg)![图片2](/img/2002410221142.jpg)![图片3](/img/7c3c0b5d90ee4.png)  
 
 游戏简介  
 《健身环大冒险》（Ring Fit Adventure）是由任天堂（Nintendo）开发并发行的一款健身冒险游戏，于2019年10月18日在日本首次发售，随后在全球范围内推出。这款游戏专为Nintendo Switch平台设计，结合了健身运动和角色扮演游戏（RPG）元素，旨在通过游戏化的方式鼓励玩家进行体育锻炼。

@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "小小诺亚：乐园的后继者[1.40+2DLC|XCI]"
-image: "img/20241029180920.png"
+title: "Switch 小小诺亚：乐园的后继者[1.40+2DLC|XCI]"
+image: "/img/20241029180920.png"
 draft: false
 date: 2024-10-30
 description: "Switch 小小诺亚：乐园的后继者"
-tags: [“中文”,“平台”,“动作”]
+tags: ["中文","平台","动作"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Little Noah Scion of Paradise
 容量：2G
 
 [百度网盘](https://pan.baidu.com/s/1_kSDcC70T84oLMp06u7hhg) 提取码: fyd2  
-![图片1](img/scibpg.jpg)![图片2](img/scibph.jpg)![图片3](img/scibpj.jpg)  
+![图片1](/img/scibpg.jpg)![图片2](/img/scibph.jpg)![图片3](/img/scibpj.jpg)  
 
 游戏简介  
 "Switch小小诺亚：乐园的后继者"（原名："Little Noah: Scion of Paradise"）是一款角色扮演游戏（RPG）。以下是这款游戏的一些基本信息和特点：

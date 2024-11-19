@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "星之海洋：第二个故事R[1.1+5DLC|XCI]"
-image: "img/20241030091839.png"
+title: "Switch 星之海洋：第二个故事R[1.1+5DLC|XCI]"
+image: "/img/20241030091839.png"
 draft: false
 date: 2024-10-30
 description: "Switch 星之海洋：第二个故事R"
-tags: [“中文”,“角色扮演”,“冒险”]
+tags: ["中文","角色扮演","冒险"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,14 +21,14 @@ STAR OCEAN THE SECOND STORY R
 容量：11.9G
 
 [百度网盘](https://pan.baidu.com/s/1aQWDvJP4qQlIhWYV97A0tw) 提取码: fyd2  
-![图片1](img/ebc37c55668fd.jpg)![图片2](img/6ec4c66d1a60a9a.jpg)![图片3](img/2c2895182d6be.jpg)  
+![图片1](/img/ebc37c55668fd.jpg)![图片2](/img/6ec4c66d1a60a9a.jpg)![图片3](/img/2c2895182d6be.jpg)  
 
 游戏简介  
 《星之海洋：第二个故事R》（日语：星の海洋：第二个物语R，英语：Star Ocean: The Second Story R）是一款由tri-Ace开发，Square Enix发行的角色扮演游戏（RPG）。它是1998年发行的PlayStation游戏《星之海洋：第二个故事》的重制版，于2021年在PlayStation 4和Nintendo Switch平台上发布。
 
 以下是游戏的一些基本信息和特点：
 
-1. **故事背景**：游戏讲述了主角罗尼·迪那斯（Ronny DeNasis）和他的同伴们在一个名为“Expel”的星球上的冒险故事。他们在这个星球上发现了古代文明的遗迹，并卷入了与外星种族的冲突。
+1. **故事背景**：游戏讲述了主角罗尼·迪那斯（Ronny DeNasis）和他的同伴们在一个名为"Expel"的星球上的冒险故事。他们在这个星球上发现了古代文明的遗迹，并卷入了与外星种族的冲突。
 
 2. **角色扮演**：玩家可以控制多个角色，每个角色都有自己独特的技能和背景故事。随着游戏的进展，角色会获得经验值，提升等级，并解锁新的技能。
 

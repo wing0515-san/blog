@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "节奏海拉鲁[1.5+4DLC|XCI]"
-image: "img/ed9e209e1b4.jfif"
+title: "Switch 节奏海拉鲁[1.5+4DLC|XCI]"
+image: "/img/ed9e209e1b4.jfif"
 draft: false
 date: 2024-10-30
 description: "Switch 节奏海拉鲁"
-tags: [“中文”,“音乐”,“	Roguelike”,“像素”]
+tags: ["中文","音乐","	Roguelike","像素"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Cadence of Hyrule
 容量：1.3G
 
 [百度网盘](https://pan.baidu.com/s/1yNm6_lXJ4rAkF5SOvV8dpg) 提取码: 38ds  
-![图片1](img/4c0a81549952abf293.jpg)![图片2](img/013baa43a2e47.jfif)![图片3](img/hq720.jpg)  
+![图片1](/img/4c0a81549952abf293.jpg)![图片2](/img/013baa43a2e47.jfif)![图片3](/img/hq720.jpg)  
 
 游戏简介  
 一款Roguelike节奏游戏，由Brace Yourself Games为任天堂Switch开发。该游戏是《节奏地牢》和《塞尔达传说系列》的跨界合作作品。游戏在2019年6月正式发布。

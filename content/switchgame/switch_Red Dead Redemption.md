@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "荒野大镖客 救赎[1.0.4+1DLC|XCI]"
-image: "img/424ecbfc732866.jpg"
+title: "Switch 荒野大镖客 救赎[1.0.4+1DLC|XCI]"
+image: "/img/424ecbfc732866.jpg"
 draft: false
 date: 2024-10-30
 description: "Switch 荒野大镖客 救赎"
-tags: [“中文”,“动作”,“冒险”,“射击”]
+tags: ["中文","动作","冒险","射击"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Red Dead Redemption
 容量：11.5G
 
 [百度网盘](https://pan.baidu.com/s/1V7977OdnH_dmRujZqv4VSw) 提取码: b9e6  
-![图片1](img/b8hdl5e6ste8.jpg)![图片2](img/dn5pz8gvdjy3.jpg)![图片3](img/eaj8ukxxr5g.jpg)  
+![图片1](/img/b8hdl5e6ste8.jpg)![图片2](/img/dn5pz8gvdjy3.jpg)![图片3](/img/eaj8ukxxr5g.jpg)  
 
 游戏简介  
 《荒野大镖客：救赎》（Red Dead Redemption）是一款由Rockstar Games发行的开放世界西部动作冒险游戏。这款游戏最初于2010年5月18日在PlayStation 3和Xbox 360上发行，并于2023年8月17日在Nintendo Switch和PlayStation 4平台上发布。此外，游戏还计划在2024年10月29日登陆PC平台。

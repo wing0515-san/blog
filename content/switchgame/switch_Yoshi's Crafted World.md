@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "耀西的手工世界[1.0.1|XCI]"
-image: "img/G6vZk2.png"
+title: "Switch 耀西的手工世界[1.0.1|XCI]"
+image: "/img/G6vZk2.png"
 draft: false
 date: 2024-10-30
 description: "Switch 耀西的手工世界"
-tags: [“中文”,“动作”,“平台”]
+tags: ["中文","动作","平台"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,12 +21,12 @@ Yoshi's Crafted World
 容量：5.5G
 
 [百度网盘](https://pan.baidu.com/s/1qx4lm52eOa5PSNWkuNkuBA) 提取码: 1gwy  
-![图片1](img/qheruwvbnbupoixr6ats.jpg)![图片2](img/asprqhdobebphdin49f1.jpg)![图片3](img/ttlg4zb8jrwhjxew9erk.jpg)  
+![图片1](/img/qheruwvbnbupoixr6ats.jpg)![图片2](/img/asprqhdobebphdin49f1.jpg)![图片3](/img/ttlg4zb8jrwhjxew9erk.jpg)  
 
 游戏简介  
 《耀西的手工世界》（Yoshi's Crafted World）是一款由Good-Feel开发、任天堂发行的平台游戏，于2019年3月29日在Nintendo Switch平台发售，支持简繁中文。游戏以其独特的手工艺术风格和轻松有趣的游戏玩法受到了玩家的喜爱。
 
-在《耀西的手工世界》中，玩家将扮演耀西，与朋友们一起在耀西岛上进行冒险，他们的任务是找回被散落的强大的“梦幻之石”（Sundream Stone）的宝石。游戏世界由各种手工材料构成，如纸箱、纸杯、折纸等，这些元素构成了游戏的各个关卡，给玩家带来了一个充满创意和探索乐趣的游戏环境。游戏中的关卡设计巧妙，每个关卡都有正面和背面两种玩法，玩家可以通过不同的视角来探索和解决谜题。
+在《耀西的手工世界》中，玩家将扮演耀西，与朋友们一起在耀西岛上进行冒险，他们的任务是找回被散落的强大的"梦幻之石"（Sundream Stone）的宝石。游戏世界由各种手工材料构成，如纸箱、纸杯、折纸等，这些元素构成了游戏的各个关卡，给玩家带来了一个充满创意和探索乐趣的游戏环境。游戏中的关卡设计巧妙，每个关卡都有正面和背面两种玩法，玩家可以通过不同的视角来探索和解决谜题。
 
 游戏支持单人和双人合作模式，玩家可以与朋友一起合作，共同克服挑战。在双人模式中，一位玩家可以骑在另一位玩家的背上，共同操作耀西进行游戏，这种合作方式为游戏增添了更多的乐趣和挑战。
 

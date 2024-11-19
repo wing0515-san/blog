@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "世界游戏大全[1.1.3|XCI]"
-image: "img/a5c4b044.jpg"
+title: "Switch 世界游戏大全[1.1.3|XCI]"
+image: "/img/a5c4b044.jpg"
 draft: false
 date: 2024-10-30
 description: "Switch 世界游戏大全"
-tags: [“中文”,“聚会”,“多人”,“休闲”,“运动”]
+tags: ["中文","聚会","多人","休闲","运动"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ archives: ["2024/10/30"]
 容量：2.4G
 
 [百度网盘](https://pan.baidu.com/s/1Ne2icrxhw0bj7iXlKZbn9w) 提取码: vb78  
-![图片1](img/08e451a2.jpg)![图片2](img/def1397e.jpg)![图片3](img/4902996.jpg)  
+![图片1](/img/08e451a2.jpg)![图片2](/img/def1397e.jpg)![图片3](/img/4902996.jpg)  
 
 游戏简介  
 《世界游戏大全》（World Game Collection）是一款由Nintendo发行的聚会游戏合集，它包含了多种来自世界各地的经典桌面和棋类游戏。这款游戏旨在让玩家体验和享受不同文化中的游戏乐趣。

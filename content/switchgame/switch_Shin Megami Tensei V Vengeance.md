@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "真女神转生5：复仇[1.0.1+7DLC|XCI]"
-image: "img/20241029141232.png"
+title: "Switch 真女神转生5：复仇[1.0.1+7DLC|XCI]"
+image: "/img/20241029141232.png"
 draft: false
 date: 2024-10-30
 description: "Switch 真女神转生5：复仇"
-tags: [“中文”,“角色扮演”]
+tags: ["中文","角色扮演"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Shin Megami Tensei V Vengeance
 容量：13.7G
 
 [百度网盘](https://pan.baidu.com/s/1O6rPdL84enK_rO-1bW8bmw) 提取码: fyd2  
-![图片1](img/20241029141322.png)![图片2](img/20241029141352.png)![图片3](img/20241029141457.png)  
+![图片1](/img/20241029141322.png)![图片2](/img/20241029141352.png)![图片3](/img/20241029141457.png)  
 
 游戏简介  
 《真女神转生5 Vengeance》（Shin Megami Tensei V Vengeance）是《真·女神转生5》的强化版，这款游戏在原版的基础上对系统和剧情等诸多方面进行了升级进化，并登陆了包括Nintendo Switch在内的多个平台。以下是关于这款游戏的一些特点和信息：
@@ -40,7 +40,7 @@ Shin Megami Tensei V Vengeance
 
 7. **画面与帧数优化**：游戏在画面与帧数上进行了优化，提升了游戏体验。
 
-8. **随时随地存档功能**：对于这款出门遛弯都有可能暴毙的游戏来说，随时随地存档功能是“史诗级更新”。
+8. **随时随地存档功能**：对于这款出门遛弯都有可能暴毙的游戏来说，随时随地存档功能是"史诗级更新"。
 
 9. **音乐**：由小塚良太担任主作曲家，此次《Vengeance》的新曲不仅数量惊人，听感体验也妙，是本作的优点之一。
 

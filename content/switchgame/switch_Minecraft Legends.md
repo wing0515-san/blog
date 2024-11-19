@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "我的世界：传奇[1.18.19068|XCI]"
-image: "img/202410241522.jpg"
+title: "Switch 我的世界：传奇[1.18.19068|XCI]"
+image: "/img/202410241522.jpg"
 draft: false
 date: 2024-10-30
 description: "Switch 我的世界：传奇"
-tags: [“中文”,“角色扮演”,“动作”,“冒险”,“多人”,“像素”]
+tags: ["中文","角色扮演","动作","冒险","多人","像素"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Minecraft Legends
 容量：6.7G
 
 [百度网盘](https://pan.baidu.com/s/1FfCoSR2SS_RsZfnako9cIQ) 提取码: y7qj  
-![图片1](img/b4657308a.jpg)![图片2](img/b5f26fd6547.jpg)![图片3](img/20eb73a2d.jpg)  
+![图片1](/img/b4657308a.jpg)![图片2](/img/b5f26fd6547.jpg)![图片3](/img/20eb73a2d.jpg)  
 
 游戏简介  
 《我的世界：传奇》（Minecraft Legends）是由Mojang Studios、Xbox Game Studios和Blackbird Interactive共同开发的一款动作策略游戏，于2023年4月18日正式发售。游戏不仅在Steam平台上以119元人民币的标准版和139元的豪华版价格发布，还支持Xbox Series X|S、Xbox One、Nintendo Switch、PlayStation 5|4等平台。

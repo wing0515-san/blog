@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "涅瓦[1.1.2|XCI]"
-image: "img/20241030130231.png"
+title: "Switch 涅瓦[1.1.2|XCI]"
+image: "/img/20241030130231.png"
 draft: false
 date: 2024-10-30
 description: "Switch 涅瓦"
-tags: [“中文”,“动作”,“解密”,“平台”]
+tags: ["中文","动作","解密","平台"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Nevaeh
 容量：718M
 
 [百度网盘](https://pan.baidu.com/s/1f0PjdPUbQ_IILOAv1UtbCg) 提取码: fyd2  
-![图片1](img/387057.jpg)![图片2](img/793e082.jpg)![图片3](img/a9e136df228.jpg)  
+![图片1](/img/387057.jpg)![图片2](/img/793e082.jpg)![图片3](/img/a9e136df228.jpg)  
 
 游戏简介  
 光亮,寧靜的村莊

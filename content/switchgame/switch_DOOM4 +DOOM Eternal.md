@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "毁灭战士4 + 永恒[1.4+1.14|XCI]"
-image: "img/20241030110718.png"
+title: "Switch 毁灭战士4 + 永恒[1.4+1.14|XCI]"
+image: "/img/20241030110718.png"
 draft: false
 date: 2024-10-30
 description: "Switch 毁灭战士4 + 毁灭战士 永恒"
-tags: [“中文”,“动作”,“射击”]
+tags: ["中文","动作","射击"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ DOOM4 +DOOM Eternal
 容量：22G+30G
 
 [百度网盘](https://pan.baidu.com/s/1sH3l1iMydw3Bokc8lICASA) 提取码: fyd2  
-![图片1](img/36f889d696f.jpg)![图片2](img/861c8ac2d7fa7.jpg)![图片3](img/ca59bc21c0806.jpg)  
+![图片1](/img/36f889d696f.jpg)![图片2](/img/861c8ac2d7fa7.jpg)![图片3](/img/ca59bc21c0806.jpg)  
 
 游戏简介  
 下载地址中游戏合集包括毁灭战士4和毁灭战士 永恒

@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "动物井[1.0.6|XCI]"
-image: "img/20241030153651.png"
+title: "Switch 动物井[1.0.6|XCI]"
+image: "/img/20241030153651.png"
 draft: false
 date: 2024-10-30
 description: "Switch 动物井"
-tags: [“中文”,“解密”,“平台”]
+tags: ["中文","解密","平台"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Animal Well
 容量：84M
 
 [百度网盘](https://pan.baidu.com/s/14i322S-2oD7Tk2pBdrwbtg) 提取码: fyd2  
-![图片1](img/3227ce494f.jpg)![图片2](img/2525615889.jpg)![图片3](img/f0939bfd96.jpg)  
+![图片1](/img/3227ce494f.jpg)![图片2](/img/2525615889.jpg)![图片3](/img/f0939bfd96.jpg)  
 
 游戏简介  
 《动物井》（Animal Well）是一款由独立游戏开发者制作的休闲游戏。这款游戏以其简单的游戏机制、可爱的动物角色和轻松的游戏体验而受到玩家的喜爱。

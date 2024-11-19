@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "古树旋律系列[1.13+1.03|XCI]"
-image: "img/20241030102528.png"
+title: "Switch 古树旋律系列[1.13+1.03|XCI]"
+image: "/img/20241030102528.png"
 draft: false
 date: 2024-10-30
 description: "Switch 古树旋律 + 古树旋律 重生"
-tags: [“中文”,“音乐节奏”]
+tags: ["中文","音乐节奏"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Deemo + Deemo Reborn
 容量：3.7G+4.4G
 
 [百度网盘](https://pan.baidu.com/s/1NODgjyJcAIwCn4taXnVsag) 提取码: fyd2  
-![图片1](img/ab3fe151c.jpg)![图片2](img/93425426c7862.jpg)![图片3](img/ead5bea11479f.jpg)  
+![图片1](/img/ab3fe151c.jpg)![图片2](/img/93425426c7862.jpg)![图片3](/img/ead5bea11479f.jpg)  
 
 游戏简介  
 《古树旋律》（Deemo）是一款由Rayark Inc.开发的音乐节奏游戏，以其精美的艺术风格和感人的故事而闻名。玩家在游戏中通过弹奏钢琴音符来帮助一个小女孩回到现实世界。游戏结合了音乐节奏挑战和剧情元素，提供了一个独特的游戏体验。

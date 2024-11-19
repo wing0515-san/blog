@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "九龙妖魔学园记[1.3|XCI]"
-image: "img/1ac766e7.JPG"
+title: "Switch 九龙妖魔学园记[1.3|XCI]"
+image: "/img/1ac766e7.JPG"
 draft: false
 date: 2024-10-30
 description: "Switch 九龙妖魔学园记"
-tags: [“中文”,“文字冒险”,“角色扮演”]
+tags: ["中文","文字冒险","角色扮演"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Kowloon High School Chronicle
 容量：4.3G
 
 [百度网盘](https://pan.baidu.com/s/1VRF2jcWThXnjtVKQMSw3LA) 提取码: aqiy  
-![图片1](img/b976ba9d.jpg)![图片2](img/c1d33f03.jpg)![图片3](img/02edf0a4b8.jpg)  
+![图片1](/img/b976ba9d.jpg)![图片2](/img/c1d33f03.jpg)![图片3](/img/02edf0a4b8.jpg)  
 
 游戏简介  
 由打造《青年文學傳奇系列》創作人今井秋芳所監督製作的傑作，

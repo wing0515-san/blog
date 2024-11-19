@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "危险时空的恋人[1.0.4|XCI]"
-image: "img/20241029135230.png"
+title: "Switch 危险时空的恋人[1.0.4|XCI]"
+image: "/img/20241029135230.png"
 draft: false
 date: 2024-10-30
 description: "Switch 危险时空的恋人"
-tags: [“中文”,“射击”,“多人”]
+tags: ["中文","射击","多人"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Lovers in a Dangerous Spacetime
 容量：370M
 
 [百度网盘](https://pan.baidu.com/s/1h56pKnmNvQtvzb-R7QVDag) 提取码: fyd2  
-![图片1](img/009382d628.jpg)![图片2](img/e46d97c5cc.jpg)![图片3](img/61930faa67.jpg)  
+![图片1](/img/009382d628.jpg)![图片2](/img/e46d97c5cc.jpg)![图片3](/img/61930faa67.jpg)  
 
 游戏简介  
 《危险时空的恋人》（Lovers in a Dangerous Spacetime）在Nintendo Switch平台上是一款非常独特的合作动作太空射击游戏。以下是一些关于这款游戏的特色和信息：

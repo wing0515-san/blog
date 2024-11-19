@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "深海迷航系列[1.21.71113+1.21.49397|XCI]"
-image: "img/20241030093625.png"
+title: "Switch 深海迷航系列[1.21.71113+1.21.49397|XCI]"
+image: "/img/20241030093625.png"
 draft: false
 date: 2024-10-30
 description: "Switch 深海迷航 + 深海迷航 冰点之下"
-tags: [“中文”,“动作”,“冒险”]
+tags: ["中文","动作","冒险"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Subnautica  + Subnautica Below Zero
 容量：11.9G
 
 [百度网盘](https://pan.baidu.com/s/188D-rxjDZDixCIZxDR72NA) 提取码: fyd2  
-![图片1](img/011daad83f84948.jpg)![图片2](img/bdcf6ce29ba61650f0b.jpg)![图片3](img/4175a9e5b153369.jpg)  
+![图片1](/img/011daad83f84948.jpg)![图片2](/img/bdcf6ce29ba61650f0b.jpg)![图片3](/img/4175a9e5b153369.jpg)  
 
 游戏简介  
 《深海迷航》（Subnautica）和《深海迷航：冰点之下》（Subnautica: Below Zero）是由Unknown Worlds Entertainment开发的生存冒险游戏。以下是这两款游戏的简介：

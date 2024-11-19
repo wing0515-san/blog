@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "战律1&2[2.1.9+1.2.8|1DLC|XCI]"
-image: "img/efca76e4d3672.jpg"
+title: "Switch 战律1&2[2.1.9+1.2.8|1DLC|XCI]"
+image: "/img/efca76e4d3672.jpg"
 draft: false
 date: 2024-10-30
 description: "Switch 战律 1&2"
-tags: [“中文”,“策略”]
+tags: ["中文","策略"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Wargroove 1&2
 容量：400M+1.1G
 
 [百度网盘](https://pan.baidu.com/s/1MOBL5LITBtDcbCpnB3FB_g) 提取码: fyd2  
-![图片1](img/e3e3a236d7.jpg)![图片2](img/0ebb75d547.jpg)![图片3](img/af5d02f45f5.jpg)  
+![图片1](/img/e3e3a236d7.jpg)![图片2](/img/0ebb75d547.jpg)![图片3](/img/af5d02f45f5.jpg)  
 
 游戏简介  
 您好，关于Nintendo Switch平台上的《战律》系列游戏，以下是一些详细信息：

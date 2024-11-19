@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "红莲四羽：世界爆发[1.0|XCI]"
-image: "img/20241029164805.png"
+title: "Switch 红莲四羽：世界爆发[1.0|XCI]"
+image: "/img/20241029164805.png"
 draft: false
 date: 2024-10-30
 description: "Switch 红莲四羽：世界爆发"
-tags: [“中文”,“街机”,“射击”]
+tags: ["中文","街机","射击"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Crimson Clover World Ignition
 容量：800M
 
 [百度网盘](https://pan.baidu.com/s/1gdasjt-KvKyyeAipGsYWlw) 提取码: fyd2  
-![图片1](img/3e94ac253ef9b15e.jpg)![图片2](img/3f33cb48310a5.jpg)![图片3](img/98603ab9cd7.jpg)  
+![图片1](/img/3e94ac253ef9b15e.jpg)![图片2](/img/3f33cb48310a5.jpg)![图片3](/img/98603ab9cd7.jpg)  
 
 游戏简介  
 《红莲四羽：世界爆发》（Crimson Lotus: World Eruption）是一款由日本游戏开发者制作的射击游戏。这款游戏以其独特的视觉风格和快节奏的弹幕射击玩法而受到玩家的喜爱。玩家在游戏中扮演一名飞行员，驾驶着装备有强大武器的飞机，与各种敌人进行空中战斗。

@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "新宝可梦随乐拍[2.0.1|XCI]"
-image: "img/202410231331.png"
+title: "Switch 新宝可梦随乐拍[2.0.1|XCI]"
+image: "/img/202410231331.png"
 draft: false
 date: 2024-10-30
 description: "Switch 新宝可梦随乐拍"
-tags: [“中文”,“休闲”,“模拟”]
+tags: ["中文","休闲","模拟"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ New Pokémon Snap
 容量：7.3G
 
 [百度网盘](https://pan.baidu.com/s/1Xaea25Gc3ZF9vnkGj0eQLw) 提取码: nd5n  
-![图片1](img/content-img04.jpg)![图片2](img/e39f3d57.jpg)![图片3](img/b6eb8e1b.jpg)  
+![图片1](/img/content-/img04.jpg)![图片2](/img/e39f3d57.jpg)![图片3](/img/b6eb8e1b.jpg)  
 
 游戏简介  
 《宝可梦随乐拍》（Pokémon Snap）是一款由任天堂开发并发行的摄影模拟游戏，最初于1999年在日本发售，随后在2000年在北美和欧洲地区发行，是为Nintendo 64平台设计的游戏。玩家在游戏中扮演一名宝可梦摄影师，任务是捕捉宝可梦在自然环境中的照片。

@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "灵魂旅者[1.1.5|XCI]"
-image: "img/20241030105853.png"
+title: "Switch 灵魂旅者[1.1.5|XCI]"
+image: "/img/20241030105853.png"
 draft: false
 date: 2024-10-30
 description: "Switch 灵魂旅者"
-tags: [“中文”,“模拟”,“冒险”]
+tags: ["中文","模拟","冒险"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,12 +21,12 @@ Spiritfarer
 容量：4.1G
 
 [百度网盘](https://pan.baidu.com/s/1aH1mxMYUPimT7qFoARR1kA) 提取码: fyd2  
-![图片1](img/3be8ec2a11c.jpg)![图片2](img/2001d7df99.jpg)![图片3](img/a8378ece2771.jpg)  
+![图片1](/img/3be8ec2a11c.jpg)![图片2](/img/2001d7df99.jpg)![图片3](/img/a8378ece2771.jpg)  
 
 游戏简介  
 《Spiritfarer》（灵魂旅者）是一款由Thunder Lotus Games开发的独立冒险游戏。以下是这款游戏的一些基本介绍：
 
-1. **游戏类型**：《Spiritfarer》是一款关于死亡的休闲管理游戏，玩家扮演一位“灵魂摆渡人”，负责引导逝去的灵魂穿越神秘的海洋，最终到达来世。
+1. **游戏类型**：《Spiritfarer》是一款关于死亡的休闲管理游戏，玩家扮演一位"灵魂摆渡人"，负责引导逝去的灵魂穿越神秘的海洋，最终到达来世。
 
 2. **游戏玩法**：玩家需要建造和定制自己的船只，探索世界，收集资源，制造物品，以及与遇到的幽灵进行互动。游戏强调情感联系和故事叙述，玩家将与幽灵角色建立深厚的关系，并帮助他们完成最后的心愿。
 

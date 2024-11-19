@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "迷你高速公路[1.14+2DLC|XCI]"
-image: "img/20241029181459.png"
+title: "Switch 迷你高速公路[1.14+2DLC|XCI]"
+image: "/img/20241029181459.png"
 draft: false
 date: 2024-10-30
 description: "Switch 迷你高速公路"
-tags: [“中文”,“益智”,“休闲”]
+tags: ["中文","益智","休闲"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Mini Motorways
 容量：320M
 
 [百度网盘](https://pan.baidu.com/s/1Idfuguxb6UB-EKQjD4Fzsg) 提取码: fyd2  
-![图片1](img/20241029181539.png)![图片2](img/20241029181600.png)![图片3](img/20241029181619.png)  
+![图片1](/img/20241029181539.png)![图片2](/img/20241029181600.png)![图片3](/img/20241029181619.png)  
 
 游戏简介  
 "Switch迷你高速公路"（Mini Motorways）是一款由Dinosaur Polo Club开发的城市建设模拟游戏，它在Nintendo Switch上也可以找到。游戏的目标是为城市设计和扩展交通网络，以满足日益增长的交通需求。以下是这款游戏的一些基本介绍：

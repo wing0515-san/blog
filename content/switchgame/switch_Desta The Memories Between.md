@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "德斯塔：记忆之间[1.5.329+7DLC|XCI]"
-image: "img/Desta.jpg"
+title: "Switch 德斯塔：记忆之间[1.5.329+7DLC|XCI]"
+image: "/img/Desta.jpg"
 draft: false
 date: 2024-10-30
 description: "Switch 德斯塔：记忆之间"
-tags: [“中文”,“角色扮演”,“策略”]
+tags: ["中文","角色扮演","策略"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Desta The Memories Between
 容量：990M
 
 [百度网盘](https://pan.baidu.com/s/1Pwn6nGAj4LzPmnvc4DzmUw) 提取码: h69m  
-![图片1](img/5fef31f57c51d.jpg)![图片2](img/7d7df746ee958.jpg)![图片3](img/8a3c16d1ba6.jpg)  
+![图片1](/img/5fef31f57c51d.jpg)![图片2](/img/7d7df746ee958.jpg)![图片3](/img/8a3c16d1ba6.jpg)  
 
 游戏简介  
 《德斯塔：记忆之间》（Desta: The Memories Between）是由《纪念碑谷》的开发商ustwo games打造的一款回合制策略游戏，它在2023年4月26日正式登陆了Nintendo Switch和PC平台，包括Steam平台。这款游戏以其独特的艺术风格和叙事手法，为玩家提供了一个温柔治愈的游戏体验。

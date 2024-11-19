@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "暗黑地牢1&2[1.2.1+1.04|全DLC|XCI]"
-image: "img/202410291107.jpg"
+title: "Switch 暗黑地牢1&2[1.2.1+1.04|全DLC|XCI]"
+image: "/img/202410291107.jpg"
 draft: false
 date: 2024-10-30
 description: "Switch 暗黑地牢1&2"
-tags: [“中文”,“冒险”,“策略”,“Roguelike”]
+tags: ["中文","冒险","策略","Roguelike"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Darkest Dungeon 1&2
 容量：3.9G+2.4G
 
 [百度网盘](https://pan.baidu.com/s/1iidjIgXvScVaySL56dbP4Q) 提取码: fyd2  
-![图片1](img/1aa42fbc9a8.jpg)![图片2](img/389aacb54b1.jpg)![图片3](img/697645da4.jpg)  
+![图片1](/img/1aa42fbc9a8.jpg)![图片2](/img/389aacb54b1.jpg)![图片3](/img/697645da4.jpg)  
 
 游戏简介  
 Nintendo Switch平台上的《黑暗地牢》系列包括以下两款游戏：

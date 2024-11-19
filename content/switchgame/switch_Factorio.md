@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "异星工厂[1.1.110|XCI]"
-image: "img/20241030151528.png"
+title: "Switch 异星工厂[1.1.110|XCI]"
+image: "/img/20241030151528.png"
 draft: false
 date: 2024-10-30
 description: "Switch 异星工厂"
-tags: [“中文”,“多人”,“模拟”]
+tags: ["中文","多人","模拟"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Factorio
 容量：1.5G
 
 [百度网盘](https://pan.baidu.com/s/1pJZiBOn89qt2YHnnWsohCg) 提取码: fyd2  
-![图片1](img/a4a3f0e2b7f6.jpg)![图片2](img/d28a001c33a.jpg)![图片3](img/fd63ea1bed.jpg)  
+![图片1](/img/a4a3f0e2b7f6.jpg)![图片2](/img/d28a001c33a.jpg)![图片3](/img/fd63ea1bed.jpg)  
 
 游戏简介  
 "异星工厂"（Factorio）是一款由Wube Software开发的建造和管理系统模拟游戏。以下是这款游戏的一些基本介绍：

@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "UFO找工作[1.0|XCI]"
-image: "img/fdbd7607.jpg"
+title: "Switch UFO找工作[1.0|XCI]"
+image: "/img/fdbd7607.jpg"
 draft: false
 date: 2024-10-30
 description: "Switch UFO找工作"
-tags: [“中文”,“益智”,“模拟”]
+tags: ["中文","益智","模拟"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Part Time UFO
 容量：130M
 
 [百度网盘](https://pan.baidu.com/s/1dJ5yryC9Etb9HlSSPB1HTA) 提取码: 6wy9  
-![图片1](img/fe8ff1e7.jpg)![图片2](img/MV5BZDU0NzQ.jpg)![图片3](img/06owdgh7euv51.jpg)  
+![图片1](/img/fe8ff1e7.jpg)![图片2](/img/MV5BZDU0NzQ.jpg)![图片3](/img/06owdgh7euv51.jpg)  
 
 游戏简介  
 《UFO找工作》（UFO: A Day in the Life）是一款由日本游戏公司G-Artists开发的模拟经营游戏。游戏中，玩家扮演一个外星人，来到地球上开设一家便利店，目标是通过经营便利店来了解人类的生活，并最终融入地球社会。

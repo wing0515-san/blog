@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "任天堂明星大乱斗特别版[13.0.2+99DLC|XCI]"
-image: "img/f09aec80.jpg"
+title: "Switch 任天堂明星大乱斗特别版[13.0.2+99DLC|XCI]"
+image: "/img/f09aec80.jpg"
 draft: false
 date: 2024-10-30
 description: "Switch 任天堂明星大乱斗 特别版"
-tags: [“中文”,“格斗”,“多人”]
+tags: ["中文","格斗","多人"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Super Smash Bros Ultimate
 容量：17.3G
 
 [百度网盘](https://pan.baidu.com/s/1hw8gBOikZvqGBZUfgPyW9g) 提取码: yv37  
-![图片1](img/b54a3b72.jpg)![图片2](img/d4fcf776.jpg)![图片3](img/f49d6616.jpg)  
+![图片1](/img/b54a3b72.jpg)![图片2](/img/d4fcf776.jpg)![图片3](/img/f49d6616.jpg)  
 
 游戏简介  
 《任天堂明星大乱斗 特别版》（Super Smash Bros. Ultimate）是由任天堂开发并发行的一款格斗游戏，于2018年12月7日在Nintendo Switch平台发售。它是《任天堂明星大乱斗》系列的最新主要作品，汇集了来自任天堂多个游戏系列的角色，以及一些第三方游戏角色。

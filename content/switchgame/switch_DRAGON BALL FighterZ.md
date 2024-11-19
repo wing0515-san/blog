@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "龙珠斗士Z[1.38+33DLC|XCI]"
-image: "img/20241030095219.png"
+title: "Switch 龙珠斗士Z[1.38+33DLC|XCI]"
+image: "/img/20241030095219.png"
 draft: false
 date: 2024-10-30
 description: "Switch 龙珠斗士Z"
-tags: [“中文”,“格斗”,“多人”]
+tags: ["中文","格斗","多人"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ DRAGON BALL FighterZ
 容量：9.5g
 
 [百度网盘](https://pan.baidu.com/s/1yeWcIcVFB2VwU2BMhxxn0w) 提取码: fyd2  
-![图片1](img/d48baf2e7aaf.jpg)![图片2](img/bc7ba4ce2dce2.jpg)![图片3](img/ced8fb8be5b0.jpg)  
+![图片1](/img/d48baf2e7aaf.jpg)![图片2](/img/bc7ba4ce2dce2.jpg)![图片3](/img/ced8fb8be5b0.jpg)  
 
 游戏简介  
 《龙珠斗士Z》（Dragon Ball FighterZ）是由Arc System Works开发，万代南梦宫（Bandai Namco Entertainment）发行的一款2D格斗游戏。以下是这款游戏的一些基本信息和特点：

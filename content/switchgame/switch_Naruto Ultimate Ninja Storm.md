@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "火影忍者究极风暴五部[最新版本|全DLC|XCI]"
-image: "img/202410281734.jpg"
+title: "Switch 火影忍者究极风暴五部[最新版本|全DLC|XCI]"
+image: "/img/202410281734.jpg"
 draft: false
 date: 2024-10-30
 description: "Switch 火影忍者系列"
-tags: [“中文”,“格斗”,“动作”,“角色扮演”]
+tags: ["中文","格斗","动作","角色扮演"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Naruto Ultimate Ninja Storm
 容量：ALL-40.8G
 
 [百度网盘](https://pan.baidu.com/s/1RRvdtO8flwtJKyDrUu1ORQ) 提取码: 3kvd  
-![图片1](img/4c6e4d847f0613714.jpg)![图片2](img/248bde54e3bdcda.jpg)![图片3](img/9a36a955f3cfc99.jpg)  
+![图片1](/img/4c6e4d847f0613714.jpg)![图片2](/img/248bde54e3bdcda.jpg)![图片3](/img/9a36a955f3cfc99.jpg)  
 
 游戏简介  
 下载合集包括火影忍者究极风暴1-3、4博人传、火影忍者：终极风暴羁绊

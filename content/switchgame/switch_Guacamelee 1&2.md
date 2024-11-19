@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "墨西哥大混战 1&2[1.0+1.0.4|1DLC|XCI]"
-image: "img/20241029182643.png"
+title: "Switch 墨西哥大混战 1&2[1.0+1.0.4|1DLC|XCI]"
+image: "/img/20241029182643.png"
 draft: false
 date: 2024-10-30
 description: "Switch 墨西哥大混战 1&2"
-tags: [“中文”,“平台”,“动作”]
+tags: ["中文","平台","动作"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Guacamelee 1&2
 容量：700M+2.2G
 
 [百度网盘](https://pan.baidu.com/s/1kV5pu0yxZRic4zylQhuQeA) 提取码: fyd2  
-![图片1](img/0150cbfaca77b.jpg)![图片2](img/3bbf440524c8.jpg)![图片3](img/8efe0e2c4966cf36.jpg)  
+![图片1](/img/0150cbfaca77b.jpg)![图片2](/img/3bbf440524c8.jpg)![图片3](/img/8efe0e2c4966cf36.jpg)  
 
 游戏简介  
 《墨西哥大混战》（Guilty Gear）是由日本游戏公司Arc System Works开发的一系列2D格斗游戏。这个系列以其独特的艺术风格、复杂的剧情和深奥的战斗系统而闻名。游戏中的角色个性鲜明，每个角色都有自己的背景故事和动机，而战斗则以其高速和高技巧性著称。

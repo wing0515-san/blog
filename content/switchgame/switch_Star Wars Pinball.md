@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "星球大战弹珠台[1.0|XCI]"
-image: "img/364852296.webp"
+title: "Switch 星球大战弹珠台[1.0|XCI]"
+image: "/img/364852296.webp"
 draft: false
 date: 2024-10-30
 description: "Switch 星球大战弹珠台"
-tags: [“中文”,“休闲”,“聚会”,“多人”,“街机”]
+tags: ["中文","休闲","聚会","多人","街机"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Star Wars Pinball
 容量：1.9G
 
 [百度网盘](https://pan.baidu.com/s/1Rq6Esdf2niRdJihc6xxv6w) 提取码: fyd2  
-![图片1](img/sc9nd5.jpg)![图片2](img/sc9nd6.jpg)![图片3](img/sc9nd3.jpg)  
+![图片1](/img/sc9nd5.jpg)![图片2](/img/sc9nd6.jpg)![图片3](/img/sc9nd3.jpg)  
 
 游戏简介  
 《星球大战：弹珠台》（Star Wars Pinball）是一款由Zen Studios开发，Game Source Entertainment发行的基于《星球大战》场景的弹珠台游戏，已在Nintendo Switch平台推出。以下是一些关于这款游戏的关键信息：

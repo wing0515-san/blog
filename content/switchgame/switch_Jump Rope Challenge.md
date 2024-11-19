@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "跳绳大挑战[1.2|XCI]"
-image: "img/bd0c6dbc6ff0.jpg"
+title: "Switch 跳绳大挑战[1.2|XCI]"
+image: "/img/bd0c6dbc6ff0.jpg"
 draft: false
 date: 2024-10-30
 description: "Switch 跳绳大挑战"
-tags: [“中文”,“运动”,“多人”]
+tags: ["中文","运动","多人"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Jump Rope Challenge
 容量：150M
 
 [百度网盘](https://pan.baidu.com/s/1jjulLf4kXBMo0sSv-cnluw) 提取码: trqb  
-![图片1](img/20241023132624.png)![图片2](img/bd0c6dbc6ff0.jpg)![图片3](img/2ffe5622.jpg)  
+![图片1](/img/20241023132624.png)![图片2](/img/bd0c6dbc6ff0.jpg)![图片3](/img/2ffe5622.jpg)  
 
 游戏简介  
 《跳绳大挑战》（Jump Rope Challenge）是一款由任天堂开发并发行的健身游戏，它于2020年6月10日在Nintendo Switch平台上作为免费下载推出。这款游戏的设计目的是鼓励玩家在疫情期间增加身体活动，以保持健康的生活方式。

@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "最终幻想12：黄道年代[1.1|XCI]"
-image: "img/20241030093423.png"
+title: "Switch 最终幻想12：黄道年代[1.1|XCI]"
+image: "/img/20241030093423.png"
 draft: false
 date: 2024-10-30
 description: "Switch 最终幻想12：黄道年代"
-tags: [“中文”,“角色扮演”,“冒险”]
+tags: ["中文","角色扮演","冒险"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ FINAL FANTASY XII THE ZODIAC AGE
 容量：12.7G
 
 [百度网盘](https://pan.baidu.com/s/14y9d4yibGRA-0KqrnrVfiA) 提取码: fyd2  
-![图片1](img/7722abc39f2c.jpg)![图片2](img/d023697a733c0b.jpg)![图片3](img/e4da005f587.jpg)  
+![图片1](/img/7722abc39f2c.jpg)![图片2](/img/d023697a733c0b.jpg)![图片3](/img/e4da005f587.jpg)  
 
 游戏简介  
 《最终幻想12：黄道年代》（Final Fantasy XII: The Zodiac Age）是《最终幻想12》的高清重制版，由Square Enix开发并发行。以下是对这款游戏的一些基本介绍：
@@ -32,7 +32,7 @@ FINAL FANTASY XII THE ZODIAC AGE
 
 3. **重制特色**：与原版相比，《黄道年代》提供了高清的图形和改进的音效，以及对游戏系统进行了调整和优化，包括重新设计的战斗系统和更丰富的角色定制选项。
 
-4. **战斗系统**：游戏采用了“动态战斗系统”，允许玩家在广阔的地图上实时与敌人交战，同时可以进行战术布局和角色指令的快速切换。
+4. **战斗系统**：游戏采用了"动态战斗系统"，允许玩家在广阔的地图上实时与敌人交战，同时可以进行战术布局和角色指令的快速切换。
 
 5. **角色扮演元素**：玩家可以自由选择角色的职业和技能，通过战斗和完成任务来提升角色的能力。
 

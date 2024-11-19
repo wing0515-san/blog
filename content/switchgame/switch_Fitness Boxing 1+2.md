@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "健身拳击1+2[1.1.1+1.2.0|XCI]"
-image: "img/37364925.JPG"
+title: "Switch 健身拳击1+2[1.1.1+1.2.0|XCI]"
+image: "/img/37364925.JPG"
 draft: false
 date: 2024-10-30
 description: "Switch 健身拳击 1+2"
-tags: [“中文”,“运动”,“模拟”,“动作”]
+tags: ["中文","运动","模拟","动作"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Fitness Boxing 1+2
 容量：700M+3.7G
 
 [百度网盘](https://pan.baidu.com/s/1gFNmVOj0eAoTtDH_dMvQIA) 提取码: 6mgy  
-![图片1](img/0cda6307.jpg)![图片2](img/eda959ee.JPG)![图片3](img/75547be97e8.jfif)  
+![图片1](/img/0cda6307.jpg)![图片2](/img/eda959ee.JPG)![图片3](/img/75547be97e8.jfif)  
 
 游戏简介  
 《健身拳击》（Fitness Boxing）是一款由Imagineer开发，Koei Tecmo发行的健身游戏，适用于Nintendo Switch平台。这款游戏于2018年首次在日本发售，随后在全球范围内推出。

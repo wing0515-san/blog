@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "双点医院[1.0.14+5DLC|XCI]"
-image: "img/CDxgRi.jfif"
+title: "Switch 双点医院[1.0.14+5DLC|XCI]"
+image: "/img/CDxgRi.jfif"
 draft: false
 date: 2024-10-30
 description: "Switch 双点医院"
-tags: [“中文”,“休闲”,“模拟”]
+tags: ["中文","休闲","模拟"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Two Point Hospital
 容量：3.9G
 
 [百度网盘](https://pan.baidu.com/s/1hJvSj7530pVSpixVB6ObCQ) 提取码: fyd2  
-![图片1](img/025f82f4aa.jpg)![图片2](img/0ffaa53e8ab77.jpg)![图片3](img/0faf1463d04350.jpg)  
+![图片1](/img/025f82f4aa.jpg)![图片2](/img/0ffaa53e8ab77.jpg)![图片3](/img/0faf1463d04350.jpg)  
 
 游戏简介  
 《双点医院》（Two Point Hospital）是一款由Two Point Studios开发、世嘉（SEGA）发行的模拟经营游戏，它在Nintendo Switch平台上的表现如下：

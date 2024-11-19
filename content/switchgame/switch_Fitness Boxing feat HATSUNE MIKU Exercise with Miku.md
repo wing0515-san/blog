@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "健身拳击feat. 初音未来[1.0.1|XCI]"
-image: "img/2fece64b.webp"
+title: "Switch 健身拳击feat. 初音未来[1.0.1|XCI]"
+image: "/img/2fece64b.webp"
 draft: false
 date: 2024-10-30
 description: "Switch 健身拳击feat. 初音未来"
-tags: [“中文”,“运动”,“模拟”,“动作”]
+tags: ["中文","运动","模拟","动作"]
 archives: ["2024/10/30"]
 
 ---
@@ -22,7 +22,7 @@ Fitness Boxing feat HATSUNE MIKU Exercise with Miku
 容量：2.4G
 
 [百度网盘](https://pan.baidu.com/s/1_muD5dItOEF0iMrN-rz_CQ) 提取码: kgb4  
-![图片1](img/202410221345.jfif)![图片2](img/a3db6af2729eb.jpg)![图片3](img/102410221346.jpg)  
+![图片1](/img/202410221345.jfif)![图片2](/img/a3db6af2729eb.jpg)![图片3](/img/102410221346.jpg)  
 
 游戏简介  
 和「初音未來」展開健康計劃！

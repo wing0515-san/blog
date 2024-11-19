@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "马里奥激战前锋战斗联赛[1.3.2|XCI]"
-image: "img/24b90985.jpg"
+title: "Switch 马里奥激战前锋战斗联赛[1.3.2|XCI]"
+image: "/img/24b90985.jpg"
 draft: false
 date: 2024-10-30
 description: "Switch 马里奥激战前锋战斗联赛"
-tags: [“中文”,“运动”,“多人”]
+tags: ["中文","运动","多人"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Mario Strikers Battle League
 容量：4.6G
 
 [百度网盘](https://pan.baidu.com/s/1fKmbH9-1VVNV3pbPX8zeKQ) 提取码: s4hi  
-![图片1](img/1c15423e.jpg)![图片2](img/7efaf2f3.jpg)![图片3](img/ed0cebf8.jpg)  
+![图片1](/img/1c15423e.jpg)![图片2](/img/7efaf2f3.jpg)![图片3](/img/ed0cebf8.jpg)  
 
 游戏简介  
 《马里奥激战前锋：战斗联赛》（Mario Strikers: Battle League）是由Next Level Games开发，任天堂发行的一款体育竞技游戏，属于《马里奥激战前锋》系列。这款游戏于2022年6月10日在Nintendo Switch平台发售。

@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "洞窟探险1&2[1.0.5+1.28|XCI]"
-image: "img/20241029175431.png"
+title: "Switch 洞窟探险1&2[1.0.5+1.28|XCI]"
+image: "/img/20241029175431.png"
 draft: false
 date: 2024-10-30
 description: "Switch 洞窟探险 1&2"
-tags: [“中文”,“平台”,“动作”,“Roguelike”]
+tags: ["中文","平台","动作","Roguelike"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Spelunky 1&2
 容量：300M+700M
 
 [百度网盘](https://pan.baidu.com/s/1Uw764Zyqdst3dReU5sxzRw) 提取码: fyd2  
-![图片1](img/dbe6ac2ef9.jpg)![图片2](img/a63b195e3b6.jpg)![图片3](img/4c5c9a71904.jpg)  
+![图片1](/img/dbe6ac2ef9.jpg)![图片2](/img/a63b195e3b6.jpg)![图片3](/img/4c5c9a71904.jpg)  
 
 游戏简介  
 "Switch洞窟探险"（The Legend of Zelda: Breath of the Wild）是任天堂开发并发行的一款开放世界动作冒险游戏，属于《塞尔达传说》系列。以下是《塞尔达传说：荒野之息》（Breath of the Wild）及其续作《塞尔达传说：荒野之息2》（Breath of the Wild 2，暂定名）的简要介绍：

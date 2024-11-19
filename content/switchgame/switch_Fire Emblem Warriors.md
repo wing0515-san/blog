@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "火焰之纹章 无双[1.5+5DLC|XCI]"
-image: "img/20241022102138.png"
+title: "Switch 火焰之纹章 无双[1.5+5DLC|XCI]"
+image: "/img/20241022102138.png"
 draft: false
 date: 2024-10-30
 description: "Switch 火焰之纹章 无双"
-tags: [“中文”,“动作”]
+tags: ["中文","动作"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Fire Emblem Warriors
 容量：13.6G
 
 [百度网盘](https://pan.baidu.com/s/1vOy_5eNDOh3Uldwb0DAfuA) 提取码: wkud  
-![图片1](img/02042021.jpg)![图片2](img/fire2.jpg)![图片3](img/dbriktw.jpg)  
+![图片1](/img/02042021.jpg)![图片2](/img/fire2.jpg)![图片3](/img/dbriktw.jpg)  
 
 游戏简介  
 《火焰纹章无双》（Fire Emblem Warriors）是一款由Koei Tecmo的Omega Force团队开发，任天堂和光荣特库摩游戏（Koei Tecmo Games）共同发行的动作角色扮演游戏。这款游戏是《火焰纹章》系列与《无双》系列的跨界作品，结合了两个系列的特点，于2017年首次在Nintendo Switch和New Nintendo 3DS平台发售。
@@ -30,7 +30,7 @@ Fire Emblem Warriors
 
 《火焰纹章无双》的特点包括：
 1. **角色扮演元素**：游戏中的角色可以升级，学习新的技能和招式，以及装备不同的武器和装备。
-2. **无双动作**：游戏保留了《无双》系列的“一骑当千”的动作风格，玩家可以在战场上轻松击败大量敌人。
+2. **无双动作**：游戏保留了《无双》系列的"一骑当千"的动作风格，玩家可以在战场上轻松击败大量敌人。
 3. **战术元素**：虽然游戏的动作成分很重，但也包含了战术元素，如角色之间的支援关系和地形利用。
 4. **剧情模式**：游戏提供了一个原创的故事模式，玩家可以体验到《火焰纹章》系列的经典元素和角色。
 5. **多人游戏**：游戏支持本地和在线多人合作游戏，玩家可以与朋友一起战斗。

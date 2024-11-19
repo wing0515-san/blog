@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "猫头鹰男孩[1.0.5|XCI]"
-image: "img/20241029175151.png"
+title: "Switch 猫头鹰男孩[1.0.5|XCI]"
+image: "/img/20241029175151.png"
 draft: false
 date: 2024-10-30
 description: "Switch 猫头鹰男孩"
-tags: [“中文”,“平台”,“动作”]
+tags: ["中文","平台","动作"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Owlboy
 容量：300M
 
 [百度网盘](https://pan.baidu.com/s/18_g2nQGKZ3WSIJ6lCuFv9A) 提取码: fyd2  
-![图片1](img/be3c58c5e71.jpg)![图片2](img/ddfa576ec.jpg)![图片3](img/9f03e99e9df.jpg)  
+![图片1](/img/be3c58c5e71.jpg)![图片2](/img/ddfa576ec.jpg)![图片3](/img/9f03e99e9df.jpg)  
 
 游戏简介  
 《猫头鹰男孩》（Owlboy）是一款由D-Pad Studio开发并发行的2D冒险平台游戏。以下是该游戏的一些基本信息和特点：

@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "心跳文学俱乐部plus[1.0.4|XCI]"
-image: "img/202410291023.jpg"
+title: "Switch 心跳文学俱乐部plus[1.0.4|XCI]"
+image: "/img/202410291023.jpg"
 draft: false
 date: 2024-10-30
 description: "Switch 心跳文学俱乐部"
-tags: [“中文”,“文字冒险”]
+tags: ["中文","文字冒险"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Doki Doki Literature Club Plus
 容量：1.3G
 
 [百度网盘](https://pan.baidu.com/s/1c30CoOinUKZRR2FKJOAX7g) 提取码: fyd2  
-![图片1](img/ca069aff.jpg)![图片2](img/8001a5bfcfe.jpg)![图片3](img/d1ca934898f.jpg)  
+![图片1](/img/ca069aff.jpg)![图片2](/img/8001a5bfcfe.jpg)![图片3](/img/d1ca934898f.jpg)  
 
 游戏简介  
 《心跳文学俱乐部》（Doki Doki Literature Club!）在Nintendo Switch平台上的版本名为《心跳文学部Plus！》。以下是关于这款游戏的一些详细信息：

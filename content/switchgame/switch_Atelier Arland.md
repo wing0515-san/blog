@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "炼金工房系列-亚兰德[最新版本|全DLC|XCI]"
-image: "img/07e0b452f.jfif"
+title: "Switch 炼金工房系列-亚兰德[最新版本|全DLC|XCI]"
+image: "/img/07e0b452f.jfif"
 draft: false
 date: 2024-10-30
 description: "Switch 炼金工房系列-亚兰德"
-tags: [“中文”,“角色扮演”,“冒险”]
+tags: ["中文","角色扮演","冒险"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Atelier Arland
 容量：ALL-17.1G
 
 [百度网盘](https://pan.baidu.com/s/1ej1FaHZK0AYz2OjXGXmazg) 提取码: b9e6  
-![图片1](img/o5uVnaWal6WdqA.jpg)![图片2](img/dc0767e15.jfif)![图片3](img/202410281102.jpg)  
+![图片1](/img/o5uVnaWal6WdqA.jpg)![图片2](/img/dc0767e15.jfif)![图片3](/img/202410281102.jpg)  
 
 游戏简介  
 

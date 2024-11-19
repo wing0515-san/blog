@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "异度之刃2[2.0.2+6DLC|XCI]"
-image: "img/202410192356.jpg"
+title: "Switch 异度之刃2[2.0.2+6DLC|XCI]"
+image: "/img/202410192356.jpg"
 draft: false
 date: 2024-10-30
 description: "Switch 异度之刃2"
-tags: [“动作”,“角色扮演”,“中文”,“冒险”]
+tags: ["动作","角色扮演","中文","冒险"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Xenoblade Chronicles 2
 容量：16.8G
 
 [百度网盘](https://pan.baidu.com/s/1YHA34Ca2Z9lmtdtu2GxXWQ) 提取码: kayw  
-![图片1](img/45c9e23e0fb.jpg)![图片2](img/00b5b703209.png)![图片3](img/202410192359.jpg)  
+![图片1](/img/45c9e23e0fb.jpg)![图片2](/img/00b5b703209.png)![图片3](/img/202410192359.jpg)  
 
 游戏简介  
 《异度之刃2》是任天堂游戏公司发行的一款开放世界角色扮演游戏，由Monolith Soft制作。‌ 该游戏于2017年12月1日在Nintendo Switch主机上发布，由《异度装甲》与《灵光守护者》的制作人高桥哲哉领军制作。游戏的故事背景设定在一个被云海覆盖的世界——Alrest，人类生活在巨神兽的背上，寻找人类终极天堂乐园的奇幻冒险。玩家将扮演男主角莱克斯与他的同伴们一起踏上这段旅程‌。

@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "幽灵诡计[1.0|XCI]"
-image: "img/202410281028.png"
+title: "Switch 幽灵诡计[1.0|XCI]"
+image: "/img/202410281028.png"
 draft: false
 date: 2024-10-30
 description: "Switch 幽灵诡计"
-tags: [“中文”,“解密”]
+tags: ["中文","解密"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Ghost Trick Phantom Detective
 容量：2.6G
 
 [百度网盘](https://pan.baidu.com/s/1_KsfoR0POsQjxsuTa2oZIQ) 提取码: b9e6  
-![图片1](img/384c0ef1b45.jpg)![图片2](img/91063a965fac2.jpg)![图片3](img/b715127cd20.jpg)  
+![图片1](/img/384c0ef1b45.jpg)![图片2](/img/91063a965fac2.jpg)![图片3](/img/b715127cd20.jpg)  
 
 游戏简介  
 《幽灵诡计：幻影侦探》（Ghost Trick: Phantom Detective）是一款由CAPCOM Co., Ltd.开发并发行的冒险解密游戏，高清重制版于2023年6月29日在PC平台发售，并于6月30日登陆Nintendo Switch、PS4、Xbox One等平台

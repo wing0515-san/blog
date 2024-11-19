@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "勇者斗恶龙 怪物仙境3 魔族王子与精灵的旅程[1.0.3+21DLC|XCI]"
-image: "img/202410281520.jpg"
+title: "Switch 勇者斗恶龙 怪物仙境3 魔族王子与精灵的旅程[1.0.3+21DLC|XCI]"
+image: "/img/202410281520.jpg"
 draft: false
 date: 2024-10-30
 description: "Switch 勇者斗恶龙 怪物仙境3 魔族王子与精灵的旅程"
-tags: [“中文”,“角色扮演”,“冒险”]
+tags: ["中文","角色扮演","冒险"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Dragon Quest Monsters The Dark Prince
 容量：4.5G
 
 [百度网盘](https://pan.baidu.com/s/1bbeE0i2EXfLer0ttei7j6A) 提取码: b9e6  
-![图片1](img/1d3d3ac4894.jpg)![图片2](img/516654d104.jpg)![图片3](img/758ff7.jpg)  
+![图片1](/img/1d3d3ac4894.jpg)![图片2](/img/516654d104.jpg)![图片3](/img/758ff7.jpg)  
 
 游戏简介  
 《勇者斗恶龙 怪物仙境3 魔族王子与精灵的旅程》是一款由史克威尔艾尼克斯制作并在Nintendo Switch平台全球同步发售的角色扮演游戏。本作的主角是皮萨罗，他是《勇者斗恶龙 IV》中登场的角色，玩家将扮演他成为与怪物并肩作战的怪物大师，并与冒险途中相遇的精灵少女罗莎莉一同踏入各式各样的魔界。

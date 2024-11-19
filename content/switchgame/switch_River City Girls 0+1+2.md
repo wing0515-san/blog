@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "热血少女0+1+2[1.0+1.0.4+1.2|XCI]"
-image: "img/20241030143431.png"
+title: "Switch 热血少女0+1+2[1.0+1.0.4+1.2|XCI]"
+image: "/img/20241030143431.png"
 draft: false
 date: 2024-10-30
 description: "Switch 热血少女 0+1+2"
-tags: [“中文”,“动作”,“街机”]
+tags: ["中文","动作","街机"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ River City Girls 0+1+2
 容量：ALL-11.4g
 
 [百度网盘](https://pan.baidu.com/s/1nFrrL4IYTxz9iuUmmCbBvg) 提取码: fyd2  
-![图片1](img/3ecbe8e53ee8d.jpg)![图片2](img/83d4e1376.jpg)![图片3](img/fd6f5ca229808c.jpg)  
+![图片1](/img/3ecbe8e53ee8d.jpg)![图片2](/img/83d4e1376.jpg)![图片3](/img/fd6f5ca229808c.jpg)  
 
 游戏简介  
 《River City Girls》是一款由WayForward Technologies开发的动作冒险游戏，它是经典《River City》（又称《Kunio-kun》）系列的最新作品，以其复古风格和现代游戏机制的结合而受到玩家的喜爱。游戏以女性角色为主角，玩家将控制她们在城市中战斗和探险。

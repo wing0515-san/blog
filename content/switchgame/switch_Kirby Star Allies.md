@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "星之卡比新星同盟[4.0|XCI]"
-image: "img/202410240959.png"
+title: "Switch 星之卡比新星同盟[4.0|XCI]"
+image: "/img/202410240959.png"
 draft: false
 date: 2024-10-30
 description: "Switch 星之卡比新星同盟"
-tags: [“中文”,“动作”,“平台”]
+tags: ["中文","动作","平台"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Kirby Star Allies
 容量：5G
 
 [百度网盘](https://pan.baidu.com/s/1W-DiBIop_PgV6pW7azCJRQ) 提取码: hupz  
-![图片1](img/ab2ke4ar298b3yhrv0t5.jpg)![图片2](img/dvdv5gp3hjv9nlwqq7u9.jpg)![图片3](img/ekqv7bk4e8sp9u04vnfr.jpg)  
+![图片1](/img/ab2ke4ar298b3yhrv0t5.jpg)![图片2](/img/dvdv5gp3hjv9nlwqq7u9.jpg)![图片3](/img/ekqv7bk4e8sp9u04vnfr.jpg)  
 
 游戏简介  
 《星之卡比：新星同盟》（Kirby Star Allies）是一款由HAL研究所开发，任天堂发行的动作冒险游戏，对应Nintendo Switch平台。这款游戏最初于2018年3月16日发售，并于2024年5月23日在中国大陆地区正式发售，官方建议零售价为249元。作为星之卡比系列的第30部主线作品，也是系列中首次官方支持中文的作品，游戏提供了丰富的冒险体验和多样的游戏玩法。

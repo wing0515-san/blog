@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "蒸汽世界劫掠1&2[2.2.1+1.5|XCI]"
-image: "img/20241030161151.png"
+title: "Switch 蒸汽世界劫掠1&2[2.2.1+1.5|XCI]"
+image: "/img/20241030161151.png"
 draft: false
 date: 2024-10-30
 description: "Switch 蒸汽世界劫掠 1&2"
-tags: [“中文”,“策略”]
+tags: ["中文","策略"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ SteamWorld Heist 1&2
 容量：2G
 
 [百度网盘](https://pan.baidu.com/s/1y9GL5BJMqkXAWaz124iT1A) 提取码: fyd2  
-![图片1](img/f2171a4ff2a.jpg)![图片2](img/6d671bb000e.jpg)![图片3](img/efbeb22592e.jpg)  
+![图片1](/img/f2171a4ff2a.jpg)![图片2](/img/6d671bb000e.jpg)![图片3](/img/efbeb22592e.jpg)  
 
 游戏简介  
 踏上完整的 SteamWorld Heist 冒险之旅！

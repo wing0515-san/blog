@@ -1,12 +1,12 @@
 
 ---
 author: "SanYue"
-title: "铲子骑士系列[最新版本|XCI]"
-image: "img/20241030160341.png"
+title: "Switch 铲子骑士系列[最新版本|XCI]"
+image: "/img/20241030160341.png"
 draft: false
 date: 2024-10-30
 description: "Switch 铲子骑士系列"
-tags: [“中文”,“动作”,“Roguelike”]
+tags: ["中文","动作","Roguelike"]
 archives: ["2024/10/30"]
 
 ---
@@ -21,7 +21,7 @@ Shovel Knight
 容量：2.2G
 
 [百度网盘](https://pan.baidu.com/s/1Gp5DOhmT2Vauf7jbwtxkPg) 提取码: fyd2  
-![图片1](img/d3531bdfb.jpg)![图片2](img/457dbfc43982.jpg)![图片3](img/f8e35265a1a69.jpg)  
+![图片1](/img/d3531bdfb.jpg)![图片2](/img/457dbfc43982.jpg)![图片3](/img/f8e35265a1a69.jpg)  
 
 游戏简介  
 "铲子骑士"（Shovel Knight）是一款由Yacht Club Games开发的2D平台动作游戏，它以其复古的像素风格和对经典8位游戏的致敬而闻名。以下是关于"铲子骑士"系列游戏的一些简介：
