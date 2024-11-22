@@ -4,10 +4,10 @@ author: "SanYue"
 title: "Switch 烟火与献祭[1.2.1|XCI]"
 image: "/img/20241108180234.jpg"
 draft: false
-date: 2024-11-19
+date: 2024-11-20
 description: "Switch 烟火与献祭"
 tags: [冒险, 动作, 角色扮演, 中文]
-archives: ["2024/11/19"]
+archives: ["2024/11/20"]
 
 ---
 

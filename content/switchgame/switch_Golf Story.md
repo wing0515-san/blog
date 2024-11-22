@@ -4,10 +4,10 @@ author: "SanYue"
 title: "Switch 高尔夫物语[1.0|XCI]"
 image: "/img/20241108180235.jpg"
 draft: false
-date: 2024-11-19
+date: 2024-11-20
 description: "Switch 高尔夫物语"
 tags: [冒险, 体育, 像素, 派对, 角色扮演, 中文]
-archives: ["2024/11/19"]
+archives: ["2024/11/20"]
 
 ---
 

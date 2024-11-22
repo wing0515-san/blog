@@ -4,10 +4,10 @@ author: "SanYue"
 title: "Switch 棉花小魔女合集[全最新版本|XCI]"
 image: "/img/20241108180110.jpg"
 draft: false
-date: 2024-11-19
+date: 2024-11-20
 description: "Switch 棉花小魔女合集"
 tags: [冒险, 像素, 动作, 射击, 街机, 中文]
-archives: ["2024/11/19"]
+archives: ["2024/11/20"]
 
 ---
 

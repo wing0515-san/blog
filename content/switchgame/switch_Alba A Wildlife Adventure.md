@@ -4,10 +4,10 @@ author: "SanYue"
 title: "Switch 阿尔芭野外冒险[1.2.4|XCI]"
 image: "/img/20241108180119.jpg"
 draft: false
-date: 2024-11-19
+date: 2024-11-20
 description: "Switch 阿尔芭 野外冒险"
 tags: [冒险, 中文]
-archives: ["2024/11/19"]
+archives: ["2024/11/20"]
 
 ---
 

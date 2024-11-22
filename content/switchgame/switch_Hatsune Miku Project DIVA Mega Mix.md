@@ -4,10 +4,10 @@ author: "SanYue"
 title: "Switch 初音未来歌姬计划 MEGAMIX[1.0.9+27DLC|XCI]"
 image: "/img/20241108180126.jpg"
 draft: false
-date: 2024-11-19
+date: 2024-11-20
 description: "Switch 初音未来歌姬计划 MEGAMIX"
 tags: [动作, 音乐, 街机, 中文]
-archives: ["2024/11/19"]
+archives: ["2024/11/20"]
 
 ---
 

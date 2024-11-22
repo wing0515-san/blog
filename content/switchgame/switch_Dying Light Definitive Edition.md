@@ -4,10 +4,10 @@ author: "SanYue"
 title: "Switch 消逝的光芒白金版[1.0.5|XCI]"
 image: "/img/20241108180200.jpg"
 draft: false
-date: 2024-11-19
+date: 2024-11-20
 description: "Switch 消逝的光芒决定版"
 tags: [冒险, 动作, 射击, 中文]
-archives: ["2024/11/19"]
+archives: ["2024/11/20"]
 
 ---
 

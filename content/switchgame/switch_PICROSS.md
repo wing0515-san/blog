@@ -4,10 +4,10 @@ author: "SanYue"
 title: "Switch 绘图方块S系列[全最新版本|全DLC|XCI]"
 image: "/img/20241108180153.jpg"
 draft: false
-date: 2024-11-19
+date: 2024-11-20
 description: "Switch 绘图方块合集"
 tags: [像素, 策略, 多人, 解谜, 派对, 中文]
-archives: ["2024/11/19"]
+archives: ["2024/11/20"]
 
 ---
 

@@ -4,10 +4,10 @@ author: "SanYue"
 title: "Switch 七龙珠Z 卡卡洛特 + 新觉醒篇[1.5.0+17DLC|XCI]"
 image: "/img/20241108180203.jpg"
 draft: false
-date: 2024-11-19
+date: 2024-11-20
 description: "Switch 七龙珠Z 卡卡洛特 + 新觉醒篇"
 tags: [冒险, 动作, 角色扮演, 中文]
-archives: ["2024/11/19"]
+archives: ["2024/11/20"]
 
 ---
 

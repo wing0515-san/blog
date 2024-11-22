@@ -4,10 +4,10 @@ author: "SanYue"
 title: "Switch 痞子英雄泰索斯遗迹[1.0.8+1DLC|XCI]"
 image: "/img/20241108180209.jpg"
 draft: false
-date: 2024-11-19
+date: 2024-11-20
 description: "Switch 痞子英雄泰索斯遗迹"
 tags: [冒险, 像素, 动作, 多人, roguelike, 派对, 角色扮演, 中文]
-archives: ["2024/11/19"]
+archives: ["2024/11/20"]
 
 ---
 

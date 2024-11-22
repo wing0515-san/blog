@@ -4,10 +4,10 @@ author: "SanYue"
 title: "Switch FIFA遗产版21+21+22+23[全最新版本|全DLC|XCI]"
 image: "/img/20241108180219.jpg"
 draft: false
-date: 2024-11-19
+date: 2024-11-20
 description: "Switch FIFA 20-23"
 tags: [体育, 中文]
-archives: ["2024/11/19"]
+archives: ["2024/11/20"]
 
 ---
 

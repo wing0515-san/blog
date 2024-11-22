@@ -4,10 +4,10 @@ author: "SanYue"
 title: "Switch 魔域之书[1.2.0+3DLC|XCI]"
 image: "/img/20241108180239.jpg"
 draft: false
-date: 2024-11-19
+date: 2024-11-20
 description: "Switch 魔域之书"
 tags: [桌游, 冒险, 策略, 解谜, 益智, roguelike, 角色扮演, 中文]
-archives: ["2024/11/19"]
+archives: ["2024/11/20"]
 
 ---
 

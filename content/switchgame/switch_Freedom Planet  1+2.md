@@ -4,10 +4,10 @@ author: "SanYue"
 title: "Switch 自由星球1+2[全最新版本|XCI]"
 image: "/img/20241108180112.jpg"
 draft: false
-date: 2024-11-19
+date: 2024-11-20
 description: "Switch 自由星球 1+2"
 tags: [冒险, 像素, 动作, 平台, 中文]
-archives: ["2024/11/19"]
+archives: ["2024/11/20"]
 
 ---
 

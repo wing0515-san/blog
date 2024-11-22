@@ -4,10 +4,10 @@ author: "SanYue"
 title: "Switch 音乐故事[1.0|XCI]"
 image: "/img/20241108180134.jpg"
 draft: false
-date: 2024-11-19
+date: 2024-11-20
 description: "Switch 音乐故事"
 tags: [冒险, 动作, 音乐, 中文]
-archives: ["2024/11/19"]
+archives: ["2024/11/20"]
 
 ---
 

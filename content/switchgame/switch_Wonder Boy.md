@@ -4,10 +4,10 @@ author: "SanYue"
 title: "Switch 神奇小子合集[全最新版本|全DLC|XCI]"
 image: "/img/20241108180150.jpg"
 draft: false
-date: 2024-11-19
+date: 2024-11-20
 description: "Switch 神奇小子合集"
 tags: [冒险, 像素, 动作, 街机, 平台, 中文]
-archives: ["2024/11/19"]
+archives: ["2024/11/20"]
 
 ---
 

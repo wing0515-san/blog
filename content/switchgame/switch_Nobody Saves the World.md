@@ -4,10 +4,10 @@ author: "SanYue"
 title: "Switch 小人物拯救世界[1.0.2|XCI]"
 image: "/img/20241108180115.jpg"
 draft: false
-date: 2024-11-19
+date: 2024-11-20
 description: "Switch 小人物拯救世界"
 tags: [冒险, 动作, 多人, roguelike, 派对, 角色扮演, 中文]
-archives: ["2024/11/19"]
+archives: ["2024/11/20"]
 
 ---
 

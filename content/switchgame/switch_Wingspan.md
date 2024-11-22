@@ -4,10 +4,10 @@ author: "SanYue"
 title: "Switch 展翅翱翔[1.6.522+3DLC|XCI]"
 image: "/img/20241108180216.jpg"
 draft: false
-date: 2024-11-19
+date: 2024-11-20
 description: "Switch 展翅翱翔"
 tags: [桌游, 策略, 多人, 派对, 中文]
-archives: ["2024/11/19"]
+archives: ["2024/11/20"]
 
 ---
 

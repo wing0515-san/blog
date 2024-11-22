@@ -4,10 +4,10 @@ author: "SanYue"
 title: "Switch 东方咒术泡泡[4.8.1_A(36)+47DLC|XCI]"
 image: "/img/20241108180230.jpg"
 draft: false
-date: 2024-11-19
+date: 2024-11-20
 description: "Switch 东方咒术泡泡"
 tags: [动作, 多人, 音乐, 解谜, 益智, 派对, 中文]
-archives: ["2024/11/19"]
+archives: ["2024/11/20"]
 
 ---
 

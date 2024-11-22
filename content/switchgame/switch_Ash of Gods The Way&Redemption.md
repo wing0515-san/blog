@@ -4,10 +4,10 @@ author: "SanYue"
 title: "Switch 诸神灰烬 救赎&朝圣之路[全最新版本|XCI]"
 image: "/img/20241108180104.jpg"
 draft: false
-date: 2024-11-19
+date: 2024-11-20
 description: "Switch 诸神灰烬 救赎&朝圣之路"
 tags: [桌游, 冒险, 策略, 解谜, 中文]
-archives: ["2024/11/19"]
+archives: ["2024/11/20"]
 
 ---
 

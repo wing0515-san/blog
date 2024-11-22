@@ -4,10 +4,10 @@ author: "SanYue"
 title: "Switch 爆裂特遣队 vs 克里德博士的邪恶军团[1.0.2|XCI]"
 image: "/img/20241108180154.jpg"
 draft: false
-date: 2024-11-19
+date: 2024-11-20
 description: "Switch 爆裂联盟"
 tags: [冒险, 动作, 街机, 平台, 中文]
-archives: ["2024/11/19"]
+archives: ["2024/11/20"]
 
 ---
 

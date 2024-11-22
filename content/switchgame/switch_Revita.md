@@ -4,10 +4,10 @@ author: "SanYue"
 title: "Switch 轮回塔[1.0.4|XCI]"
 image: "/img/20241108180226.jpg"
 draft: false
-date: 2024-11-19
+date: 2024-11-20
 description: "Switch 轮回塔"
 tags: [冒险, 像素, 动作, 射击, roguelike, 中文]
-archives: ["2024/11/19"]
+archives: ["2024/11/20"]
 
 ---
 

@@ -4,10 +4,10 @@ author: "SanYue"
 title: "Switch 咖啡心语 &第二章[1.0.39+1.12|XCI]"
 image: "/img/20241108180138.jpg"
 draft: false
-date: 2024-11-19
+date: 2024-11-20
 description: "Switch 咖啡心语&第二章"
 tags: [冒险, 像素, 中文]
-archives: ["2024/11/19"]
+archives: ["2024/11/20"]
 
 ---
 

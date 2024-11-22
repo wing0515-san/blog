@@ -4,10 +4,10 @@ author: "SanYue"
 title: "Switch 毘卢遮那战姬 ～源平飞花梦想～[1.0|XCI]"
 image: "/img/20241108180120.jpg"
 draft: false
-date: 2024-11-19
+date: 2024-11-20
 description: "Switch 毘卢遮那战姬 ～源平飞花梦想～"
 tags: [冒险, 文字冒险, 模拟, 乙女, 中文]
-archives: ["2024/11/19"]
+archives: ["2024/11/20"]
 
 ---
 

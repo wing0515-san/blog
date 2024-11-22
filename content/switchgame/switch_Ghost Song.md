@@ -4,10 +4,10 @@ author: "SanYue"
 title: "Switch 幽灵之歌[1.2.12b|XCI]"
 image: "/img/20241108180157.jpg"
 draft: false
-date: 2024-11-19
+date: 2024-11-20
 description: "Switch 幽灵之歌"
 tags: [冒险, 动作, 射击, 平台, 中文]
-archives: ["2024/11/19"]
+archives: ["2024/11/20"]
 
 ---
 

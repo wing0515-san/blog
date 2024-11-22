@@ -4,10 +4,10 @@ author: "SanYue"
 title: "Switch 卡普空格斗合集[1.0.2+1DLC|XCI]"
 image: "/img/20241108180137.jpg"
 draft: false
-date: 2024-11-19
+date: 2024-11-20
 description: "Switch 卡普空格斗合集"
 tags: [像素, 多人, 街机, 解谜, 格斗, 益智, 中文]
-archives: ["2024/11/19"]
+archives: ["2024/11/20"]
 
 ---
 
