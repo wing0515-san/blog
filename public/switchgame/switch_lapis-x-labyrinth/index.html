@@ -1,0 +1,529 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><title>Blonde | Switch 深渊狂猎[1.0.1|XCI]</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1" />
+    <link rel="apple-touch-icon" sizes="180x180" href='/favicon/apple-touch-icon.png'>
+    <link rel="icon" type="image/png" sizes="32x32" href='/favicon/favicon-32x32.png'>
+    <link rel="icon" type="image/png" sizes="16x16" href='/favicon/favicon-16x16.png'>
+    <link rel="manifest" href='/favicon/site.webmanifest' />
+    <link rel="mask-icon" href=' /favicon/safari-pinned-tab.svg' color="#5bbad5" />
+    <link rel="shortcut icon" href='/favicon/favicon.ico' />
+    <meta name="theme-color" content="#ffffff">
+    <meta property="og:title" content="Blonde | Switch 深渊狂猎[1.0.1|XCI]" />
+    
+    <link rel="stylesheet" href="/css/style.css" />
+    <link href=' /css/blonde.min.css' rel="stylesheet" type="text/css" media="print"
+        onload="this.media=' all'">
+    
+
+
+
+<meta name="description" content="Switch 深渊狂猎">
+<meta property="og:site_name" content="Blonde">
+<meta property="og:description" content="Switch 深渊狂猎">
+<meta property="og:url" content="http://localhost:1313/switchgame/switch_lapis-x-labyrinth/">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="en_US">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="">
+
+<link rel="canonical" href="http://localhost:1313/switchgame/switch_lapis-x-labyrinth/">
+
+<meta name="twitter:description" content="Switch 深渊狂猎">
+<meta property="article:published_time" content="2024-12-09T00:00:00&#43;00:00">
+<meta property="article:updated_time" content="2024-12-09T00:00:00&#43;00:00">
+
+
+
+
+
+    
+<meta property="og:image" content="http://localhost:1313/img/20241206172859.jpg">
+<meta property="og:image:url" content="http://localhost:1313/img/20241206172859.jpg">
+    
+
+    
+    <link rel="stylesheet" href='/css/custom.css'>
+    <i class="dark hidden"></i>
+</head>
+<body class="font-sans">
+    <div class="min-h-screen flex flex-col bg-gray-100 dark:bg-warmgray-800"><div class="bg-blue-400">
+    <div class="container max-w-screen-xl mr-auto ml-auto">
+        <nav class="flex items-center justify-between flex-wrap bg-blue-400 p-6">
+            <div class="flex items-center flex-no-shrink bg-blue-400 text-white mr-6">
+                <a href="http://localhost:1313/"><span class="font-semibold text-2xl tracking-tight">Blonde</span></a>
+            </div>
+            <div class="flex md:hidden">
+                <div class="py-2">
+                    <button onclick="toggleDarkMode()" class="focus:outline-none mr-1" aria-label="Darkmode Toggle Button"><i id="icon"
+                            class="icon-moon inline-flex align-middle leading-normal text-lg text-white"></i></button>
+                    <span class="text-white">|</span>
+                </div>
+                <button id="hamburgerbtn" class="flex items-center px-3 py-1 text-white hover:opacity-50" aria-label="Hamburger Button">
+                    <span class="icon-menu text-2xl"></span>
+                </button>
+            </div>
+            <div class="hidden w-full md:flex md:flex-row sm:items-center md:w-auto" id="mobileMenu">
+                <div class="text-sm lg:flex-grow">
+                </div>
+                <div class="navmenu">
+                    
+                    <a href="/"
+                        class="no-underline duration-200 block mt-4 sm:inline-block sm:mt-0 text-white hover:opacity-50 mr-4">
+                        首页
+                    </a>
+                    
+                    <a href="/newgame/"
+                        class="no-underline duration-200 block mt-4 sm:inline-block sm:mt-0 text-white hover:opacity-50 mr-4">
+                        最新更新
+                    </a>
+                    
+                    <a href="/switchgame/"
+                        class="no-underline duration-200 block mt-4 sm:inline-block sm:mt-0 text-white hover:opacity-50 mr-4">
+                        SWITCH游戏下载
+                    </a>
+                    
+                    <a href="/pcgame/"
+                        class="no-underline duration-200 block mt-4 sm:inline-block sm:mt-0 text-white hover:opacity-50 mr-4">
+                        PC游戏下载
+                    </a>
+                    
+                    <a href="/tool/"
+                        class="no-underline duration-200 block mt-4 sm:inline-block sm:mt-0 text-white hover:opacity-50 mr-4">
+                        mod|金手指
+                    </a>
+                    
+                    <a href="/gameinformation/"
+                        class="no-underline duration-200 block mt-4 sm:inline-block sm:mt-0 text-white hover:opacity-50 mr-4">
+                        最新资讯
+                    </a>
+                    
+                    <a href="/about/"
+                        class="no-underline duration-200 block mt-4 sm:inline-block sm:mt-0 text-white hover:opacity-50 mr-4">
+                        关于本站
+                    </a>
+                    
+                    <a href="/search/"
+                        class="no-underline duration-200 block mt-4 sm:inline-block sm:mt-0 text-white hover:opacity-50 mr-4">
+                        搜索
+                    </a>
+                    
+                </div>
+                <div class="text-white invisible md:visible">
+                    <span>|</span>
+                    <button onclick="toggleDarkMode()" class="focus-visible:outline-none" aria-label="Darkmode Toggle Button"><i id="icon2"
+                            class="icon-moon hover:opacity-50 duration-200 inline-flex align-middle leading-normal text-lg ml-2"></i></button>
+                </div>
+            </div>
+        </nav>
+    </div>
+</div>
+<style>
+    .active {
+        display: block;
+    }
+</style>
+
+<script>
+    let hamburger = document.getElementById('hamburgerbtn');
+
+    let mobileMenu = document.getElementById('mobileMenu');
+
+    hamburger.addEventListener('click', function () {
+        mobileMenu.classList.toggle('active');
+    });
+</script>
+<div class="container max-w-screen-xl mx-auto mt-4 flex-grow px-5 lg:px-0" id="content">
+            <div class="lg:mx-5">
+<div class="grid grid-cols-3 gap-4">
+  
+  <div class="col-span-3 lg:col-span-2 dark:text-white">
+    
+      <div class="bg-white dark:bg-warmgray-900 p-5 my-4">
+        <h1 class="mb-2 text-4xl font-bold">Switch 深渊狂猎[1.0.1|XCI]</h1>
+        <aside id="meta">
+          <div>
+            <section>
+              <h4 id="date"><span class="icon-access_time mr-2"></span>2024/12/09
+              </h4>
+            </section>
+            
+            <div id="tags">
+              <span class="icon-local_offer mr-1"></span>
+              
+              <a href='http://localhost:1313/tags/%E5%8A%A8%E4%BD%9C%E5%B9%B3%E5%8F%B0roguelike%E8%A7%92%E8%89%B2%E6%89%AE%E6%BC%94%E4%B8%AD%E6%96%87'>动作，平台，roguelike，角色扮演，中文</a> |
+              
+            </div>
+            
+          </div>
+        </aside>
+        
+        <img class="py-4" src="http://localhost:1313/img/20241206172859.jpg">
+        
+        
+        <div class="prose md:prose-lg lg:prose-xl max-w-none dark:prose-invert mt-5"><p>游戏名称：深渊狂猎<br>
+Lapis x Labyrinth <br>
+游戏语言：中文<br>
+首发日期：2018年11月28日<br>
+解压密码：wing515<br>
+是否有金手指：否<br>
+版本：无<br>
+容量：800M</p>
+<p><a href="https://pan.baidu.com/s/1BAmnV_YG8SYa5DgPITEUCA">百度网盘</a> 提取码: npgm<br>
+<img src="/img/sc5pm4.jpg" alt="图片1"><img src="/img/sc5pm3.jpg" alt="图片2"><img src="/img/sc5plx.jpg" alt="图片3"></p>
+<p>游戏简介<br>
+《深渊狂猎》是由日本一制作并发行的一款2D横版动作角色扮演游戏，以下是关于它的详细介绍：</p>
+<h3 id="游戏玩法">游戏玩法</h3>
+<ul>
+<li><strong>职业选择与组合</strong>：游戏初始提供猎人、死灵法师、重盾手、女仆、枪手、巫师、破坏者、神官八种职业供玩家选择两个，之后还可在酒馆招募伙伴，总共能带领四种职业组成小队进行冒险。玩家可操控小队中处于最下方的队长进行战斗，也可随时切换队长，而头上的队员可作为支援释放技能，如在跳跃时当作垫脚石让队长多跳一段.</li>
+<li><strong>战斗系统</strong>：战斗操作简单易懂，看到敌人就进行攻击直至其无法行动即可。游戏中存在“狂欢时间”机制，玩家通过攻击敌人积累分数后可进入此模式，期间玩家将无视敌人的伤害，并且击败敌人和攻击地图中发光的方块都会爆出大量宝石，这些宝石可在狂欢结束前不断为玩家进行抽奖，积累的抽奖结果会使玩家越来越强，且在游戏最后结算分数时，开启狂欢时间的次数越多，分数评价就越高.</li>
+<li><strong>迷宫探险与任务</strong>：游戏的冒险采用2D卷轴玩法，玩家需操控小队在各式各样的迷宫中探险，完成任务委托。但游戏不提供地图功能，容易使玩家迷失其中.</li>
+</ul>
+<h3 id="游戏特色">游戏特色</h3>
+<ul>
+<li><strong>可爱画风与独特造型</strong>：游戏采用2D可爱美术风格，角色为三头身的丸子头造型，画面色彩丰富，整体画风清新可爱，角色设计师为曾参与过《魔女与百骑兵》、《卢弗兰的地下迷宫与魔女旅团》等游戏开发的板野广和.</li>
+<li><strong>丰富的装备与道具系统</strong>：玩家可通过战斗获得各种装备和道具，以此强化角色能力。游戏中的属性提升主要依靠整个小队的装备来堆技能等级，合理搭配装备可使角色属性得到极大提升.</li>
+<li><strong>多职业系统与策略性</strong>：八种不同职业各具特色，拥有不同的技能和攻击方式，玩家可根据自己的喜好和战斗需求选择职业组合，制定不同的战斗策略.</li>
+</ul>
+<h3 id="游戏不足">游戏不足</h3>
+<ul>
+<li><strong>画面特效过于繁杂</strong>：随着游戏的进行和武器特效的增加，战斗时屏幕上会出现大量数字、爆落的金币和装备以及各种特效，导致画面过于花俏杂乱，影响玩家对角色和场景的观察.</li>
+<li><strong>剧情内容薄弱</strong>：作为一款主打刷宝的游戏，《深渊狂猎》在剧情方面着墨较少，剧情架构相对简单，对于注重游戏剧情的玩家来说，缺乏足够的吸引力.</li>
+</ul>
+</div>
+        
+        <aside id="meta">
+          
+        </aside>
+      </div>
+      <div class="bg-white dark:bg-warmgray-900 p-5 my-4">
+        <div class="grid grid-cols-2">
+          <div class="col-span-1">
+            
+            <a class="previous lg:text-2xl" href="http://localhost:1313/switchgame/switch_mistover/">
+              <div
+                class="transition-colors duration-300 border border-gray-600 hover:border-black h-auto m-3 text-center py-3 lg:py-1">
+                <span class="icon-keyboard_arrow_left"></span> 上一页
+              </div>
+            </a>
+            
+          </div>
+          
+          <a class="next lg:text-2xl" href="http://localhost:1313/switchgame/switch_sir-lovelot/">
+            <div
+              class="transition-colors duration-300 col-span-1 border border-gray-600 hover:border-black h-auto m-3 text-center py-3 lg:py-1">
+              下一页 <span class="icon-keyboard_arrow_right"></span>
+            </div>
+          </a>
+          
+        </div>
+      </div>
+      <div class="bg-white dark:bg-warmgray-900 p-5 my-4">
+        <div class="mb-3">
+          
+        </div>
+      </div>
+    </div>
+    
+    <div class="hidden lg:block lg:col-span-1">
+    
+    
+            
+            <div class="mb-3">
+    <form class="widget-search__form" role="search" method="get" action="https://google.com/search">
+        <label>
+            <input class="w-full p-3 focus:outline-none dark:bg-warmgray-900 dark:text-white placeholder-gray-700 dark:placeholder-gray-300" type="search"
+                placeholder="Search..." value="" name="q" aria-label="Search">
+        </label>
+        <input class="hidden" type="submit" value="Search">
+        <input type="hidden" name="sitesearch" value="http://localhost:1313/" />
+    </form>
+</div>
+        
+            
+            <div class="bg-white panel mb-3 pb-5 dark:bg-warmgray-900">
+    <p class="text-xl text-center text-gray-700 py-3 px-3 dark:text-gray-300 font-bold">Archives</p>
+    
+    
+    <a class="text-center block duration-100 py-2 px-4 mx-4 hover:bg-gray-100 text-gray-800 dark:text-gray-200 dark:hover:bg-warmgray-800"
+        href="http://localhost:1313//archives/2024/09/30">2024/09/30 (18)</a>
+    
+    <a class="text-center block duration-100 py-2 px-4 mx-4 hover:bg-gray-100 text-gray-800 dark:text-gray-200 dark:hover:bg-warmgray-800"
+        href="http://localhost:1313//archives/2024/10/08">2024/10/08 (4)</a>
+    
+    <a class="text-center block duration-100 py-2 px-4 mx-4 hover:bg-gray-100 text-gray-800 dark:text-gray-200 dark:hover:bg-warmgray-800"
+        href="http://localhost:1313//archives/2024/10/15">2024/10/15 (2)</a>
+    
+    <a class="text-center block duration-100 py-2 px-4 mx-4 hover:bg-gray-100 text-gray-800 dark:text-gray-200 dark:hover:bg-warmgray-800"
+        href="http://localhost:1313//archives/2024/10/16">2024/10/16 (4)</a>
+    
+    <a class="text-center block duration-100 py-2 px-4 mx-4 hover:bg-gray-100 text-gray-800 dark:text-gray-200 dark:hover:bg-warmgray-800"
+        href="http://localhost:1313//archives/2024/10/17">2024/10/17 (14)</a>
+    
+    <a class="text-center block duration-100 py-2 px-4 mx-4 hover:bg-gray-100 text-gray-800 dark:text-gray-200 dark:hover:bg-warmgray-800"
+        href="http://localhost:1313//archives/2024/10/30">2024/10/30 (413)</a>
+    
+    <a class="text-center block duration-100 py-2 px-4 mx-4 hover:bg-gray-100 text-gray-800 dark:text-gray-200 dark:hover:bg-warmgray-800"
+        href="http://localhost:1313//archives/2024/11/20">2024/11/20 (200)</a>
+    
+    <a class="text-center block duration-100 py-2 px-4 mx-4 hover:bg-gray-100 text-gray-800 dark:text-gray-200 dark:hover:bg-warmgray-800"
+        href="http://localhost:1313//archives/2024/11/22">2024/11/22 (99)</a>
+    
+    <a class="text-center block duration-100 py-2 px-4 mx-4 hover:bg-gray-100 text-gray-800 dark:text-gray-200 dark:hover:bg-warmgray-800"
+        href="http://localhost:1313//archives/2024/11/25">2024/11/25 (100)</a>
+    
+    <a class="text-center block duration-100 py-2 px-4 mx-4 hover:bg-gray-100 text-gray-800 dark:text-gray-200 dark:hover:bg-warmgray-800"
+        href="http://localhost:1313//archives/2024/12/02">2024/12/02 (100)</a>
+    
+    <a class="text-center block duration-100 py-2 px-4 mx-4 hover:bg-gray-100 text-gray-800 dark:text-gray-200 dark:hover:bg-warmgray-800"
+        href="http://localhost:1313//archives/2024/12/03">2024/12/03 (100)</a>
+    
+    <a class="text-center block duration-100 py-2 px-4 mx-4 hover:bg-gray-100 text-gray-800 dark:text-gray-200 dark:hover:bg-warmgray-800"
+        href="http://localhost:1313//archives/2024/12/09">2024/12/09 (92)</a>
+    
+    <a class="text-center block duration-100 py-2 px-4 mx-4 hover:bg-gray-100 text-gray-800 dark:text-gray-200 dark:hover:bg-warmgray-800"
+        href="http://localhost:1313//archives/2024/12/11">2024/12/11 (100)</a>
+    
+    <a class="text-center block duration-100 py-2 px-4 mx-4 hover:bg-gray-100 text-gray-800 dark:text-gray-200 dark:hover:bg-warmgray-800"
+        href="http://localhost:1313//archives/2024/12/13">2024/12/13 (100)</a>
+    
+    <a class="text-center block duration-100 py-2 px-4 mx-4 hover:bg-gray-100 text-gray-800 dark:text-gray-200 dark:hover:bg-warmgray-800"
+        href="http://localhost:1313//archives/2024/12/18">2024/12/18 (100)</a>
+    
+    <a class="text-center block duration-100 py-2 px-4 mx-4 hover:bg-gray-100 text-gray-800 dark:text-gray-200 dark:hover:bg-warmgray-800"
+        href="http://localhost:1313//archives/2024/12/31">2024/12/31 (100)</a>
+    
+    
+</div>
+        
+            
+            
+        
+            
+            
+<div class="bg-white panel mb-3 dark:bg-warmgray-900">
+    <p class="text-xl text-center text-gray-700 py-3 pl-3 dark:text-gray-300 font-bold">游戏类型</p>
+    <div class="panel-block p-2">
+        <a href='/tags/roguelike'>
+            <span
+                class="duration-100 inline-flex py-2 leading-4 mr-2 mb-2 content-center bg-gray-100 justify-center h-8 px-3 text-blue-500 hover:text-blue-900 dark:bg-warmgray-800">
+                	roguelike
+            </span></a>
+        <a href='/tags/roguelike'>
+            <span
+                class="duration-100 inline-flex py-2 leading-4 mr-2 mb-2 content-center bg-gray-100 justify-center h-8 px-3 text-blue-500 hover:text-blue-900 dark:bg-warmgray-800">
+                roguelike
+            </span></a>
+        <a href='/tags/roguelike'>
+            <span
+                class="duration-100 inline-flex py-2 leading-4 mr-2 mb-2 content-center bg-gray-100 justify-center h-8 px-3 text-blue-500 hover:text-blue-900 dark:bg-warmgray-800">
+                 roguelike
+            </span></a>
+        <a href='/tags/%E4%B8%AD%E6%96%87'>
+            <span
+                class="duration-100 inline-flex py-2 leading-4 mr-2 mb-2 content-center bg-gray-100 justify-center h-8 px-3 text-blue-500 hover:text-blue-900 dark:bg-warmgray-800">
+                 中文
+            </span></a>
+        <a href='/tags/%E4%B9%99%E5%A5%B3'>
+            <span
+                class="duration-100 inline-flex py-2 leading-4 mr-2 mb-2 content-center bg-gray-100 justify-center h-8 px-3 text-blue-500 hover:text-blue-900 dark:bg-warmgray-800">
+                 乙女
+            </span></a>
+        <a href='/tags/%E4%BD%93%E8%82%B2'>
+            <span
+                class="duration-100 inline-flex py-2 leading-4 mr-2 mb-2 content-center bg-gray-100 justify-center h-8 px-3 text-blue-500 hover:text-blue-900 dark:bg-warmgray-800">
+                 体育
+            </span></a>
+        <a href='/tags/%E5%83%8F%E7%B4%A0'>
+            <span
+                class="duration-100 inline-flex py-2 leading-4 mr-2 mb-2 content-center bg-gray-100 justify-center h-8 px-3 text-blue-500 hover:text-blue-900 dark:bg-warmgray-800">
+                 像素
+            </span></a>
+        <a href='/tags/%E5%86%92%E9%99%A9'>
+            <span
+                class="duration-100 inline-flex py-2 leading-4 mr-2 mb-2 content-center bg-gray-100 justify-center h-8 px-3 text-blue-500 hover:text-blue-900 dark:bg-warmgray-800">
+                 冒险
+            </span></a>
+        <a href='/tags/%E5%8A%A8%E4%BD%9C'>
+            <span
+                class="duration-100 inline-flex py-2 leading-4 mr-2 mb-2 content-center bg-gray-100 justify-center h-8 px-3 text-blue-500 hover:text-blue-900 dark:bg-warmgray-800">
+                 动作
+            </span></a>
+        <a href='/tags/%E5%A4%9A%E4%BA%BA'>
+            <span
+                class="duration-100 inline-flex py-2 leading-4 mr-2 mb-2 content-center bg-gray-100 justify-center h-8 px-3 text-blue-500 hover:text-blue-900 dark:bg-warmgray-800">
+                 多人
+            </span></a>
+        <a href='/tags/%E5%B0%84%E5%87%BB'>
+            <span
+                class="duration-100 inline-flex py-2 leading-4 mr-2 mb-2 content-center bg-gray-100 justify-center h-8 px-3 text-blue-500 hover:text-blue-900 dark:bg-warmgray-800">
+                 射击
+            </span></a>
+        <a href='/tags/%E5%B9%B3%E5%8F%B0'>
+            <span
+                class="duration-100 inline-flex py-2 leading-4 mr-2 mb-2 content-center bg-gray-100 justify-center h-8 px-3 text-blue-500 hover:text-blue-900 dark:bg-warmgray-800">
+                 平台
+            </span></a>
+        <a href='/tags/%E6%81%90%E6%80%96'>
+            <span
+                class="duration-100 inline-flex py-2 leading-4 mr-2 mb-2 content-center bg-gray-100 justify-center h-8 px-3 text-blue-500 hover:text-blue-900 dark:bg-warmgray-800">
+                 恐怖
+            </span></a>
+        <a href='/tags/%E6%96%87%E5%AD%97%E5%86%92%E9%99%A9'>
+            <span
+                class="duration-100 inline-flex py-2 leading-4 mr-2 mb-2 content-center bg-gray-100 justify-center h-8 px-3 text-blue-500 hover:text-blue-900 dark:bg-warmgray-800">
+                 文字冒险
+            </span></a>
+        <a href='/tags/%E6%A0%BC%E6%96%97'>
+            <span
+                class="duration-100 inline-flex py-2 leading-4 mr-2 mb-2 content-center bg-gray-100 justify-center h-8 px-3 text-blue-500 hover:text-blue-900 dark:bg-warmgray-800">
+                 格斗
+            </span></a>
+        <a href='/tags/%E6%A8%A1%E6%8B%9F'>
+            <span
+                class="duration-100 inline-flex py-2 leading-4 mr-2 mb-2 content-center bg-gray-100 justify-center h-8 px-3 text-blue-500 hover:text-blue-900 dark:bg-warmgray-800">
+                 模拟
+            </span></a>
+        <a href='/tags/%E6%B4%BE%E5%AF%B9'>
+            <span
+                class="duration-100 inline-flex py-2 leading-4 mr-2 mb-2 content-center bg-gray-100 justify-center h-8 px-3 text-blue-500 hover:text-blue-900 dark:bg-warmgray-800">
+                 派对
+            </span></a>
+        <a href='/tags/%E7%9B%8A%E6%99%BA'>
+            <span
+                class="duration-100 inline-flex py-2 leading-4 mr-2 mb-2 content-center bg-gray-100 justify-center h-8 px-3 text-blue-500 hover:text-blue-900 dark:bg-warmgray-800">
+                 益智
+            </span></a>
+        <a href='/tags/%E7%AB%9E%E9%80%9F'>
+            <span
+                class="duration-100 inline-flex py-2 leading-4 mr-2 mb-2 content-center bg-gray-100 justify-center h-8 px-3 text-blue-500 hover:text-blue-900 dark:bg-warmgray-800">
+                 竞速
+            </span></a>
+        <a href='/tags/%E7%AD%96%E7%95%A5'>
+            <span
+                class="duration-100 inline-flex py-2 leading-4 mr-2 mb-2 content-center bg-gray-100 justify-center h-8 px-3 text-blue-500 hover:text-blue-900 dark:bg-warmgray-800">
+                 策略
+            </span></a>
+    </div>
+</div>
+
+
+        
+            
+            
+
+<div class="bg-white panel mb-3 pb-5 dark:bg-warmgray-900">
+    <p class="text-xl text-center text-gray-700 py-5 dark:text-gray-300 font-bold">Recent Posts</p>
+    <div class="mx-6">
+        <a href="/switchgame/switch_olympic-games-tokyo-2020/" class="">
+            <div
+                class="w-full block mt-3 bg-white hover:bg-gray-100 duration-200 dark:bg-warmgray-900 dark:text-gray-200 dark:hover:bg-warmgray-800">
+                <div class="px-2">
+                    <div class="text-gray-900 font-bold text-xl dark:text-white">Switch 2020 东京奥运会[1.0.8|XCI]</div>
+                    <p class="text-sm text-gray-600 flex items-center pb-1 dark:text-gray-400">
+                        <time><span class="icon-access_time mr-1"></span>2024/12/31</time>
+                    </p>
+                </div>
+            </div>
+        </a>
+        <a href="/switchgame/switch_unrailed/" class="">
+            <div
+                class="w-full block mt-3 bg-white hover:bg-gray-100 duration-200 dark:bg-warmgray-900 dark:text-gray-200 dark:hover:bg-warmgray-800">
+                <div class="px-2">
+                    <div class="text-gray-900 font-bold text-xl dark:text-white">Switch 一起开火车！[1.1.2|XCI]</div>
+                    <p class="text-sm text-gray-600 flex items-center pb-1 dark:text-gray-400">
+                        <time><span class="icon-access_time mr-1"></span>2024/12/31</time>
+                    </p>
+                </div>
+            </div>
+        </a>
+        <a href="/switchgame/switch_seven-nights-ghost/" class="">
+            <div
+                class="w-full block mt-3 bg-white hover:bg-gray-100 duration-200 dark:bg-warmgray-900 dark:text-gray-200 dark:hover:bg-warmgray-800">
+                <div class="px-2">
+                    <div class="text-gray-900 font-bold text-xl dark:text-white">Switch 七夜幽灵[1.0|XCI]</div>
+                    <p class="text-sm text-gray-600 flex items-center pb-1 dark:text-gray-400">
+                        <time><span class="icon-access_time mr-1"></span>2024/12/31</time>
+                    </p>
+                </div>
+            </div>
+        </a>
+        <a href="/switchgame/switch_tokyo-xanadu-ex&#43;/" class="">
+            <div
+                class="w-full block mt-3 bg-white hover:bg-gray-100 duration-200 dark:bg-warmgray-900 dark:text-gray-200 dark:hover:bg-warmgray-800">
+                <div class="px-2">
+                    <div class="text-gray-900 font-bold text-xl dark:text-white">Switch 东京幻都 eX＋[1.0|XCI]</div>
+                    <p class="text-sm text-gray-600 flex items-center pb-1 dark:text-gray-400">
+                        <time><span class="icon-access_time mr-1"></span>2024/12/31</time>
+                    </p>
+                </div>
+            </div>
+        </a>
+        <a href="/switchgame/switch_touhou-luna-nights/" class="">
+            <div
+                class="w-full block mt-3 bg-white hover:bg-gray-100 duration-200 dark:bg-warmgray-900 dark:text-gray-200 dark:hover:bg-warmgray-800">
+                <div class="px-2">
+                    <div class="text-gray-900 font-bold text-xl dark:text-white">Switch 东方月神夜[1.0.5|XCI]</div>
+                    <p class="text-sm text-gray-600 flex items-center pb-1 dark:text-gray-400">
+                        <time><span class="icon-access_time mr-1"></span>2024/12/31</time>
+                    </p>
+                </div>
+            </div>
+        </a>
+    </div>
+</div>
+
+        
+    
+</div>
+    
+  </div>
+</div>
+
+            </div>
+        </div><footer class="bg-blue-400 text-white p-6">
+  
+  <div class="container max-w-screen-xl mr-auto ml-auto">
+    <p>&copy; 2024 <a href="http://localhost:1313/" class="duration-200 hover:opacity-50">Blonde</a>
+    </p>
+    <p>Powered by <a href="https://gohugo.io/" class="duration-200 hover:opacity-50">Hugo</a>, Theme <a
+        href="https://github.com/opera7133/Blonde" class="duration-200 hover:opacity-50">Blonde</a>.</p>
+  </div>
+  
+  <script>
+    var icon = document.getElementById("icon");
+    var icon2 = document.getElementById("icon2");
+    
+    if (document.documentElement.classList.contains("dark") || localStorage.theme === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+      icon.classList.remove("icon-moon");
+      icon.classList.add("icon-sun");
+      icon2.classList.remove("icon-moon");
+      icon2.classList.add("icon-sun");
+      document.documentElement.classList.add('dark')
+    } else {
+      document.documentElement.classList.remove('dark')
+    }
+    function toggleDarkMode() {
+      if (document.documentElement.classList.contains('dark')) {
+        icon.classList.remove("icon-sun");
+        icon.classList.add("icon-moon");
+        icon2.classList.remove("icon-sun");
+        icon2.classList.add("icon-moon");
+        document.documentElement.classList.remove('dark')
+        localStorage.theme = 'light'
+      } else {
+        icon.classList.remove("icon-moon");
+        icon.classList.add("icon-sun");
+        icon2.classList.remove("icon-moon");
+        icon2.classList.add("icon-sun");
+        document.documentElement.classList.add('dark')
+        localStorage.theme = 'dark'
+      }
+    }
+  </script>
+</footer></div>
+</body>
+
+</html>
