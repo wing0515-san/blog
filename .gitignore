@@ -25,4 +25,6 @@ _testmain.go
 .DS_Store
 
 node_modules
-public
+
+public/
+resources/_gen/

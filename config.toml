@@ -125,12 +125,6 @@ darkmode = "light"
     weight = 1
 
   [[menu.main]]
-    identifier = "newgame"
-    name = "最新更新"
-    url = "/newgame/"
-    weight = 2
-
-  [[menu.main]]
     identifier = "SWITCH游戏下载"
     name = "SWITCH游戏下载"
     url = "/switchgame/"
