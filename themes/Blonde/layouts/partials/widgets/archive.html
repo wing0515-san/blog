@@ -1,18 +1,37 @@
 <div class="bg-white panel mb-3 pb-5 dark:bg-warmgray-900">
-    <p class="text-xl text-center text-gray-700 py-3 px-3 dark:text-gray-300 font-bold">Archives</p>
+    <p class="text-xl text-center text-gray-700 py-3 px-3 dark:text-gray-300 font-bold">更新记录</p>
     {{ if eq .Site.Params.archive_dropdown "false" }}
-    {{ range $name, $items := .Site.Taxonomies.archives }}
+    {{ $archives := .Site.Taxonomies.archives }}
+    {{ $sortedArchives := slice }} <!-- 初始化一个空切片 -->
+    {{ range $name, $items := $archives }}
+        {{ $date := (index $items 0).Date }} <!-- 获取归档项的日期（取第一个页面的日期）-->
+        {{ $sortedArchives = $sortedArchives | append (dict "name" $name "date" $date) }} <!-- 将归档名称和日期存储为字典 -->
+    {{ end }}
+    {{ $sortedArchives = sort $sortedArchives "date" "desc" }} <!-- 按日期降序排序 -->
+    {{ range first 10 $sortedArchives }} <!-- 只取前 10 个 -->
+    {{ $name := .name }}
     <a class="text-center block duration-100 py-2 px-4 mx-4 hover:bg-gray-100 text-gray-800 dark:text-gray-200 dark:hover:bg-warmgray-800"
-        href="{{ $.Site.BaseURL }}/archives/{{ $name | urlize | lower }}">{{ $name }} ({{ .Count }})</a>
+        href="{{ $.Site.BaseURL }}/archives/{{ $name | urlize | lower }}">{{ $name }} ({{ index $archives $name | len }})</a>
     {{ end }}
     {{ else }}
     <div class="mx-4">
         <select
-            class="text-center block mx-auto w-full py-2 px-4  duration-100 bg-white hover:bg-gray-200 text-gray-800 dark:bg-warmgray-900 dark:text-gray-200 dark:hover:bg-warmgray-800"
+            class="text-center block mx-auto w-full py-2 px-4 duration-100 bg-white hover:bg-gray-200 text-gray-800 dark:bg-warmgray-900 dark:text-gray-200 dark:hover:bg-warmgray-800"
             name="archive" onChange="location.href=value;">
             <option>Select Archive...</option>
-            {{ range $name, $items := .Site.Taxonomies.archives }}
-            <option value="{{ $.Site.BaseURL }}/archives/{{ $name | urlize | lower }}">{{ $name }} ({{ .Count }})
+            {{ $archives := .Site.Taxonomies.archives }}
+            {{ $sortedArchives := slice }} <!-- 初始化一个空切片 -->
+            
+            {{ range $name, $items := $archives }}
+                {{ $date := (index $items 0).Date }} <!-- 获取归档项的日期（取第一个页面的日期）-->
+                {{ $sortedArchives = $sortedArchives | append (dict "name" $name "date" $date) }} <!-- 将归档名称和日期存储为字典 -->
+            {{ end }}
+
+            {{ $sortedArchives = sort $sortedArchives "date" "desc" }} <!-- 按日期降序排序 -->
+            
+            {{ range first 10 $sortedArchives }} <!-- 只取前 10 个 -->
+            {{ $name := .name }}
+            <option value="{{ $.Site.BaseURL }}/archives/{{ $name | urlize | lower }}">{{ $name }} ({{ index $archives $name | len }})
             </option>
             {{ end }}
         </select>

@@ -17,7 +17,8 @@
     <div class="relative pl-4 p-2 justify-between leading-normal max-w-full w-full">
         <div class="text-gray-900 font-bold text-xl mb-2 dark:text-white">{{ .Title }}</div>
         <p class="text-gray-700 text-base pb-5 dark:text-gray-300">{{ substr .Summary 0 130 | plainify | htmlUnescape }}...</p>
-        <p class="text-sm text-gray-600 absolute items-center right-0 bottom-0 dark:text-gray-400">
+        <!-- 日期部分 -->
+        <p class="text-sm text-gray-600 dark:text-gray-400 Flexbox right-4 bottom-4">
             <time><span class="icon-access_time mr-1"></span>{{ .Date.Format "2006/01/02" }}</time>
         </p>
     </div>

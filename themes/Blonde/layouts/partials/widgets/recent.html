@@ -2,7 +2,7 @@
 {{ $recent_num := (5 | default 10) }}
 {{- if $recent }}
 <div class="bg-white panel mb-3 pb-5 dark:bg-warmgray-900">
-    <p class="text-xl text-center text-gray-700 py-5 dark:text-gray-300 font-bold">Recent Posts</p>
+    <p class="text-xl text-center text-gray-700 py-5 dark:text-gray-300 font-bold">最近更新</p>
     <div class="mx-6">
         {{- range first $recent_num $recent }}
         <a href="{{ .RelPermalink }}" class="">

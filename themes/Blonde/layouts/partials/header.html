@@ -1,51 +1,134 @@
 <div class="{{ .Site.Params.base_color }}">
     <div class="container max-w-screen-xl mr-auto ml-auto">
         <nav class="flex items-center justify-between flex-wrap {{ .Site.Params.base_color }} p-6">
-            <div class="flex items-center flex-no-shrink {{ .Site.Params.base_color }} text-white mr-6">
-                <a href="{{ .Site.BaseURL }}"><span class="font-semibold text-2xl tracking-tight">{{ .Site.Title }}</span></a>
+            <!-- Logo Section -->
+            <div class="flex items-center flex-shrink-0 text-white mr-6">
+                <a href="{{ .Site.BaseURL }}">
+                    <span class="font-semibold text-2xl tracking-tight">{{ .Site.Title }}</span>
+                </a>
             </div>
-            <div class="flex md:hidden">
-                <div class="py-2">
-                    <button onclick="toggleDarkMode()" class="focus:outline-none mr-1" aria-label="Darkmode Toggle Button"><i id="icon"
-                            class="icon-moon inline-flex align-middle leading-normal text-lg text-white"></i></button>
-                    <span class="text-white">|</span>
-                </div>
-                <button id="hamburgerbtn" class="flex items-center px-3 py-1 text-white hover:opacity-50" aria-label="Hamburger Button">
-                    <span class="icon-menu text-2xl"></span>
-                </button>
-            </div>
-            <div class="hidden w-full md:flex md:flex-row sm:items-center md:w-auto" id="mobileMenu">
-                <div class="text-sm lg:flex-grow">
-                </div>
-                <div class="navmenu">
+
+            <!-- Desktop Menu -->
+            <div class="hidden md:flex md:flex-row items-center justify-between w-full">
+                <div class="navmenu flex space-x-8 relative">
                     {{ range .Site.Menus.main }}
-                    <a href="{{ .URL }}"
-                        class="no-underline duration-200 block mt-4 sm:inline-block sm:mt-0 text-white hover:opacity-50 mr-4">
+                    {{ if .Children }}
+                    <!-- Dropdown for Submenus -->
+                    <div class="relative group">
+                        <a href="{{ .URL }}" class="text-white hover:opacity-80 whitespace-nowrap">
+                            {{ .Name }}
+                        </a>
+                        <div
+                            class="absolute left-0 top-full bg-white text-black shadow-lg rounded-lg px-4 py-2 z-50 hidden group-hover:flex flex-col space-y-2">
+                            {{ range .Children }}
+                            <a href="{{ .URL }}"
+                                class="block px-4 py-2 text-sm hover:bg-gray-200 whitespace-nowrap">{{ .Name }}</a>
+                            {{ end }}
+                        </div>
+                    </div>
+                    {{ else }}
+                    <!-- Regular Menu Item -->
+                    <a href="{{ .URL }}" class="text-white hover:opacity-80 whitespace-nowrap">
                         {{ .Name }}
                     </a>
                     {{ end }}
+                    {{ end }}
                 </div>
-                <div class="text-white invisible md:visible">
+            
+                <!-- Dark Mode Toggle -->
+                <div class="flex items-center text-white space-x-4">
                     <span>|</span>
-                    <button onclick="toggleDarkMode()" class="focus-visible:outline-none" aria-label="Darkmode Toggle Button"><i id="icon2"
-                            class="icon-moon hover:opacity-50 duration-200 inline-flex align-middle leading-normal text-lg ml-2"></i></button>
+                    <button onclick="toggleDarkMode()" class="focus:outline-none" aria-label="Darkmode Toggle">
+                        <i id="icon2" class="icon-moon hover:opacity-50 duration-200 text-lg"></i>
+                    </button>
                 </div>
             </div>
+            
+
+            <!-- Mobile Hamburger Menu -->
+            <div class="flex md:hidden">
+                <button onclick="toggleDarkMode()" class="focus:outline-none mr-2 text-white" aria-label="Darkmode Toggle">
+                    <i id="icon" class="icon-moon text-lg"></i>
+                </button>
+                <button id="hamburgerbtn" class="text-white" aria-label="Hamburger Button">
+                    <i class="icon-menu text-2xl"></i>
+                </button>
+            </div>
         </nav>
+
+        <!-- Mobile Menu -->
+        <div id="mobileMenu" class="hidden md:hidden bg-gray-800 text-white p-4">
+            <ul class="space-y-2">
+                {{ range .Site.Menus.main }}
+                <li>
+                    <a href="{{ .URL }}" class="block hover:opacity-80">{{ .Name }}</a>
+                </li>
+                {{ end }}
+            </ul>
+        </div>
     </div>
 </div>
+
 <style>
-    .active {
-        display: block;
+    /* Main menu container */
+    .navmenu {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 1rem; /* Add spacing between menu items */
+        position: relative; /* Ensure dropdown is relative to the parent */
+        margin-left: auto; /* Push menu items to the right */
+    }
+
+    /* Add margin-right to align menu close to "|" */
+    .navmenu > a,
+    .navmenu > .relative {
+        margin-right: 0.5rem; /* Adjust spacing to align with "|" */
+    }
+
+    /* Dropdown menu styling */
+    .relative .absolute {
+        position: absolute; /* Ensure dropdown is positioned relative to the parent */
+        top: 100%; /* Place submenu below parent menu */
+        left: 0; /* Align submenu with the parent menu */
+        z-index: 50; /* Ensure submenu is above all other elements */
+    }
+
+    .relative .Flexbox  {
+        position: absolute; /* Ensure dropdown is positioned relative to the parent */
+        top: 95%; /* Place submenu below parent menu */
+        left: 318px; /* Align submenu with the parent menu */
+        z-index: 50; /* Ensure submenu is above all other elements */
+    }
+
+    .relative .hidden {
+        display: none; /* Hide submenu by default */
+    }
+
+    .group:hover .hidden {
+        display: flex; /* Show submenu on hover */
+    }
+
+    .absolute {
+        min-width: 200px; /* Ensure submenu width is consistent */
+        max-width: 300px; /* Optional: Limit submenu width */
+    }
+
+    .absolute > a {
+        padding: 0.5rem 1rem; /* Add padding for better spacing */
+        text-align: left; /* Align submenu items */
+    }
+
+    /* Adjust for smaller screens */
+    .whitespace-nowrap {
+        white-space: nowrap; /* Prevent text wrapping */
     }
 </style>
 
 <script>
     let hamburger = document.getElementById('hamburgerbtn');
-
     let mobileMenu = document.getElementById('mobileMenu');
 
     hamburger.addEventListener('click', function () {
-        mobileMenu.classList.toggle('active');
+        mobileMenu.classList.toggle('hidden');
     });
 </script>

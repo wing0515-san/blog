@@ -86,6 +86,24 @@ darkmode = "light"
     # Number of characters in description
     description = "130"
 
+  [params.PS4game]
+  # Show thumbnails
+  thumbnail = true
+
+  # Disable the "NO IMAGE" image.
+  noimage = true
+
+  # See the Tailwind CSS documentation to set it up.
+  # Recommended settings are h-32 to h-48.
+  # https://tailwindcss.com/docs/height
+  thumbnail_height = "lg:h-44"
+
+  # https://tailwindcss.com/docs/width
+  thumbnail_width = "lg:w-auto"
+
+  # Number of characters in description
+  description = "130"
+
   [params.widgets]
     # Display widgets
     display = true
@@ -120,13 +138,13 @@ darkmode = "light"
 
   [[menu.main]]
     identifier = "PCgame"
-    name = "PC游戏下载"
-    url = "/pcgame/"
+    name = "PS4游戏下载"
+    url = "/PS4game/"
     weight = 4
 
   [[menu.main]]
     identifier = "gametool"
-    name = "mod|金手指"
+    name = "PC_mod下载"
     url = "/tool/"
     weight = 5
 
@@ -147,6 +165,28 @@ darkmode = "light"
     identifier = "search"
     url = "/search/"
     weight = 8
+
+  # 新增“最新资讯”的子菜单
+  [[menu.main]]
+    name = "switch最新资讯"
+    identifier = "switch-news"
+    url = "/gameInformation/switch-news/"
+    parent = "gameInformation"
+    weight = 1
+
+  [[menu.main]]
+    name = "ps最新资讯"
+    identifier = "ps-reviews"
+    url = "/gameInformation/ps-reviews/"
+    parent = "gameInformation"
+    weight = 2
+
+  [[menu.main]]
+    name = "其他最新资讯"
+    identifier = "other-reviews"
+    url = "/gameInformation/other-reviews/"
+    parent = "gameInformation"
+    weight = 3
 
 [taxonomies]
 category = "categories"

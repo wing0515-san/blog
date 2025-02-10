@@ -18,7 +18,7 @@ Romancing SaGa
 解压密码：wing515  
 是否有金手指：否  
 版本：无   
-容量：10G+15.4G840M
+容量：10G+15.4G+840M
 
 [百度网盘](https://pan.baidu.com/s/1XIW-LtksTF9haQ31izP_DQ) 提取码: 1gka  
 ![图片1](/img/e65dc3.jpg)![图片2](/img/006e8a.jpg)![图片3](/img/18f6d3.jpg)  
