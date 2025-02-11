@@ -21,3 +21,25 @@ $ hugo new site project-name
 
 ## 运行代码预览
 npm run watch:hugo
+
+  # 新增“最新资讯”的子菜单
+  [[menu.main]]
+    name = "switch最新资讯"
+    identifier = "switch-news"
+    url = "/gameInformation/switch-news/"
+    parent = "gameInformation"
+    weight = 1
+
+  [[menu.main]]
+    name = "ps最新资讯"
+    identifier = "ps-reviews"
+    url = "/gameInformation/ps-reviews/"
+    parent = "gameInformation"
+    weight = 2
+
+  [[menu.main]]
+    name = "其他最新资讯"
+    identifier = "other-reviews"
+    url = "/gameInformation/other-reviews/"
+    parent = "gameInformation"
+    weight = 3

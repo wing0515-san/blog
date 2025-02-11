@@ -3,14 +3,15 @@
 <html lang="en">
 <head>
 	<meta name="generator" content="Hugo 0.135.0"><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><title>Blonde</title>
+    <script src="https://cdn.bootcdn.net/ajax/libs/twitter-bootstrap/3.4.1/js/bootstrap.min.js" integrity="sha384-aJ21OjlMXNL5UyIl/XNwTMqvzeRMZH2w8c5cRVpzpU8Y5bApTppSuUkhZXN0VxHd" crossorigin="anonymous"></script>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1" />
-    <link rel="apple-touch-icon" sizes="180x180" href='/favicon/apple-touch-icon.png'>
-    <link rel="icon" type="image/png" sizes="32x32" href='/favicon/favicon-32x32.png'>
-    <link rel="icon" type="image/png" sizes="16x16" href='/favicon/favicon-16x16.png'>
+    <link rel="apple-touch-icon" sizes="180x180" href='/favicon/imgFinal.png'>
+    <link rel="icon" type="image/png" sizes="32x32" href='/favicon/imgFinal-32x32.png'>
+    <link rel="icon" type="image/png" sizes="16x16" href='/favicon/imgFinal-16x16.png'>
     <link rel="manifest" href='/favicon/site.webmanifest' />
     <link rel="mask-icon" href=' /favicon/safari-pinned-tab.svg' color="#5bbad5" />
-    <link rel="shortcut icon" href='/favicon/favicon.ico' />
+    <link rel="shortcut icon" href='/favicon/imgFinal.ico' />
     <meta name="theme-color" content="#ffffff">
     <meta property="og:title" content="Blonde" />
     
@@ -34,8 +35,8 @@
 <link rel="canonical" href="http://localhost:1313/">
 
 <meta name="twitter:description" content="Blonde theme for Hugo.">
-<meta property="article:published_time" content="2024-12-31T00:00:00&#43;00:00">
-<meta property="article:updated_time" content="2024-12-31T00:00:00&#43;00:00">
+<meta property="article:published_time" content="2025-02-11T00:00:00&#43;00:00">
+<meta property="article:updated_time" content="2025-02-11T00:00:00&#43;00:00">
 
 
 
@@ -52,87 +53,176 @@
     <div class="min-h-screen flex flex-col bg-gray-100 dark:bg-warmgray-800"><div class="bg-blue-400">
     <div class="container max-w-screen-xl mr-auto ml-auto">
         <nav class="flex items-center justify-between flex-wrap bg-blue-400 p-6">
-            <div class="flex items-center flex-no-shrink bg-blue-400 text-white mr-6">
-                <a href="http://localhost:1313/"><span class="font-semibold text-2xl tracking-tight">Blonde</span></a>
+            
+            <div class="flex items-center flex-shrink-0 text-white mr-6">
+                <a href="http://localhost:1313/">
+                    <span class="font-semibold text-2xl tracking-tight">Blonde</span>
+                </a>
             </div>
-            <div class="flex md:hidden">
-                <div class="py-2">
-                    <button onclick="toggleDarkMode()" class="focus:outline-none mr-1" aria-label="Darkmode Toggle Button"><i id="icon"
-                            class="icon-moon inline-flex align-middle leading-normal text-lg text-white"></i></button>
-                    <span class="text-white">|</span>
-                </div>
-                <button id="hamburgerbtn" class="flex items-center px-3 py-1 text-white hover:opacity-50" aria-label="Hamburger Button">
-                    <span class="icon-menu text-2xl"></span>
-                </button>
-            </div>
-            <div class="hidden w-full md:flex md:flex-row sm:items-center md:w-auto" id="mobileMenu">
-                <div class="text-sm lg:flex-grow">
-                </div>
-                <div class="navmenu">
+
+            
+            <div class="hidden md:flex md:flex-row items-center justify-between w-full">
+                <div class="navmenu flex space-x-8 relative">
                     
-                    <a href="/"
-                        class="no-underline duration-200 block mt-4 sm:inline-block sm:mt-0 text-white hover:opacity-50 mr-4">
+                    
+                    
+                    <a href="/" class="text-white hover:opacity-80 whitespace-nowrap">
                         首页
                     </a>
                     
-                    <a href="/newgame/"
-                        class="no-underline duration-200 block mt-4 sm:inline-block sm:mt-0 text-white hover:opacity-50 mr-4">
-                        最新更新
-                    </a>
                     
-                    <a href="/switchgame/"
-                        class="no-underline duration-200 block mt-4 sm:inline-block sm:mt-0 text-white hover:opacity-50 mr-4">
+                    
+                    
+                    <a href="/switchgame/" class="text-white hover:opacity-80 whitespace-nowrap">
                         SWITCH游戏下载
                     </a>
                     
-                    <a href="/pcgame/"
-                        class="no-underline duration-200 block mt-4 sm:inline-block sm:mt-0 text-white hover:opacity-50 mr-4">
-                        PC游戏下载
+                    
+                    
+                    
+                    <a href="/ps4game/" class="text-white hover:opacity-80 whitespace-nowrap">
+                        PS4游戏下载
                     </a>
                     
-                    <a href="/tool/"
-                        class="no-underline duration-200 block mt-4 sm:inline-block sm:mt-0 text-white hover:opacity-50 mr-4">
-                        mod|金手指
+                    
+                    
+                    
+                    <a href="/course/" class="text-white hover:opacity-80 whitespace-nowrap">
+                        NS|PS教程
                     </a>
                     
-                    <a href="/gameinformation/"
-                        class="no-underline duration-200 block mt-4 sm:inline-block sm:mt-0 text-white hover:opacity-50 mr-4">
-                        最新资讯
-                    </a>
                     
-                    <a href="/about/"
-                        class="no-underline duration-200 block mt-4 sm:inline-block sm:mt-0 text-white hover:opacity-50 mr-4">
+                    
+                    
+                    <a href="/about/" class="text-white hover:opacity-80 whitespace-nowrap">
                         关于本站
                     </a>
                     
-                    <a href="/search/"
-                        class="no-underline duration-200 block mt-4 sm:inline-block sm:mt-0 text-white hover:opacity-50 mr-4">
+                    
+                    
+                    
+                    <a href="/search/" class="text-white hover:opacity-80 whitespace-nowrap">
                         搜索
                     </a>
                     
+                    
                 </div>
-                <div class="text-white invisible md:visible">
+            
+                
+                <div class="flex items-center text-white space-x-4">
                     <span>|</span>
-                    <button onclick="toggleDarkMode()" class="focus-visible:outline-none" aria-label="Darkmode Toggle Button"><i id="icon2"
-                            class="icon-moon hover:opacity-50 duration-200 inline-flex align-middle leading-normal text-lg ml-2"></i></button>
+                    <button onclick="toggleDarkMode()" class="focus:outline-none" aria-label="Darkmode Toggle">
+                        <i id="icon2" class="icon-moon hover:opacity-50 duration-200 text-lg"></i>
+                    </button>
                 </div>
             </div>
+            
+
+            
+            <div class="flex md:hidden">
+                <button onclick="toggleDarkMode()" class="focus:outline-none mr-2 text-white" aria-label="Darkmode Toggle">
+                    <i id="icon" class="icon-moon text-lg"></i>
+                </button>
+                <button id="hamburgerbtn" class="text-white" aria-label="Hamburger Button">
+                    <i class="icon-menu text-2xl"></i>
+                </button>
+            </div>
         </nav>
+
+        
+        <div id="mobileMenu" class="hidden md:hidden bg-gray-800 text-white p-4">
+            <ul class="space-y-2">
+                
+                <li>
+                    <a href="/" class="block hover:opacity-80">首页</a>
+                </li>
+                
+                <li>
+                    <a href="/switchgame/" class="block hover:opacity-80">SWITCH游戏下载</a>
+                </li>
+                
+                <li>
+                    <a href="/ps4game/" class="block hover:opacity-80">PS4游戏下载</a>
+                </li>
+                
+                <li>
+                    <a href="/course/" class="block hover:opacity-80">NS|PS教程</a>
+                </li>
+                
+                <li>
+                    <a href="/about/" class="block hover:opacity-80">关于本站</a>
+                </li>
+                
+                <li>
+                    <a href="/search/" class="block hover:opacity-80">搜索</a>
+                </li>
+                
+            </ul>
+        </div>
     </div>
 </div>
+
 <style>
-    .active {
-        display: block;
+     
+    .navmenu {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 1rem;  
+        position: relative;  
+        margin-left: auto;  
+    }
+
+     
+    .navmenu > a,
+    .navmenu > .relative {
+        margin-right: 0.5rem;  
+    }
+
+     
+    .relative .absolute {
+        position: absolute;  
+        top: 100%;  
+        left: 0;  
+        z-index: 50;  
+    }
+
+    .relative .Flexbox  {
+        position: absolute;  
+        top: 95%;  
+        left: 318px;  
+        z-index: 50;  
+    }
+
+    .relative .hidden {
+        display: none;  
+    }
+
+    .group:hover .hidden {
+        display: flex;  
+    }
+
+    .absolute {
+        min-width: 200px;  
+        max-width: 300px;  
+    }
+
+    .absolute > a {
+        padding: 0.5rem 1rem;  
+        text-align: left;  
+    }
+
+     
+    .whitespace-nowrap {
+        white-space: nowrap;  
     }
 </style>
 
 <script>
     let hamburger = document.getElementById('hamburgerbtn');
-
     let mobileMenu = document.getElementById('mobileMenu');
 
     hamburger.addEventListener('click', function () {
-        mobileMenu.classList.toggle('active');
+        mobileMenu.classList.toggle('hidden');
     });
 </script>
 <div class="container max-w-screen-xl mx-auto mt-4 flex-grow px-5 lg:px-0" id="content">
@@ -147,7 +237,7 @@
     
     
     
-    <a href="/switchgame/switch_fitness-boxing-1&#43;2/">
+    <a href="/switchgame/switch_asteroids-recharged/">
       <div
     class="bg-white w-full p-3 lg:max-w-full lg:flex mt-5 transform hover:-translate-y-1 hover:shadow-md duration-500 dark:bg-warmgray-900">
     
@@ -155,81 +245,27 @@
     
     <img alt="thumbnail" id="thumb"
         class="object-cover w-full h-48"
-        src="/img/37364925.JPG" />
+        src="/img/20241125181427.jpg" />
     
     
     <div class="relative pl-4 p-2 justify-between leading-normal max-w-full w-full">
-        <div class="text-gray-900 font-bold text-xl mb-2 dark:text-white">Switch 健身拳击1&#43;2[1.1.1&#43;1.2.0|XCI]</div>
-        <p class="text-gray-700 text-base pb-5 dark:text-gray-300">游戏名称：健身拳击 1&#43;2
-Fitness Boxing 1&#43;2 游戏语言：中文
-首发日期：2018年12月20日
-解压密码：wing515
-是否有金手指：否
-版本：1.1.1&#43;1.2.0
-容量：...</p>
-        <p class="text-sm text-gray-600 absolute items-center right-0 bottom-0 dark:text-gray-400">
-            <time><span class="icon-access_time mr-1"></span>2024/10/30</time>
-        </p>
-    </div>
-</div>
-
-    </a>
-    
-    <a href="/switchgame/switch_fitness-boxing-feat-hatsune-miku-exercise-with-miku/">
-      <div
-    class="bg-white w-full p-3 lg:max-w-full lg:flex mt-5 transform hover:-translate-y-1 hover:shadow-md duration-500 dark:bg-warmgray-900">
-    
-    
-    
-    <img alt="thumbnail" id="thumb"
-        class="object-cover w-full h-48"
-        src="/img/2fece64b.webp" />
-    
-    
-    <div class="relative pl-4 p-2 justify-between leading-normal max-w-full w-full">
-        <div class="text-gray-900 font-bold text-xl mb-2 dark:text-white">Switch 健身拳击feat. 初音未来[1.0.1|XCI]</div>
-        <p class="text-gray-700 text-base pb-5 dark:text-gray-300">游戏名称：健身拳击feat. 初音未来
-Fitness Boxing feat HATSUNE MIKU Exercise with Miku 游戏语言：中文
-首发日期： 2024年7月12日
-解压密码：wing515&lt;...</p>
-        <p class="text-sm text-gray-600 absolute items-center right-0 bottom-0 dark:text-gray-400">
-            <time><span class="icon-access_time mr-1"></span>2024/10/30</time>
-        </p>
-    </div>
-</div>
-
-    </a>
-    
-    <a href="/switchgame/switch_ring-fit-adventure/">
-      <div
-    class="bg-white w-full p-3 lg:max-w-full lg:flex mt-5 transform hover:-translate-y-1 hover:shadow-md duration-500 dark:bg-warmgray-900">
-    
-    
-    
-    <img alt="thumbnail" id="thumb"
-        class="object-cover w-full h-48"
-        src="/img/e0vfetznra.jpeg" />
-    
-    
-    <div class="relative pl-4 p-2 justify-between leading-normal max-w-full w-full">
-        <div class="text-gray-900 font-bold text-xl mb-2 dark:text-white">Switch 健身环大冒险[1.2|XCI]</div>
-        <p class="text-gray-700 text-base pb-5 dark:text-gray-300">游戏名称：健身环大冒险
-Ring Fit Adventure 游戏语言：中文
-首发日期：2019年10月18日
+        <div class="text-gray-900 font-bold text-xl mb-2 dark:text-white">Switch 小行星：充能版[1.0.3|XCI]</div>
+        <p class="text-gray-700 text-base pb-5 dark:text-gray-300">游戏名称：小行星充能版
+Asteroids Recharged 游戏语言：中文
+首发日期：2021年12月14日
 解压密码：wing515
 是否有金手指：是
-版本：1.2
-容量：3.3G
-&lt;...</p>
-        <p class="text-sm text-gray-600 absolute items-center right-0 bottom-0 dark:text-gray-400">
-            <time><span class="icon-access_time mr-1"></span>2024/10/30</time>
+版本：1.0.3
+容量：436M...</p>
+        
+        <p class="text-sm text-gray-600 dark:text-gray-400 Flexbox right-4 bottom-4">
+            <time><span class="icon-access_time mr-1"></span>2024/11/25</time>
         </p>
     </div>
 </div>
-
     </a>
     
-    <a href="/switchgame/switch_olliolli--1&#43;2/">
+    <a href="/switchgame/switch_little-dragons-caf%C3%A9/">
       <div
     class="bg-white w-full p-3 lg:max-w-full lg:flex mt-5 transform hover:-translate-y-1 hover:shadow-md duration-500 dark:bg-warmgray-900">
     
@@ -237,28 +273,28 @@ Ring Fit Adventure 游戏语言：中文
     
     <img alt="thumbnail" id="thumb"
         class="object-cover w-full h-48"
-        src="/img/20241106183611.jpg" />
+        src="/img/20241125181416.jpg" />
     
     
     <div class="relative pl-4 p-2 justify-between leading-normal max-w-full w-full">
-        <div class="text-gray-900 font-bold text-xl mb-2 dark:text-white">Switch 像素滑板1&#43;2[1.2.0&#43;1.0.1|4DLC|XCI]</div>
-        <p class="text-gray-700 text-base pb-5 dark:text-gray-300">游戏名称：像素滑板 1&#43;2
-OlliOlli 1&#43;2 游戏语言：中文
-首发日期：2019年02月13日
+        <div class="text-gray-900 font-bold text-xl mb-2 dark:text-white">Switch 小龙咖啡馆[1.0.2|XCI]</div>
+        <p class="text-gray-700 text-base pb-5 dark:text-gray-300">游戏名称：小龙咖啡馆
+Little Dragons Café 游戏语言：中文
+首发日期：2018年08月24日
 解压密码：wing515
 是否有金手指：否
 版本：无
-容量：1.1G&#43;5.2G
-&lt;...</p>
-        <p class="text-sm text-gray-600 absolute items-center right-0 bottom-0 dark:text-gray-400">
-            <time><span class="icon-access_time mr-1"></span>2024/10/30</time>
+容量：682M
+...</p>
+        
+        <p class="text-sm text-gray-600 dark:text-gray-400 Flexbox right-4 bottom-4">
+            <time><span class="icon-access_time mr-1"></span>2024/11/25</time>
         </p>
     </div>
 </div>
-
     </a>
     
-    <a href="/switchgame/switch_brothers--a-tale-of-two-sons/">
+    <a href="/switchgame/switch_phantom-breaker-battle-grounds-overdriveomnia/">
       <div
     class="bg-white w-full p-3 lg:max-w-full lg:flex mt-5 transform hover:-translate-y-1 hover:shadow-md duration-500 dark:bg-warmgray-900">
     
@@ -266,24 +302,79 @@ OlliOlli 1&#43;2 游戏语言：中文
     
     <img alt="thumbnail" id="thumb"
         class="object-cover w-full h-48"
-        src="/img/20241106183548.jpg" />
+        src="/img/20241125181335.jpg" />
     
     
     <div class="relative pl-4 p-2 justify-between leading-normal max-w-full w-full">
-        <div class="text-gray-900 font-bold text-xl mb-2 dark:text-white">Switch 兄弟：双子传说[1.0.1|XCI]</div>
-        <p class="text-gray-700 text-base pb-5 dark:text-gray-300">游戏名称：兄弟：双子传说
-Brothers A Tale of Two Sons 游戏语言：中文
-首发日期：2019年05月28日
-解压密码：wing515
-是否有金手指：否
-版本：无
-容量：3...</p>
-        <p class="text-sm text-gray-600 absolute items-center right-0 bottom-0 dark:text-gray-400">
-            <time><span class="icon-access_time mr-1"></span>2024/10/30</time>
+        <div class="text-gray-900 font-bold text-xl mb-2 dark:text-white">Switch 幻象破灭者合集[全最新版本|全DLC|XCI]</div>
+        <p class="text-gray-700 text-base pb-5 dark:text-gray-300">游戏名称：幻象破灭者 战斗乐园&amp;Omnia
+Phantom Breaker Battle Grounds Overdrive&amp;Omnia 游戏语言：中文
+首发日期：2017年12月06日
+解压密码：win...</p>
+        
+        <p class="text-sm text-gray-600 dark:text-gray-400 Flexbox right-4 bottom-4">
+            <time><span class="icon-access_time mr-1"></span>2024/11/25</time>
         </p>
     </div>
 </div>
-
+    </a>
+    
+    <a href="/switchgame/switch_strange-brigade/">
+      <div
+    class="bg-white w-full p-3 lg:max-w-full lg:flex mt-5 transform hover:-translate-y-1 hover:shadow-md duration-500 dark:bg-warmgray-900">
+    
+    
+    
+    <img alt="thumbnail" id="thumb"
+        class="object-cover w-full h-48"
+        src="/img/20241125181320.jpg" />
+    
+    
+    <div class="relative pl-4 p-2 justify-between leading-normal max-w-full w-full">
+        <div class="text-gray-900 font-bold text-xl mb-2 dark:text-white">Switch 异域奇兵[1.03&#43;DLC|XCI]</div>
+        <p class="text-gray-700 text-base pb-5 dark:text-gray-300">游戏名称：异域奇兵
+Strange Brigade 游戏语言：中文
+首发日期：2021年06月15日
+解压密码：wing515
+是否有金手指：是
+版本：1.0.3
+容量：7.4G
+&lt;...</p>
+        
+        <p class="text-sm text-gray-600 dark:text-gray-400 Flexbox right-4 bottom-4">
+            <time><span class="icon-access_time mr-1"></span>2024/11/25</time>
+        </p>
+    </div>
+</div>
+    </a>
+    
+    <a href="/switchgame/switch_astronite/">
+      <div
+    class="bg-white w-full p-3 lg:max-w-full lg:flex mt-5 transform hover:-translate-y-1 hover:shadow-md duration-500 dark:bg-warmgray-900">
+    
+    
+    
+    <img alt="thumbnail" id="thumb"
+        class="object-cover w-full h-48"
+        src="/img/20241125181349.jpg" />
+    
+    
+    <div class="relative pl-4 p-2 justify-between leading-normal max-w-full w-full">
+        <div class="text-gray-900 font-bold text-xl mb-2 dark:text-white">Switch 异星宇航员[1.0.3|XCI]</div>
+        <p class="text-gray-700 text-base pb-5 dark:text-gray-300">游戏名称：异星宇航员
+Astronite 游戏语言：英语
+首发日期：2022年11月30日
+解压密码：wing515
+是否有金手指：是
+版本：1.0.3
+容量：138M
+...</p>
+        
+        <p class="text-sm text-gray-600 dark:text-gray-400 Flexbox right-4 bottom-4">
+            <time><span class="icon-access_time mr-1"></span>2024/11/25</time>
+        </p>
+    </div>
+</div>
     </a>
     
     
@@ -935,6 +1026,166 @@ Brothers A Tale of Two Sons 游戏语言：中文
         
             
         
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
 
         
         <li class="page-item"><a href="/page/227/" rel="next" class="mx-2 py-3 px-5 rounded-full relative block border-white border-0 duration-100  bg-white text-blue-600 hover:bg-gray-400 hover:text-blue-700 dark:bg-warmgray-900 dark:border-gray-600 dark:hover:bg-warmgray-700">下一页</a></li>
@@ -942,7 +1193,7 @@ Brothers A Tale of Two Sons 游戏语言：中文
 
         
         
-        <li class="page-item"><a href="/page/309/" rel="last" class="mx-2 py-3 px-5 rounded-full relative block border-white border-0 duration-100 bg-white text-blue-600 hover:bg-gray-400 hover:text-blue-700 dark:bg-warmgray-900 dark:border-gray-600 dark:hover:bg-warmgray-700">最后一页</a></li>
+        <li class="page-item"><a href="/page/389/" rel="last" class="mx-2 py-3 px-5 rounded-full relative block border-white border-0 duration-100 bg-white text-blue-600 hover:bg-gray-400 hover:text-blue-700 dark:bg-warmgray-900 dark:border-gray-600 dark:hover:bg-warmgray-700">最后一页</a></li>
         
     </ul>
 </nav>
@@ -967,59 +1218,125 @@ Brothers A Tale of Two Sons 游戏语言：中文
         
             
             <div class="bg-white panel mb-3 pb-5 dark:bg-warmgray-900">
-    <p class="text-xl text-center text-gray-700 py-3 px-3 dark:text-gray-300 font-bold">Archives</p>
+    <p class="text-xl text-center text-gray-700 py-3 px-3 dark:text-gray-300 font-bold">更新记录</p>
     
+    
+     
+    
+         
+         
+    
+         
+         
+    
+         
+         
+    
+         
+         
+    
+         
+         
+    
+         
+         
+    
+         
+         
+    
+         
+         
+    
+         
+         
+    
+         
+         
+    
+         
+         
+    
+         
+         
+    
+         
+         
+    
+         
+         
+    
+         
+         
+    
+         
+         
+    
+         
+         
+    
+         
+         
+    
+         
+         
+    
+         
+         
+    
+         
+         
+    
+         
+         
+    
+         
+         
+    
+     
+     
     
     <a class="text-center block duration-100 py-2 px-4 mx-4 hover:bg-gray-100 text-gray-800 dark:text-gray-200 dark:hover:bg-warmgray-800"
-        href="http://localhost:1313//archives/2024/09/30">2024/09/30 (18)</a>
+        href="http://localhost:1313//archives/2025/02/10">2025/02/10 (100)</a>
+     
     
     <a class="text-center block duration-100 py-2 px-4 mx-4 hover:bg-gray-100 text-gray-800 dark:text-gray-200 dark:hover:bg-warmgray-800"
-        href="http://localhost:1313//archives/2024/10/08">2024/10/08 (4)</a>
+        href="http://localhost:1313//archives/2025/01/24">2025/01/24 (100)</a>
+     
     
     <a class="text-center block duration-100 py-2 px-4 mx-4 hover:bg-gray-100 text-gray-800 dark:text-gray-200 dark:hover:bg-warmgray-800"
-        href="http://localhost:1313//archives/2024/10/15">2024/10/15 (2)</a>
+        href="http://localhost:1313//archives/2025/01/20">2025/01/20 (100)</a>
+     
     
     <a class="text-center block duration-100 py-2 px-4 mx-4 hover:bg-gray-100 text-gray-800 dark:text-gray-200 dark:hover:bg-warmgray-800"
-        href="http://localhost:1313//archives/2024/10/16">2024/10/16 (4)</a>
+        href="http://localhost:1313//archives/2025/01/15">2025/01/15 (100)</a>
+     
     
     <a class="text-center block duration-100 py-2 px-4 mx-4 hover:bg-gray-100 text-gray-800 dark:text-gray-200 dark:hover:bg-warmgray-800"
-        href="http://localhost:1313//archives/2024/10/17">2024/10/17 (14)</a>
+        href="http://localhost:1313//archives/2025/01/13">2025/01/13 (100)</a>
+     
     
     <a class="text-center block duration-100 py-2 px-4 mx-4 hover:bg-gray-100 text-gray-800 dark:text-gray-200 dark:hover:bg-warmgray-800"
-        href="http://localhost:1313//archives/2024/10/30">2024/10/30 (413)</a>
+        href="http://localhost:1313//archives/2025/01/02">2025/01/02 (99)</a>
+     
     
     <a class="text-center block duration-100 py-2 px-4 mx-4 hover:bg-gray-100 text-gray-800 dark:text-gray-200 dark:hover:bg-warmgray-800"
-        href="http://localhost:1313//archives/2024/11/20">2024/11/20 (200)</a>
+        href="http://localhost:1313//archives/2024/12/31">2024/12/31 (100)</a>
+     
     
     <a class="text-center block duration-100 py-2 px-4 mx-4 hover:bg-gray-100 text-gray-800 dark:text-gray-200 dark:hover:bg-warmgray-800"
-        href="http://localhost:1313//archives/2024/11/22">2024/11/22 (99)</a>
+        href="http://localhost:1313//archives/2024/12/18">2024/12/18 (100)</a>
+     
     
     <a class="text-center block duration-100 py-2 px-4 mx-4 hover:bg-gray-100 text-gray-800 dark:text-gray-200 dark:hover:bg-warmgray-800"
-        href="http://localhost:1313//archives/2024/11/25">2024/11/25 (100)</a>
-    
-    <a class="text-center block duration-100 py-2 px-4 mx-4 hover:bg-gray-100 text-gray-800 dark:text-gray-200 dark:hover:bg-warmgray-800"
-        href="http://localhost:1313//archives/2024/12/02">2024/12/02 (100)</a>
-    
-    <a class="text-center block duration-100 py-2 px-4 mx-4 hover:bg-gray-100 text-gray-800 dark:text-gray-200 dark:hover:bg-warmgray-800"
-        href="http://localhost:1313//archives/2024/12/03">2024/12/03 (100)</a>
-    
-    <a class="text-center block duration-100 py-2 px-4 mx-4 hover:bg-gray-100 text-gray-800 dark:text-gray-200 dark:hover:bg-warmgray-800"
-        href="http://localhost:1313//archives/2024/12/09">2024/12/09 (92)</a>
+        href="http://localhost:1313//archives/2024/12/13">2024/12/13 (100)</a>
+     
     
     <a class="text-center block duration-100 py-2 px-4 mx-4 hover:bg-gray-100 text-gray-800 dark:text-gray-200 dark:hover:bg-warmgray-800"
         href="http://localhost:1313//archives/2024/12/11">2024/12/11 (100)</a>
     
-    <a class="text-center block duration-100 py-2 px-4 mx-4 hover:bg-gray-100 text-gray-800 dark:text-gray-200 dark:hover:bg-warmgray-800"
-        href="http://localhost:1313//archives/2024/12/13">2024/12/13 (100)</a>
-    
-    <a class="text-center block duration-100 py-2 px-4 mx-4 hover:bg-gray-100 text-gray-800 dark:text-gray-200 dark:hover:bg-warmgray-800"
-        href="http://localhost:1313//archives/2024/12/18">2024/12/18 (100)</a>
-    
-    <a class="text-center block duration-100 py-2 px-4 mx-4 hover:bg-gray-100 text-gray-800 dark:text-gray-200 dark:hover:bg-warmgray-800"
-        href="http://localhost:1313//archives/2024/12/31">2024/12/31 (100)</a>
-    
     
 </div>
+
         
             
             
@@ -1138,66 +1455,65 @@ Brothers A Tale of Two Sons 游戏语言：中文
             
 
 <div class="bg-white panel mb-3 pb-5 dark:bg-warmgray-900">
-    <p class="text-xl text-center text-gray-700 py-5 dark:text-gray-300 font-bold">Recent Posts</p>
+    <p class="text-xl text-center text-gray-700 py-5 dark:text-gray-300 font-bold">最近更新</p>
     <div class="mx-6">
-        <a href="/switchgame/switch_olympic-games-tokyo-2020/" class="">
+        <a href="/switchgame/switch_1000xresist/" class="">
             <div
                 class="w-full block mt-3 bg-white hover:bg-gray-100 duration-200 dark:bg-warmgray-900 dark:text-gray-200 dark:hover:bg-warmgray-800">
                 <div class="px-2">
-                    <div class="text-gray-900 font-bold text-xl dark:text-white">Switch 2020 东京奥运会[1.0.8|XCI]</div>
+                    <div class="text-gray-900 font-bold text-xl dark:text-white">Switch 1000X回溯[1.0.3|XCI]</div>
                     <p class="text-sm text-gray-600 flex items-center pb-1 dark:text-gray-400">
-                        <time><span class="icon-access_time mr-1"></span>2024/12/31</time>
+                        <time><span class="icon-access_time mr-1"></span>2025/01/20</time>
                     </p>
                 </div>
             </div>
         </a>
-        <a href="/switchgame/switch_unrailed/" class="">
+        <a href="/switchgame/switch_39-days-to-mars/" class="">
             <div
                 class="w-full block mt-3 bg-white hover:bg-gray-100 duration-200 dark:bg-warmgray-900 dark:text-gray-200 dark:hover:bg-warmgray-800">
                 <div class="px-2">
-                    <div class="text-gray-900 font-bold text-xl dark:text-white">Switch 一起开火车！[1.1.2|XCI]</div>
+                    <div class="text-gray-900 font-bold text-xl dark:text-white">Switch 39天到火星[1.0|XCI]</div>
                     <p class="text-sm text-gray-600 flex items-center pb-1 dark:text-gray-400">
-                        <time><span class="icon-access_time mr-1"></span>2024/12/31</time>
+                        <time><span class="icon-access_time mr-1"></span>2025/01/20</time>
                     </p>
                 </div>
             </div>
         </a>
-        <a href="/switchgame/switch_seven-nights-ghost/" class="">
+        <a href="/switchgame/switch_japanese-mahjongg/" class="">
             <div
                 class="w-full block mt-3 bg-white hover:bg-gray-100 duration-200 dark:bg-warmgray-900 dark:text-gray-200 dark:hover:bg-warmgray-800">
                 <div class="px-2">
-                    <div class="text-gray-900 font-bold text-xl dark:text-white">Switch 七夜幽灵[1.0|XCI]</div>
+                    <div class="text-gray-900 font-bold text-xl dark:text-white">Switch HANDY麻将[1.0|XCI]</div>
                     <p class="text-sm text-gray-600 flex items-center pb-1 dark:text-gray-400">
-                        <time><span class="icon-access_time mr-1"></span>2024/12/31</time>
+                        <time><span class="icon-access_time mr-1"></span>2025/01/20</time>
                     </p>
                 </div>
             </div>
         </a>
-        <a href="/switchgame/switch_tokyo-xanadu-ex&#43;/" class="">
+        <a href="/switchgame/switch_kamaeru-a-frog-refuge/" class="">
             <div
                 class="w-full block mt-3 bg-white hover:bg-gray-100 duration-200 dark:bg-warmgray-900 dark:text-gray-200 dark:hover:bg-warmgray-800">
                 <div class="px-2">
-                    <div class="text-gray-900 font-bold text-xl dark:text-white">Switch 东京幻都 eX＋[1.0|XCI]</div>
+                    <div class="text-gray-900 font-bold text-xl dark:text-white">Switch Kamaeru: 世蛙桃源[1.0|XCI]</div>
                     <p class="text-sm text-gray-600 flex items-center pb-1 dark:text-gray-400">
-                        <time><span class="icon-access_time mr-1"></span>2024/12/31</time>
+                        <time><span class="icon-access_time mr-1"></span>2025/01/20</time>
                     </p>
                 </div>
             </div>
         </a>
-        <a href="/switchgame/switch_touhou-luna-nights/" class="">
+        <a href="/switchgame/switch_klap/" class="">
             <div
                 class="w-full block mt-3 bg-white hover:bg-gray-100 duration-200 dark:bg-warmgray-900 dark:text-gray-200 dark:hover:bg-warmgray-800">
                 <div class="px-2">
-                    <div class="text-gray-900 font-bold text-xl dark:text-white">Switch 东方月神夜[1.0.5|XCI]</div>
+                    <div class="text-gray-900 font-bold text-xl dark:text-white">Switch KLAP!! ~ 爱与惩罚 ~[1.0|XCI]</div>
                     <p class="text-sm text-gray-600 flex items-center pb-1 dark:text-gray-400">
-                        <time><span class="icon-access_time mr-1"></span>2024/12/31</time>
+                        <time><span class="icon-access_time mr-1"></span>2025/01/20</time>
                     </p>
                 </div>
             </div>
         </a>
     </div>
 </div>
-
         
     
 </div>
@@ -1208,7 +1524,7 @@ Brothers A Tale of Two Sons 游戏语言：中文
         </div><footer class="bg-blue-400 text-white p-6">
   
   <div class="container max-w-screen-xl mr-auto ml-auto">
-    <p>&copy; 2024 <a href="http://localhost:1313/" class="duration-200 hover:opacity-50">Blonde</a>
+    <p>&copy; 2025 <a href="http://localhost:1313/" class="duration-200 hover:opacity-50">Blonde</a>
     </p>
     <p>Powered by <a href="https://gohugo.io/" class="duration-200 hover:opacity-50">Hugo</a>, Theme <a
         href="https://github.com/opera7133/Blonde" class="duration-200 hover:opacity-50">Blonde</a>.</p>

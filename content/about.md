@@ -1,25 +1,47 @@
 +++
-title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+date = "2025-02-11"
 +++
+## 关于本站  
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+欢迎来到 **[散月的星空]**，这是一个专为玩家打造的非盈利性网站，旨在为广大爱好者提供一个自由交流和获取信息的平台。
 
-Hugo makes use of a variety of open source projects including:
+我们不以商业盈利为目的这里汇聚了各种精彩内容，让每一位访客都能找到属于自己的乐趣。  
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+### **网站特色**  
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+🔹 **丰富的内容**：提供多种类型的娱乐资源，满足不同兴趣的用户需求。  
+🔹 **极致的体验**：简洁美观的页面设计，快速流畅的访问体验，让每次浏览都更加顺畅。  
+🔹 **深度的解析**：精心整理各种信息，让用户能够深入了解不同作品的魅力。  
+🔹 **安全与可靠**：所有内容均经过严格筛选，致力于打造一个优质的在线环境。  
+🔹 **免费开放**：所有内容均可自由访问，无需付费或注册即可获取所需信息。 
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+### **我们的愿景**  
+本站希望成为广大爱好者的聚集地，在这里，你不仅能找到感兴趣的内容，还能结识志同道合的朋友。我们不断优化和完善，只为带来更好的访问体验。  
 
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+感谢您的到来，祝您玩得开心，收获满满的乐趣！✨
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+## **免责声明**  
+
+**[散月的星空]**（以下简称“本站”）是一个个人网站，旨在提供相关信息与交流平台。访问和使用本站即表示您已阅读并同意以下条款：  
+
+#### **1. 信息来源与准确性**  
+本站所有内容均来自互联网整理、用户分享或个人撰写，仅供参考和学习交流使用。本站不保证所有信息的完整性、准确性或实时性，用户需自行判断其适用性。  
+
+#### **2. 知识产权声明**  
+本站尊重知识产权，所有内容的版权归原作者或相关权利人所有。如您认为本站的某些内容侵犯了您的合法权益，请及时联系我们，我们将在核实后进行处理。  
+
+#### **3. 访问与使用风险**  
+用户在访问本站或下载、使用相关资料时，应自行评估可能存在的风险。本站不对因使用本站内容所产生的任何直接或间接损失负责，包括但不限于数据丢失、系统故障或其他不可预见的情况。  
+
+#### **4. 责任限制**  
+本站仅作为信息展示与交流平台，不对任何因使用本站内容而产生的法律纠纷或责任承担任何连带责任。用户应遵守所在国家或地区的相关法律法规，合理使用本站内容。  
+
+#### **5. 外部链接**  
+本站可能包含第三方网站的链接，仅为方便用户提供相关信息。本站无法控制这些网站的内容或行为，因此不对其合法性、准确性、安全性承担责任。  
+
+#### **6. 免责条款的修改**  
+本站保留随时修改或更新本免责声明的权利，修改后的内容将即时生效，用户应定期查阅并遵守最新条款。  
+
+如有任何疑问或需投诉，请通过 **[shine_rb@163.com]** 与我们取得联系，我们将尽快处理相关事宜。  
+
+感谢您的理解与支持！
