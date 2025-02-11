@@ -79,11 +79,6 @@
           {{ end }}
         </div>
       </div>
-      <div class="bg-white dark:bg-warmgray-900 p-5 my-4">
-        <div class="mb-3">
-          {{ template "_internal/disqus.html" . }}
-        </div>
-      </div>
     </div>
     {{ if .Site.Params.widgets.display }}
     {{ partial "widgets.html" . }}

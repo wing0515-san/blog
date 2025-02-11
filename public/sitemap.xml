@@ -2,10 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/about/</loc>
+    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2025-02-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/archives/2025/02/10/</loc>
+    <lastmod>2025-02-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/archives/</loc>
     <lastmod>2025-02-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/ps4game/ps4_fate-samurai-remnant/</loc>
@@ -7055,9 +7061,6 @@
     <loc>http://localhost:1313/switchgame/switcth_%E9%A9%AC%E9%87%8C%E5%A5%A5%E5%92%8C%E7%B4%A2%E5%B0%BC%E5%85%8B%E5%9C%A82020%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E4%BC%9A/</loc>
     <lastmod>2024-09-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/archives/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/archives/2019/03/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
@@ -7079,14 +7082,6 @@
     <loc>http://localhost:1313/course/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/contact/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/search/</loc>
   </url>
 </urlset>
