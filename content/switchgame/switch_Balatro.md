@@ -6,7 +6,7 @@ image: "/img/20241030154315.png"
 draft: false
 date: 2024-10-30
 description: "Switch 巴拉特罗"
-tags: ["中文","益智","桌面","肉鸽"]
+tags: [中文, 益智, 桌面, 肉鸽]
 archives: ["2024/10/30"]
 
 ---

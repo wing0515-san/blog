@@ -6,7 +6,7 @@ image: "/img/006aa1020.webp"
 draft: false
 date: 2024-10-30
 description: "Switch 邪恶铭刻"
-tags: ["中文","卡牌","策略","肉鸽"]
+tags: [中文, 卡牌, 策略, 肉鸽]
 archives: ["2024/10/30"]
 
 ---

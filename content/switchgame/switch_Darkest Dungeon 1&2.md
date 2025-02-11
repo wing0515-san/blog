@@ -6,7 +6,7 @@ image: "/img/202410291107.jpg"
 draft: false
 date: 2024-10-30
 description: "Switch 暗黑地牢1&2"
-tags: ["中文","冒险","策略","肉鸽"]
+tags: [中文, 冒险, 策略, 肉鸽]
 archives: ["2024/10/30"]
 
 ---

@@ -6,7 +6,7 @@ image: "/img/20241030165600.png"
 draft: false
 date: 2024-10-30
 description: "Switch 哈迪斯"
-tags: ["中文","动作","肉鸽"]
+tags: [中文, 动作, 肉鸽]
 archives: ["2024/10/30"]
 
 ---

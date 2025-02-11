@@ -6,7 +6,7 @@ image: "/img/20241030160341.png"
 draft: false
 date: 2024-10-30
 description: "Switch 铲子骑士系列"
-tags: ["中文","动作","肉鸽"]
+tags: [中文, 动作, 肉鸽]
 archives: ["2024/10/30"]
 
 ---

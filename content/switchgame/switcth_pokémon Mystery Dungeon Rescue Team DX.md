@@ -5,12 +5,7 @@ image: "/img/5b4ea37f5866822f.jpg"
 draft: false
 date: 2024-10-17
 description: "Switch 宝可梦不可思议的迷宫救助队DX"
-tags: [
-    "角色扮演",
-    "冒险",
-    "中文",
-    "肉鸽",
-]
+tags: [角色扮演, 冒险, 中文, 肉鸽]
 archives: ["2024/10/17"]
 
 ---

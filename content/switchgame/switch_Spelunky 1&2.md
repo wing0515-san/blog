@@ -6,7 +6,7 @@ image: "/img/20241029175431.png"
 draft: false
 date: 2024-10-30
 description: "Switch 洞窟探险 1&2"
-tags: ["中文","平台","动作","肉鸽"]
+tags: [中文, 平台, 动作, 肉鸽]
 archives: ["2024/10/30"]
 
 ---

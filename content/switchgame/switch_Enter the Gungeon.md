@@ -6,7 +6,7 @@ image: "/img/20241030093023.png"
 draft: false
 date: 2024-10-30
 description: "Switch 挺进地牢"
-tags: ["中文","肉鸽","射击","多人"]
+tags: [中文, 肉鸽, 射击, 多人]
 archives: ["2024/10/30"]
 
 ---
