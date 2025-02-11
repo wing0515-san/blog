@@ -6,7 +6,7 @@ image: "/img/20241206172859.jpg"
 draft: false
 date: 2024-12-09
 description: "Switch 深渊狂猎"
-tags: [动作，平台，roguelike，角色扮演，中文]
+tags: [动作，平台，肉鸽，角色扮演，中文]
 archives: ["2024/12/09"]
 
 ---

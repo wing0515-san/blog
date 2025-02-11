@@ -6,7 +6,7 @@ image: "/img/20241108180238.jpg"
 draft: false
 date: 2024-11-20
 description: "Switch 迪托之剑"
-tags: [冒险, 动作, 多人, 街机, 解谜, roguelike, 角色扮演, 中文]
+tags: [冒险, 动作, 多人, 街机, 解谜, 肉鸽, 角色扮演, 中文]
 archives: ["2024/11/20"]
 
 ---

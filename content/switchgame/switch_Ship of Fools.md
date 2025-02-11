@@ -6,7 +6,7 @@ image: "/img/20241119145544.jpg"
 draft: false
 date: 2024-11-20
 description: "Switch 同舟共济"
-tags: [冒险, 动作, 多人, roguelike, 派对,中文]
+tags: [冒险, 动作, 多人, 肉鸽, 派对,中文]
 archives: ["2024/11/20"]
 
 ---

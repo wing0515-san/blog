@@ -6,7 +6,7 @@ image: "/img/20250103145729.jpg"
 draft: false
 date: 2025-01-13
 description: "Switch 禁忌试炼"
-tags: [冒险, 动作, 策略, roguelike, 角色扮演, 中文]
+tags: [冒险, 动作, 策略, 肉鸽, 角色扮演, 中文]
 archives: ["2025/01/13"]
 
 ---

@@ -6,7 +6,7 @@ image: "/img/20250210104129.jpg"
 draft: false
 date: 2025-02-10
 description: "PS4 咩咩启示录"
-tags: [动作,冒险,模拟,roguelike,中文]
+tags: [动作,冒险,模拟,肉鸽,中文]
 archives: ["2025/02/10"]
 
 ---

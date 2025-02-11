@@ -6,7 +6,7 @@ image: "/img/20241106183545.jpg"
 draft: false
 date: 2024-10-30
 description: "Switch 祝你好死"
-tags: ["动作", "平台", roguelike, "中文"]
+tags: ["动作", "平台", 肉鸽, "中文"]
 archives: ["2024/10/30"]
 
 ---

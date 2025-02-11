@@ -6,7 +6,7 @@ image: "/img/20241101165919.jpg"
 draft: false
 date: 2024-10-30
 description: "Switch 神鸭特攻"
-tags: ["像素", "射击", "多人", roguelike, "角色扮演","中文"]
+tags: ["像素", "射击", "多人", 肉鸽, "角色扮演","中文"]
 archives: ["2024/10/30"]
 
 ---

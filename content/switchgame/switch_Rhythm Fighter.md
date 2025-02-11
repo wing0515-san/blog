@@ -6,7 +6,7 @@ image: "/img/20241125181424.jpg"
 draft: false
 date: 2024-11-25
 description: "Switch 节奏快打"
-tags: [冒险, 动作, 音乐, 格斗, roguelike, 中文]
+tags: [冒险, 动作, 音乐, 格斗, 肉鸽, 中文]
 archives: ["2024/11/25"]
 
 ---

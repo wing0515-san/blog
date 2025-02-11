@@ -6,7 +6,7 @@ image: "/img/20241213100457.jpg"
 draft: false
 date: 2024-12-13
 description: "Switch 雨中冒险 1+2+归来"
-tags: [冒险, 动作, 射击, 多人, roguelike, 中文]
+tags: [冒险, 动作, 射击, 多人, 肉鸽, 中文]
 archives: ["2024/12/13"]
 
 ---

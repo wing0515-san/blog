@@ -6,7 +6,7 @@ image: "/img/20241119145643.jpg"
 draft: false
 date: 2024-11-20
 description: "Switch 灾厄逆刃"
-tags: [像素, 动作, 射击, 街机, 格斗, 平台, roguelike,中文]
+tags: [像素, 动作, 射击, 街机, 格斗, 平台, 肉鸽,中文]
 archives: ["2024/11/20"]
 
 ---

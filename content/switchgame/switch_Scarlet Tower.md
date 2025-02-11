@@ -6,7 +6,7 @@ image: "/img/20250115103426.jpg"
 draft: false
 date: 2025-01-15
 description: "Switch 猩红之塔"
-tags: [冒险, 像素, 动作, 街机, roguelike, 角色扮演, 中文]
+tags: [冒险, 像素, 动作, 街机, 肉鸽, 角色扮演, 中文]
 archives: ["2025/01/15"]
 
 ---

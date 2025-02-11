@@ -6,7 +6,7 @@ image: "/img/20241119145656.jpg"
 draft: false
 date: 2024-11-20
 description: "Switch 永恒空间:恒星版EVERSPACE - StellarEdition"
-tags: [动作, 射击, 街机, roguelike,中文]
+tags: [动作, 射击, 街机, 肉鸽,中文]
 archives: ["2024/11/20"]
 
 ---

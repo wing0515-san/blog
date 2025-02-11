@@ -6,7 +6,7 @@ image: "/img/20241231172222.jpg"
 draft: false
 date: 2025-01-02
 description: "Switch 黎明前20分钟"
-tags: [冒险, 像素, 动作, 射击, 街机, roguelike, 中文]
+tags: [冒险, 像素, 动作, 射击, 街机, 肉鸽, 中文]
 archives: ["2025/01/02"]
 
 ---

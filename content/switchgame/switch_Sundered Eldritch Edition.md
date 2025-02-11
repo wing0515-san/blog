@@ -6,7 +6,7 @@ image: "/img/20241108180146.jpg"
 draft: false
 date: 2024-11-20
 description: "Switch 支离破碎 灵魂版"
-tags: [冒险, 动作, 多人, 平台, roguelike, 角色扮演, 中文]
+tags: [冒险, 动作, 多人, 平台, 肉鸽, 角色扮演, 中文]
 archives: ["2024/11/20"]
 
 ---

@@ -6,7 +6,7 @@ image: "/img/20241106183649.jpg"
 draft: false
 date: 2024-10-30
 description: "Switch 不思议的皇冠"
-tags: ["冒险", "策略", roguelike, "角色扮演", "中文"]
+tags: ["冒险", "策略", 肉鸽, "角色扮演", "中文"]
 archives: ["2024/10/30"]
 
 ---

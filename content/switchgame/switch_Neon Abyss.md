@@ -6,7 +6,7 @@ image: "/img/20241106183634.jpg"
 draft: false
 date: 2024-10-30
 description: "Switch 霓虹深渊"
-tags: ["像素", "动作", "射击", "平台", roguelike, "中文"]
+tags: ["像素", "动作", "射击", "平台", 肉鸽, "中文"]
 archives: ["2024/10/30"]
 
 ---

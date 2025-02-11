@@ -6,7 +6,7 @@ image: "/img/20250123173222.jpg"
 draft: false
 date: 2025-01-24
 description: "PS4 哈迪斯"
-tags: [动作，冒险，角色扮演，roguelike, 中文]
+tags: [动作，冒险，角色扮演，肉鸽, 中文]
 archives: ["2025/01/24"]
 
 ---

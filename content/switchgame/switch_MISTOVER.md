@@ -6,7 +6,7 @@ image: "/img/20241206172945.jpg"
 draft: false
 date: 2024-12-09
 description: "Switch 漩涡迷雾"
-tags: [冒险，策略，模拟，roguelike，角色扮演，中文]
+tags: [冒险，策略，模拟，肉鸽，角色扮演，中文]
 archives: ["2024/12/09"]
 
 ---

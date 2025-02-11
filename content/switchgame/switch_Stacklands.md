@@ -6,7 +6,7 @@ image: "/img/20250103145634.jpg"
 draft: false
 date: 2025-01-13
 description: "Switch 堆叠大陆"
-tags: [桌面, 冒险, 策略, 模拟, roguelike, 中文]
+tags: [桌面, 冒险, 策略, 模拟, 肉鸽, 中文]
 archives: ["2025/01/13"]
 
 ---

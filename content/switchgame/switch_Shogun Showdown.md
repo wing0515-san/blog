@@ -6,7 +6,7 @@ image: "/img/20241231172111.jpg"
 draft: false
 date: 2025-01-02
 description: "Switch 将军对决"
-tags: [像素, 策略, roguelike, 中文]
+tags: [像素, 策略, 肉鸽, 中文]
 archives: ["2025/01/02"]
 
 ---

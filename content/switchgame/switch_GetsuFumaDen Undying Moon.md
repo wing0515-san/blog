@@ -6,7 +6,7 @@ image: "/img/20241206172913.jpg"
 draft: false
 date: 2024-12-09
 description: "Switch 月风魔传：不朽之月"
-tags: [动作，roguelike，中文]
+tags: [动作，肉鸽，中文]
 archives: ["2024/12/09"]
 
 ---

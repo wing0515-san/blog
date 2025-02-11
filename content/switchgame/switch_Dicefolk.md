@@ -6,7 +6,7 @@ image: "/img/20250117151329.jpg"
 draft: false
 date: 2025-01-20
 description: "Switch 神骰传说"
-tags: [策略, roguelike, 角色扮演, 中文]
+tags: [策略, 肉鸽, 角色扮演, 中文]
 archives: ["2025/01/20"]
 
 ---

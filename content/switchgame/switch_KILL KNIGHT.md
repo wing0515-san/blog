@@ -6,7 +6,7 @@ image: "/img/20241231172126.jpg"
 draft: false
 date: 2025-01-02
 description: "Switch 射戮骑士"
-tags: [动作, 射击, roguelike, 中文]
+tags: [动作, 射击, 肉鸽, 中文]
 archives: ["2025/01/02"]
 
 ---

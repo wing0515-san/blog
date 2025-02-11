@@ -6,7 +6,7 @@ image: "/img/20241231172157.jpg"
 draft: false
 date: 2025-01-02
 description: "Switch 猎魂者：无限战斗"
-tags: [冒险, 动作, 街机, roguelike, 角色扮演, 中文]
+tags: [冒险, 动作, 街机, 肉鸽, 角色扮演, 中文]
 archives: ["2025/01/02"]
 
 ---

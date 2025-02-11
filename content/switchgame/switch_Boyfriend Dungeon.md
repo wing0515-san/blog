@@ -6,7 +6,7 @@ image: "/img/20241125181418.jpg"
 draft: false
 date: 2024-11-25
 description: "Switch 男友地下城"
-tags: [冒险, 动作, 模拟, roguelike, 角色扮演, 中文]
+tags: [冒险, 动作, 模拟, 肉鸽, 角色扮演, 中文]
 archives: ["2024/11/25"]
 
 ---

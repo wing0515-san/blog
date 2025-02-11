@@ -6,7 +6,7 @@ image: "/img/20250123173344.jpg"
 draft: false
 date: 2025-01-24
 description: "PS4 邪恶冥刻"
-tags: [策略，冒险，roguelike, 中文]
+tags: [策略，冒险，肉鸽, 中文]
 archives: ["2025/01/24"]
 
 ---

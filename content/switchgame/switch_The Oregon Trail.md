@@ -6,7 +6,7 @@ image: "/img/20241119145632.jpg"
 draft: false
 date: 2024-11-20
 description: "Switch 俄勒冈之旅"
-tags: [冒险, 像素, 模拟, roguelike,中文]
+tags: [冒险, 像素, 模拟, 肉鸽,中文]
 archives: ["2024/11/20"]
 
 ---

@@ -6,7 +6,7 @@ image: "/img/20241125181336.jpg"
 draft: false
 date: 2024-11-25
 description: "Switch 机械少女"
-tags: [动作, roguelike, 角色扮演, 中文]
+tags: [动作, 肉鸽, 角色扮演, 中文]
 archives: ["2024/11/25"]
 
 ---

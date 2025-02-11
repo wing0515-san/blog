@@ -6,7 +6,7 @@ image: "/img/20241101135722.jpg"
 draft: false
 date: 2024-10-30
 description: "Switch 英勇无厌"
-tags: ["冒险","像素","动作","多人","平台",roguelike,"中文"]
+tags: ["冒险","像素","动作","多人","平台",肉鸽,"中文"]
 archives: ["2024/10/30"]
 
 ---

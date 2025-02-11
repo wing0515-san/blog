@@ -6,7 +6,7 @@ image: "/img/20250103145718.jpg"
 draft: false
 date: 2025-01-13
 description: "Switch 吸血鬼猎人"
-tags: [冒险, 动作, 射击, 街机, roguelike, 中文]
+tags: [冒险, 动作, 射击, 街机, 肉鸽, 中文]
 archives: ["2025/01/13"]
 
 ---

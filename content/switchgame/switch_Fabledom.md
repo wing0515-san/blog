@@ -6,7 +6,7 @@ image: "/img/20241213100449.jpg"
 draft: false
 date: 2024-12-13
 description: "Switch 寓言之地"
-tags: [策略, 模拟, roguelike, 中文]
+tags: [策略, 模拟, 肉鸽, 中文]
 archives: ["2024/12/13"]
 
 ---

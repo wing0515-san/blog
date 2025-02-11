@@ -6,7 +6,7 @@ image: "/img/20241125181352.jpg"
 draft: false
 date: 2024-11-25
 description: "Switch 火星岩洞充能版"
-tags: [动作, 射击, 街机, roguelike, 派对, 中文]
+tags: [动作, 射击, 街机, 肉鸽, 派对, 中文]
 archives: ["2024/11/25"]
 
 ---

@@ -6,7 +6,7 @@ image: "/img/20241206172958.jpg"
 draft: false
 date: 2024-12-09
 description: "Switch 又一个地牢1+2"
-tags: [像素，动作，roguelike，角色扮演，中文]
+tags: [像素，动作，肉鸽，角色扮演，中文]
 archives: ["2024/12/09"]
 
 ---

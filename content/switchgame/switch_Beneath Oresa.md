@@ -6,7 +6,7 @@ image: "/img/20250115103518.jpg"
 draft: false
 date: 2025-01-15
 description: "Switch 奥雷萨之下"
-tags: [桌游, 策略, roguelike, 角色扮演, 中文]
+tags: [桌游, 策略, 肉鸽, 角色扮演, 中文]
 archives: ["2025/01/15"]
 
 ---

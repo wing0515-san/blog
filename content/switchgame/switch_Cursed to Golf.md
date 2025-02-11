@@ -6,7 +6,7 @@ image: "/img/20241106183652.jpg"
 draft: false
 date: 2024-10-30
 description: "Switch 诅咒高尔夫"
-tags: ["体育", "像素", "街机", "解谜", roguelike, "中文"]
+tags: ["体育", "像素", "街机", "解谜", 肉鸽, "中文"]
 archives: ["2024/10/30"]
 
 ---

@@ -6,7 +6,7 @@ image: "/img/20241226094520.jpg"
 draft: false
 date: 2024-12-31
 description: "Switch 斩妖 Raksasi"
-tags: [冒险, 动作, roguelike, 中文]
+tags: [冒险, 动作, 肉鸽, 中文]
 archives: ["2024/12/31"]
 
 ---

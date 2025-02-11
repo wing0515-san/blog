@@ -6,7 +6,7 @@ image: "/img/20241129202805.jpg"
 draft: false
 date: 2024-12-02
 description: "Switch 孤墟"
-tags: [像素, 动作, 射击, roguelike, 中文]
+tags: [像素, 动作, 射击, 肉鸽, 中文]
 archives: ["2024/12/02"]
 
 ---

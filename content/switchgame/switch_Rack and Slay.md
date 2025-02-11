@@ -6,7 +6,7 @@ image: "/img/20241231172047.jpg"
 draft: false
 date: 2025-01-02
 description: "Switch 杀戮台球"
-tags: [动作, 策略, 街机, 解谜, roguelike, 角色扮演, 中文]
+tags: [动作, 策略, 街机, 解谜, 肉鸽, 角色扮演, 中文]
 archives: ["2025/01/02"]
 
 ---

@@ -6,7 +6,7 @@ image: "/img/20250103145628.jpg"
 draft: false
 date: 2025-01-13
 description: "Switch 进击战士酱！"
-tags: [动作, roguelike, 中文]
+tags: [动作, 肉鸽, 中文]
 archives: ["2025/01/13"]
 
 ---

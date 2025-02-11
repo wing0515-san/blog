@@ -6,7 +6,7 @@ image: "/img/20241213100437.jpg"
 draft: false
 date: 2024-12-13
 description: "Switch 天穹卡牌录"
-tags: [桌面, 策略, 模拟, 多人, roguelike, 角色扮演, 中文]
+tags: [桌面, 策略, 模拟, 多人, 肉鸽, 角色扮演, 中文]
 archives: ["2024/12/13"]
 
 ---

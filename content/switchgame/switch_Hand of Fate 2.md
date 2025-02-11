@@ -6,7 +6,7 @@ image: "/img/20241104114010.jpg"
 draft: false
 date: 2024-10-30
 description: "Switch 命运之手2"
-tags: ["桌面", "冒险", "动作", roguelike, "角色扮演","中文"]
+tags: ["桌面", "冒险", "动作", 肉鸽, "角色扮演","中文"]
 archives: ["2024/10/30"]
 
 ---

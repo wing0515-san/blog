@@ -6,7 +6,7 @@ image: "/img/20241213100516.jpg"
 draft: false
 date: 2024-12-13
 description: "Switch 暖雪"
-tags: [动作, roguelike, 角色扮演, 中文]
+tags: [动作, 肉鸽, 角色扮演, 中文]
 archives: ["2024/12/13"]
 
 ---

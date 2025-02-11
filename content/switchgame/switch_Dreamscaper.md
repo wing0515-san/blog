@@ -6,7 +6,7 @@ image: "/img/20241104114048.jpg"
 draft: false
 date: 2024-10-30
 description: "Switch 层层梦境"
-tags: ["冒险", "动作", "模拟", roguelike, "角色扮演","中文"]
+tags: ["冒险", "动作", "模拟", 肉鸽, "角色扮演","中文"]
 archives: ["2024/10/30"]
 
 ---

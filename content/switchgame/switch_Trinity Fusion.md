@@ -6,7 +6,7 @@ image: "/img/20241231172104.jpg"
 draft: false
 date: 2025-01-02
 description: "Switch 三位一体融合"
-tags: [动作, 格斗, 平台, roguelike, 角色扮演, 中文]
+tags: [动作, 格斗, 平台, 肉鸽, 角色扮演, 中文]
 archives: ["2025/01/02"]
 
 ---

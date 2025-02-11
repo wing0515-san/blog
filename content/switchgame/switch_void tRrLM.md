@@ -6,7 +6,7 @@ image: "/img/20241125181338.jpg"
 draft: false
 date: 2024-11-25
 description: "Switch 真空饲育箱"
-tags: [roguelike, 角色扮演, 中文]
+tags: [肉鸽, 角色扮演, 中文]
 archives: ["2024/11/25"]
 
 ---

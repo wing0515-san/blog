@@ -6,7 +6,7 @@ image: "/img/20241128131354.jpg"
 draft: false
 date: 2024-12-03
 description: "Switch 不可思议的幻想乡 TOD RELOADED&莲花迷宫"
-tags: [roguelike, 角色扮演, 中文]
+tags: [肉鸽, 角色扮演, 中文]
 archives: ["2024/12/03"]
 
 ---

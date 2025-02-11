@@ -6,7 +6,7 @@ image: "/img/20250117151358.jpg"
 draft: false
 date: 2025-01-20
 description: "Switch 圣铠：冰魂"
-tags: [冒险, 策略, roguelike, 角色扮演, 中文]
+tags: [冒险, 策略, 肉鸽, 角色扮演, 中文]
 archives: ["2025/01/20"]
 
 ---

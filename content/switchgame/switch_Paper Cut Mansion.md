@@ -6,7 +6,7 @@ image: "/img/20241210182321.jpg"
 draft: false
 date: 2024-12-11
 description: "Switch 剪纸大厦"
-tags: [冒险, 动作, 解谜, roguelike, 中文]
+tags: [冒险, 动作, 解谜, 肉鸽, 中文]
 archives: ["2024/12/11"]
 
 ---

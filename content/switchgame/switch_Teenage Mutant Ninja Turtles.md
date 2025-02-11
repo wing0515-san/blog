@@ -6,7 +6,7 @@ image: "/img/20241213100447.jpg"
 draft: false
 date: 2024-12-13
 description: "Switch 忍者神龟合集"
-tags: [冒险, 动作, 多人, 格斗, roguelike, 派对, 中文]
+tags: [冒险, 动作, 多人, 格斗, 肉鸽, 派对, 中文]
 archives: ["2024/12/13"]
 
 ---

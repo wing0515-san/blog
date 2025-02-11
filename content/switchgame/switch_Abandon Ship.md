@@ -6,7 +6,7 @@ image: "/img/20250117151410.jpg"
 draft: false
 date: 2025-01-20
 description: "Switch 弃船"
-tags: [冒险, 动作, 策略, roguelike, 中文]
+tags: [冒险, 动作, 策略, 肉鸽, 中文]
 archives: ["2025/01/20"]
 
 ---

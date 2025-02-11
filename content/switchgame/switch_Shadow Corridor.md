@@ -6,7 +6,7 @@ image: "/img/20241206173016.jpg"
 draft: false
 date: 2024-12-09
 description: "Switch 影之回廊1+2"
-tags: [冒险，动作，解谜，roguelike，角色扮演，中文]
+tags: [冒险，动作，解谜，肉鸽，角色扮演，中文]
 archives: ["2024/12/09"]
 
 ---

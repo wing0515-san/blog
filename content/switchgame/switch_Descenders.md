@@ -6,7 +6,7 @@ image: "/img/20241125181339.jpg"
 draft: false
 date: 2024-11-25
 description: "Switch 降速王者"
-tags: [体育, 模拟, 多人, 街机, 竞速, roguelike, 中文]
+tags: [体育, 模拟, 多人, 街机, 竞速, 肉鸽, 中文]
 archives: ["2024/11/25"]
 
 ---

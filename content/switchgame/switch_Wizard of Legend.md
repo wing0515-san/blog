@@ -6,7 +6,7 @@ image: "/img/20241121104144.jpg"
 draft: false
 date: 2024-11-22
 description: "Switch 传说法师"
-tags: [冒险, 动作, 街机, roguelike,中文]
+tags: [冒险, 动作, 街机, 肉鸽,中文]
 archives: ["2024/11/22"]
 
 ---

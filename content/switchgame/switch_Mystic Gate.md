@@ -6,7 +6,7 @@ image: "/img/20241125181341.jpg"
 draft: false
 date: 2024-11-25
 description: "Switch 神秘之门"
-tags: [像素, 动作, 射击, roguelike, 派对, 中文]
+tags: [像素, 动作, 射击, 肉鸽, 派对, 中文]
 archives: ["2024/11/25"]
 
 ---

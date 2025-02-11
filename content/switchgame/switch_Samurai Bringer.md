@@ -6,7 +6,7 @@ image: "/img/20241226094640.jpg"
 draft: false
 date: 2024-12-31
 description: "Switch 侍神大乱战"
-tags: [冒险, 动作, 街机, 解谜, roguelike, 角色扮演, 中文]
+tags: [冒险, 动作, 街机, 解谜, 肉鸽, 角色扮演, 中文]
 archives: ["2024/12/31"]
 
 ---

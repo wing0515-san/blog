@@ -6,7 +6,7 @@ image: "/img/20250115103525.jpg"
 draft: false
 date: 2025-01-15
 description: "Switch 星际通量"
-tags: [冒险, 像素, 动作, 射击, 街机, 平台, roguelike, 中文]
+tags: [冒险, 像素, 动作, 射击, 街机, 平台, 肉鸽, 中文]
 archives: ["2025/01/15"]
 
 ---

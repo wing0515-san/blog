@@ -6,7 +6,7 @@ image: "/img/20241129202849.jpg"
 draft: false
 date: 2024-12-02
 description: "Switch 凯旋堡"
-tags: [策略, roguelike, 派对, 角色扮演, 中文]
+tags: [策略, 肉鸽, 派对, 角色扮演, 中文]
 archives: ["2024/12/02"]
 
 ---

@@ -6,7 +6,7 @@ image: "/img/202410281148.png"
 draft: false
 date: 2024-10-30
 description: "Switch 吸血鬼幸存者"
-tags: ["中文","动作","像素","Roguelike"]
+tags: ["中文","动作","像素","肉鸽"]
 archives: ["2024/10/30"]
 
 ---

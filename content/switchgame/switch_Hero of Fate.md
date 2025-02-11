@@ -6,7 +6,7 @@ image: "/img/20250115103438.jpg"
 draft: false
 date: 2025-01-15
 description: "Switch 命运英雄"
-tags: [冒险, 像素, 动作, 策略, roguelike, 角色扮演, 中文]
+tags: [冒险, 像素, 动作, 策略, 肉鸽, 角色扮演, 中文]
 archives: ["2025/01/15"]
 
 ---

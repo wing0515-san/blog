@@ -6,7 +6,7 @@ image: "/img/20241119145700.jpg"
 draft: false
 date: 2024-11-20
 description: "Switch 20XX年"
-tags: [像素, 动作, 多人, 街机, 平台,中文]
+tags: [像素, 动作, 多人, 街机, 平台, 中文, 肉鸽]
 archives: ["2024/11/20"]
 
 ---
@@ -24,7 +24,7 @@ archives: ["2024/11/20"]
 ![图片1](/img/a3cd3e.jpg)![图片2](/img/bb0f90.jpg)![图片3](/img/307de9.jpg)  
 
 游戏简介  
-Nintendo Switch上的《20XX》是一款由Batterystaple Games开发的 roguelike 动作平台游戏，以下是游戏的一些特色和信息：
+Nintendo Switch上的《20XX》是一款由Batterystaple Games开发的 肉鸽 动作平台游戏，以下是游戏的一些特色和信息：
 
 游戏玩法：
 
@@ -38,7 +38,7 @@ Nintendo Switch上的《20XX》是一款由Batterystaple Games开发的 roguelik
 包含多种不同的游戏模式和可选的难度修改器。
 提供了种子化的每日和每周挑战。
 所有游戏功能在单人和合作模式中都可用（在线或本地）。
-roguelike元素：
+肉鸽元素：
 
 随机关卡：每次玩《20XX》时，玩家所经历的关卡都是全新的。
 永久死亡：每次《20XX》的游戏都是一个独立的生命周期。死亡会将玩家送回总部，玩家可以在那里购买强大的升级，以备未来的运行。

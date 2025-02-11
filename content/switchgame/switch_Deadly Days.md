@@ -6,7 +6,7 @@ image: "/img/20241217091553.jpg"
 draft: false
 date: 2024-12-18
 description: "Switch 致命时日"
-tags: [像素, 动作, 策略, 射击, 街机, roguelike, 角色扮演, 中文]
+tags: [像素, 动作, 策略, 射击, 街机, 肉鸽, 角色扮演, 中文]
 archives: ["2024/12/18"]
 
 ---

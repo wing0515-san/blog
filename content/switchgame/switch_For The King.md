@@ -6,7 +6,7 @@ image: "/img/20241108180129.jpg"
 draft: false
 date: 2024-11-20
 description: "Switch 为了吾王"
-tags: [桌游, 冒险, 策略, 多人, roguelike, 派对, 角色扮演, 中文]
+tags: [桌游, 冒险, 策略, 多人, 肉鸽, 派对, 角色扮演, 中文]
 archives: ["2024/11/20"]
 
 ---

@@ -6,7 +6,7 @@ image: "/img/20241030112755.png"
 draft: false
 date: 2024-10-30
 description: "Switch 盗贼遗产 1&2"
-tags: ["中文","动作","Roguelike","平台"]
+tags: ["中文","动作","肉鸽","平台"]
 archives: ["2024/10/30"]
 
 ---

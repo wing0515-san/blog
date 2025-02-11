@@ -6,7 +6,7 @@ image: "/img/20250115103412.jpg"
 draft: false
 date: 2025-01-15
 description: "Switch 元能失控"
-tags: [动作, 多人, roguelike, 派对, 中文]
+tags: [动作, 多人, 肉鸽, 派对, 中文]
 archives: ["2025/01/15"]
 
 ---

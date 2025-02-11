@@ -6,7 +6,7 @@ image: "/img/20241101135715.jpg"
 draft: false
 date: 2024-10-30
 description: "Switch 千变的迷宫风来的西林 5+6"
-tags: [roguelike, "角色扮演","中文"]
+tags: [肉鸽, "角色扮演","中文"]
 archives: ["2024/10/30"]
 
 ---

@@ -6,7 +6,7 @@ image: "/img/20241226094534.jpg"
 draft: false
 date: 2024-12-31
 description: "Switch 恶棍英雄"
-tags: [动作, 射击, 多人, 平台, roguelike, 派对, 角色扮演, 中文]
+tags: [动作, 射击, 多人, 平台, 肉鸽, 派对, 角色扮演, 中文]
 archives: ["2024/12/31"]
 
 ---

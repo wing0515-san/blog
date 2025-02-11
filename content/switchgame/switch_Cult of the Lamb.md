@@ -6,7 +6,7 @@ image: "/img/20241104114017.jpg"
 draft: false
 date: 2024-10-30
 description: "Switch 咩咩启示录"
-tags: ["冒险", "动作", "策略", roguelike,"中文"]
+tags: ["冒险", "动作", "策略", 肉鸽,"中文"]
 archives: ["2024/10/30"]
 
 ---

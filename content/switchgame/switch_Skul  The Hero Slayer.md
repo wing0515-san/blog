@@ -6,7 +6,7 @@ image: "/img/20241106183628.jpg"
 draft: false
 date: 2024-10-30
 description: "Switch 小骨：英雄杀手"
-tags: ["像素", "动作", roguelike, "中文"]
+tags: ["像素", "动作", 肉鸽, "中文"]
 archives: ["2024/10/30"]
 
 ---

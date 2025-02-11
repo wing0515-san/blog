@@ -6,7 +6,7 @@ image: "/img/20250117151315.jpg"
 draft: false
 date: 2025-01-20
 description: "Switch 畸形"
-tags: [冒险, 动作, roguelike, 中文, 恐怖]
+tags: [冒险, 动作, 肉鸽, 中文, 恐怖]
 archives: ["2025/01/20"]
 
 ---

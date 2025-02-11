@@ -6,7 +6,7 @@ image: "/img/202410291058.jpg"
 draft: false
 date: 2024-10-30
 description: "Switch 杀戮尖塔"
-tags: ["中文","卡牌","策略","Roguelike"]
+tags: ["中文","卡牌","策略","肉鸽"]
 archives: ["2024/10/30"]
 
 ---

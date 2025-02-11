@@ -6,7 +6,7 @@ image: "/img/20241128131221.jpg"
 draft: false
 date: 2024-12-03
 description: "Switch 星际幽灵"
-tags: [动作, 射击, 街机, roguelike, 中文]
+tags: [动作, 射击, 街机, 肉鸽, 中文]
 archives: ["2024/12/03"]
 
 ---

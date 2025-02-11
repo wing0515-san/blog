@@ -6,7 +6,7 @@ image: "/img/20241226094643.jpg"
 draft: false
 date: 2024-12-31
 description: "Switch 超级子弹突破"
-tags: [桌面, 冒险, 动作, 策略, 街机, roguelike, 中文]
+tags: [桌面, 冒险, 动作, 策略, 街机, 肉鸽, 中文]
 archives: ["2024/12/31"]
 
 ---

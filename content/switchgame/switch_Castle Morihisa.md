@@ -6,7 +6,7 @@ image: "/img/20241217091621.jpg"
 draft: false
 date: 2024-12-18
 description: "Switch 森久城物语"
-tags: [桌面, 冒险, 策略, roguelike, 角色扮演, 中文]
+tags: [桌面, 冒险, 策略, 肉鸽, 角色扮演, 中文]
 archives: ["2024/12/18"]
 
 ---

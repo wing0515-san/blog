@@ -6,7 +6,7 @@ image: "/img/20241128131305.jpg"
 draft: false
 date: 2024-12-03
 description: "Switch 暴君的祝福"
-tags: [冒险, 像素, 策略, 解谜, roguelike, 角色扮演, 中文]
+tags: [冒险, 像素, 策略, 解谜, 肉鸽, 角色扮演, 中文]
 archives: ["2024/12/03"]
 
 ---

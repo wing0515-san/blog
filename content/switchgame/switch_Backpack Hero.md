@@ -6,7 +6,7 @@ image: "/img/20250117151346.jpg"
 draft: false
 date: 2025-01-20
 description: "Switch 背包英雄"
-tags: [冒险, 像素, 策略, 解谜, 益智, roguelike, 角色扮演, 中文]
+tags: [冒险, 像素, 策略, 解谜, 益智, 肉鸽, 角色扮演, 中文]
 archives: ["2025/01/20"]
 
 ---

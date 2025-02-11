@@ -6,7 +6,7 @@ image: "/img/20241213100505.jpg"
 draft: false
 date: 2024-12-13
 description: "Switch 鬼谷八荒"
-tags: [动作, 策略, 模拟, roguelike, 角色扮演, 中文]
+tags: [动作, 策略, 模拟, 肉鸽, 角色扮演, 中文]
 archives: ["2024/12/13"]
 
 ---

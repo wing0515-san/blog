@@ -6,7 +6,7 @@ image: "/img/20241213100421.jpg"
 draft: false
 date: 2024-12-13
 description: "Switch 土豆兄弟"
-tags: [冒险, 动作, 射击, 街机, roguelike, 角色扮演, 中文]
+tags: [冒险, 动作, 射击, 街机, 肉鸽, 角色扮演, 中文]
 archives: ["2024/12/13"]
 
 ---

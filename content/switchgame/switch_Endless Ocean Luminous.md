@@ -6,7 +6,7 @@ image: "/img/20241210182242.jpg"
 draft: false
 date: 2024-12-11
 description: "Switch 永恒蔚蓝 流光"
-tags: [冒险, 模拟, 多人, roguelike, 中文]
+tags: [冒险, 模拟, 多人, 肉鸽, 中文]
 archives: ["2024/12/11"]
 
 ---

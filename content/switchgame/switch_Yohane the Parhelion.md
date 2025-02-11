@@ -6,7 +6,7 @@ image: "/img/20241226094611.jpg"
 draft: false
 date: 2024-12-31
 description: "Switch 幻日夜羽 蜃景努玛梓&湛海耀光"
-tags: [桌面, 策略, roguelike, 角色扮演, 中文]
+tags: [桌面, 策略, 肉鸽, 角色扮演, 中文]
 archives: ["2024/12/31"]
 
 ---

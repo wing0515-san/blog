@@ -6,7 +6,7 @@ image: "/img/20241231172045.jpg"
 draft: false
 date: 2025-01-02
 description: "Switch 地痞街区"
-tags: [冒险, 像素, 动作, 多人, roguelike, 派对, 角色扮演, 中文]
+tags: [冒险, 像素, 动作, 多人, 肉鸽, 派对, 角色扮演, 中文]
 archives: ["2025/01/02"]
 
 ---

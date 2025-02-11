@@ -6,7 +6,7 @@ image: "/img/20241101135719.jpg"
 draft: false
 date: 2024-10-30
 description: "Switch 欺诈之地"
-tags: ["策略", roguelike, "冒险","中文"]
+tags: ["策略", 肉鸽, "冒险","中文"]
 archives: ["2024/10/30"]
 
 ---

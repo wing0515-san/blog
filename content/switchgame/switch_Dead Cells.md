@@ -6,7 +6,7 @@ image: "/img/1686812498761.jfif"
 draft: false
 date: 2024-10-30
 description: "Switch 死亡细胞"
-tags: ["Roguelike","动作","中文"]
+tags: ["肉鸽","动作","中文"]
 archives: ["2024/10/30"]
 
 ---

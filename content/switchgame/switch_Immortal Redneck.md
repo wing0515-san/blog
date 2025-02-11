@@ -6,7 +6,7 @@ image: "/img/20241125181252.jpg"
 draft: false
 date: 2024-11-25
 description: "Switch 凡人不朽"
-tags: [家庭, 动作, 射击, roguelike, 角色扮演, 中文]
+tags: [家庭, 动作, 射击, 肉鸽, 角色扮演, 中文]
 archives: ["2024/11/25"]
 
 ---

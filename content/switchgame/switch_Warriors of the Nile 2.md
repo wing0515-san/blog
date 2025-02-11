@@ -6,7 +6,7 @@ image: "/img/20250103145604.jpg"
 draft: false
 date: 2025-01-13
 description: "Switch 尼罗河勇士2"
-tags: [策略, 模拟, roguelike, 角色扮演, 中文]
+tags: [策略, 模拟, 肉鸽, 角色扮演, 中文]
 archives: ["2025/01/13"]
 
 ---

@@ -6,7 +6,7 @@ image: "/img/20241231172109.jpg"
 draft: false
 date: 2025-01-02
 description: "Switch 高殿战记"
-tags: [桌面, 冒险, 策略, roguelike, 角色扮演, 中文]
+tags: [桌面, 冒险, 策略, 肉鸽, 角色扮演, 中文]
 archives: ["2025/01/02"]
 
 ---

@@ -6,7 +6,7 @@ image: "/img/20250115103453.jpg"
 draft: false
 date: 2025-01-15
 description: "Switch 爱丽丝与巨人"
-tags: [桌游, 冒险, 策略, roguelike, 角色扮演, 中文]
+tags: [桌游, 冒险, 策略, 肉鸽, 角色扮演, 中文]
 archives: ["2025/01/15"]
 
 ---

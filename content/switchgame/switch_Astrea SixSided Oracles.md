@@ -6,7 +6,7 @@ image: "/img/20241226094644.jpg"
 draft: false
 date: 2024-12-31
 description: "Switch 阿斯特赖亚：六面神谕"
-tags: [策略, roguelike, 角色扮演, 中文]
+tags: [策略, 肉鸽, 角色扮演, 中文]
 archives: ["2024/12/31"]
 
 ---

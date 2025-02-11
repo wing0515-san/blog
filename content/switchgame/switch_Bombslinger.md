@@ -6,7 +6,7 @@ image: "/img/20241119145555.jpg"
 draft: false
 date: 2024-11-20
 description: "Switch 西部快炸手"
-tags: [桌面, 像素, 动作, 策略, 射击, 街机, 格斗, roguelike, 派对, 角色扮演,中文]
+tags: [桌面, 像素, 动作, 策略, 射击, 街机, 格斗, 肉鸽, 派对, 角色扮演,中文]
 archives: ["2024/11/20"]
 
 ---

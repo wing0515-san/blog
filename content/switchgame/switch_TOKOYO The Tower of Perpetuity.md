@@ -6,7 +6,7 @@ image: "/img/20241121104208.jpg"
 draft: false
 date: 2024-11-22
 description: "Switch 常世之塔"
-tags: [像素, 动作, 平台, roguelike,中文]
+tags: [像素, 动作, 平台, 肉鸽,中文]
 archives: ["2024/11/22"]
 
 ---

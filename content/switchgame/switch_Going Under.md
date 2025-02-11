@@ -6,7 +6,7 @@ image: "/img/20250115103431.jpg"
 draft: false
 date: 2025-01-15
 description: "Switch 下行"
-tags: [独立, 动作, 格斗, roguelike, 角色扮演, 中文]
+tags: [独立, 动作, 格斗, 肉鸽, 角色扮演, 中文]
 archives: ["2025/01/15"]
 
 ---

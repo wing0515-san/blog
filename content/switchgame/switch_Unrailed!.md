@@ -6,7 +6,7 @@ image: "/img/20241226094556.jpg"
 draft: false
 date: 2024-12-31
 description: "Switch 一起开火车！"
-tags: [独立, 动作, 多人, 街机, roguelike, 派对, 中文]
+tags: [独立, 动作, 多人, 街机, 肉鸽, 派对, 中文]
 archives: ["2024/12/31"]
 
 ---

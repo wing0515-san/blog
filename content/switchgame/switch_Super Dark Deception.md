@@ -6,7 +6,7 @@ image: "/img/20250103145645.jpg"
 draft: false
 date: 2025-01-13
 description: "Switch 超级黑暗欺骗"
-tags: [冒险, 像素, 动作, 街机, 解谜, roguelike, 角色扮演, 中文, 恐怖]
+tags: [冒险, 像素, 动作, 街机, 解谜, 肉鸽, 角色扮演, 中文, 恐怖]
 archives: ["2025/01/13"]
 
 ---

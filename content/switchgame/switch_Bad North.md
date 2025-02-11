@@ -6,7 +6,7 @@ image: "/img/20241128131320.jpg"
 draft: false
 date: 2024-12-03
 description: "Switch 残酷北方"
-tags: [冒险, 动作, 策略, roguelike, 中文]
+tags: [冒险, 动作, 策略, 肉鸽, 中文]
 archives: ["2024/12/03"]
 
 ---

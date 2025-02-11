@@ -6,7 +6,7 @@ image: "/img/20241206172951.jpg"
 draft: false
 date: 2024-12-09
 description: "Switch RemiLore：少女与异世界与魔导书"
-tags: [冒险，动作，多人，roguelike，派对，角色扮演，中文]
+tags: [冒险，动作，多人，肉鸽，派对，角色扮演，中文]
 archives: ["2024/12/09"]
 
 ---

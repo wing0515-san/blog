@@ -6,7 +6,7 @@ image: "/img/20250123173236.jpg"
 draft: false
 date: 2025-01-24
 description: "PS4 空洞骑士"
-tags: [动作，冒险，平台，roguelike, 中文]
+tags: [动作，冒险，平台，肉鸽, 中文]
 archives: ["2025/01/24"]
 
 ---

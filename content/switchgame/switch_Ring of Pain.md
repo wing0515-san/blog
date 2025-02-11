@@ -6,7 +6,7 @@ image: "/img/20241121104157.jpg"
 draft: false
 date: 2024-11-22
 description: "Switch 苦痛之环"
-tags: [桌面, 冒险, 策略, roguelike, 角色扮演,中文]
+tags: [桌面, 冒险, 策略, 肉鸽, 角色扮演,中文]
 archives: ["2024/11/22"]
 
 ---

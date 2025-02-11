@@ -6,7 +6,7 @@ image: "/img/20241226094627.jpg"
 draft: false
 date: 2024-12-31
 description: "Switch 破门而入&行动小队"
-tags: [像素, 动作, 策略, 射击, 多人, 平台, roguelike, 中文]
+tags: [像素, 动作, 策略, 射击, 多人, 平台, 肉鸽, 中文]
 archives: ["2024/12/31"]
 
 ---

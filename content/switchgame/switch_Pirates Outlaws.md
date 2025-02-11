@@ -6,7 +6,7 @@ image: "/img/20241108180135.jpg"
 draft: false
 date: 2024-11-20
 description: "Switch 枪与香蕉"
-tags: [桌游, 冒险, 策略, 格斗, roguelike, 中文]
+tags: [桌游, 冒险, 策略, 格斗, 肉鸽, 中文]
 archives: ["2024/11/20"]
 
 ---
